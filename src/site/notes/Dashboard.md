@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dashboard/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/dashboard/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## Focus
