@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/knowledge/"}
+{"dg-publish":true,"permalink":"/knowledge/knowledge/","dgPassFrontmatter":true}
 ---
 
 | File                                                                                                                                                                            | Tags                         |
