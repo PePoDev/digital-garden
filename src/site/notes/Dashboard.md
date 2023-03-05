@@ -14,7 +14,3 @@
 - [Slides](Slides/Slides)
 - 🔒 [Financial](Financials/Financials)
 - 🔒 [Private Note](Notes/Private%20Notes)
-
-
-Tes image
-![Attachments/Pasted image 20230305163119.png](/img/user/Attachments/Pasted%20image%2020230305163119.png)
