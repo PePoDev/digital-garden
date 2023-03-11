@@ -2,11 +2,6 @@
 {"dg-publish":true,"dg-home":true,"permalink":"/dashboard/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-## Focus
-- AI / Recession
-- จัดสรรเวลา
-- พักผ่อนให้เพียงพอ / รักษาสุขภาพ / ออกกำลังกาย / ลดน้ำหนัก / เลิกเขย่าขา / คิดก่อนพูด
-- เรียน DDD พี่รูฟ / เรียน math for working programmer จาร์ยเดฟ
 ## Pages
 - [Opn](Work/Opn/Opn)
 - [Notes](Notes/Notes)
