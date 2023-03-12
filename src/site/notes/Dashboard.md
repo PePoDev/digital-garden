@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/dashboard/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/dashboard/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"📝"}
 ---
 
 ## Pages
