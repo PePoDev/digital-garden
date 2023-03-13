@@ -15,6 +15,7 @@
 | [[Knowledge/Business/Mutual Fund\|Mutual Fund]]                                                                                                                              | \-       |
 | [[Knowledge/Business/Start-up\|Start-up]]                                                                                                                                    | business |
 | [[Knowledge/Business/Tax\|Tax]]                                                                                                                                              | \-       |
+| [[Knowledge/Business/Business\|Business]]                                                                                                                                    | \-       |
 | [[Knowledge/English/Conversations\|Conversations]]                                                                                                                           | \-       |
 | [[Knowledge/English/English\|English]]                                                                                                                                       | \-       |
 | [[Knowledge/English/Link\|Link]]                                                                                                                                             | \-       |
