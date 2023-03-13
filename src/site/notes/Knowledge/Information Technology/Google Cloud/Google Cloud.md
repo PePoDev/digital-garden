@@ -6,6 +6,7 @@
 - https://partner.cloudskillsboost.google
 - https://www.cloudskillsboost.google/profile/paths
 - https://rsvp.withgoogle.com/events/partner-learning/google-cloud-certifications
+- https://cloud.google.com/products/calculator
 ## Certificates
 - [ ] Cloud Digital Leader
 - [ ] Associate Cloud Engineer
