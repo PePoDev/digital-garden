@@ -187,11 +187,19 @@ A secure, individual, private cloud-computing model hosted within a public cloud
 - Support to expand subnet without recreating instance
 - Can expand but not shrink
 - can convert from auto to custom mode
+
+![Attachments/Pasted image 20230312223219.png](/img/user/Attachments/Pasted%20image%2020230312223219.png)
+
+![Attachments/Pasted image 20230312223933.png](/img/user/Attachments/Pasted%20image%2020230312223933.png)
+
+
 #### Cloud External IP Addresses
 
-#### Cloud Router
+#### Cloud Routes
 
 Cloud Router lets other networks and Google VPC, exchange route information over the VPN using the Border Gateway Protocol. Using this method, if you add a new subnet to your Google VPC, your on-premises network will automatically get routes to it. But using the internet to connect networks isn't always the best option for everyone, either because of security concerns or because of bandwidth reliability.
+
+#### Cloud Firewall Rules
 
 #### Direct Peering
 
@@ -216,6 +224,10 @@ Provides connectivity between an on-premises network and a VPC network through a
 - Global TCP Proxy
 - Regional
 - Regional internal
+
+### Cloud DNS
+
+- 100% Uptime SLA
 
 ### Cloud Storage
 #### Features
