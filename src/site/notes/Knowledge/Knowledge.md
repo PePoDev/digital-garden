@@ -5,6 +5,7 @@
 
 | File                                                                                                                                                                            | Tags     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [[Knowledge/Business/Business\|Business]]                                                                                                                                    | \-       |
 | [[Knowledge/Business/DBA\|DBA]]                                                                                                                                              | \-       |
 | [[Knowledge/Business/Financial\|Financial]]                                                                                                                                  | \-       |
 | [[Knowledge/Business/ISO\|ISO]]                                                                                                                                              | \-       |
@@ -15,7 +16,6 @@
 | [[Knowledge/Business/Mutual Fund\|Mutual Fund]]                                                                                                                              | \-       |
 | [[Knowledge/Business/Start-up\|Start-up]]                                                                                                                                    | business |
 | [[Knowledge/Business/Tax\|Tax]]                                                                                                                                              | \-       |
-| [[Knowledge/Business/Business\|Business]]                                                                                                                                    | \-       |
 | [[Knowledge/English/Conversations\|Conversations]]                                                                                                                           | \-       |
 | [[Knowledge/English/English\|English]]                                                                                                                                       | \-       |
 | [[Knowledge/English/Link\|Link]]                                                                                                                                             | \-       |
@@ -26,8 +26,8 @@
 | [[Knowledge/Information Technology/Azure/Azure\|Azure]]                                                                                                                      | \-       |
 | [[Knowledge/Information Technology/Blockchain/Blockchain\|Blockchain]]                                                                                                       | \-       |
 | [[Knowledge/Information Technology/CAP Theorem\|CAP Theorem]]                                                                                                                | \-       |
-| [[Knowledge/Information Technology/DevOps/DevSecOps\|DevSecOps]]                                                                                                             | \-       |
 | [[Knowledge/Information Technology/DevOps/FinOps\|FinOps]]                                                                                                                   | \-       |
+| [[Knowledge/Information Technology/DevOps/DevSecOps\|DevSecOps]]                                                                                                             | \-       |
 | [[Knowledge/Information Technology/DevOps/SRE\|SRE]]                                                                                                                         | \-       |
 | [[Knowledge/Information Technology/Enterprise Architecture/TOGAF\|TOGAF]]                                                                                                    | \-       |
 | [[Knowledge/Information Technology/Google Cloud/Google Cloud\|Google Cloud]]                                                                                                 | \-       |
@@ -42,8 +42,8 @@
 | [[Knowledge/Information Technology/Programming Language/Golang\|Golang]]                                                                                                     | \-       |
 | [[Knowledge/Information Technology/Programming Language/Python\|Python]]                                                                                                     | \-       |
 | [[Knowledge/Information Technology/Programming Language/Rust\|Rust]]                                                                                                         | \-       |
-| [[Knowledge/Information Technology/Programming Language/TypeScript\|TypeScript]]                                                                                             | \-       |
 | [[Knowledge/Information Technology/Programming Language/Zig\|Zig]]                                                                                                           | \-       |
+| [[Knowledge/Information Technology/Programming Language/TypeScript\|TypeScript]]                                                                                             | \-       |
 | [[Knowledge/Information Technology/Security/SSRF\|SSRF]]                                                                                                                     | \-       |
 | [[Knowledge/Information Technology/Security/Threat Modeling/Attack Trees\|Attack Trees]]                                                                                     | \-       |
 | [[Knowledge/Information Technology/Security/Threat Modeling/CVSS\|CVSS]]                                                                                                     | \-       |
@@ -59,8 +59,8 @@
 | [[Knowledge/Information Technology/Security/Threat Modeling/VAST Modeling\|VAST Modeling]]                                                                                   | \-       |
 | [[Knowledge/Information Technology/Security/Threat Modeling/hTMM\|hTMM]]                                                                                                     | \-       |
 | [[Knowledge/Information Technology/Software Architecture/C4 model\|C4 model]]                                                                                                | \-       |
-| [[Knowledge/Information Technology/Version Control System/Untitled\|Untitled]]                                                                                               | \-       |
 | [[Knowledge/Information Technology/Version Control System/Git\|Git]]                                                                                                         | \-       |
+| [[Knowledge/Information Technology/Version Control System/Untitled\|Untitled]]                                                                                               | \-       |
 | [[Knowledge/Information Technology/Web/Web\|Web]]                                                                                                                            | \-       |
 | [[Knowledge/Knowledge\|Knowledge]]                                                                                                                                           | \-       |
 | [[Knowledge/Presentation/Presentation\|Presentation]]                                                                                                                        | \-       |
