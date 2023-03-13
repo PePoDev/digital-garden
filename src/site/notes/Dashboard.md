@@ -3,8 +3,8 @@
 ---
 
 ## Pages
-- [Notes](Notes/Notes)
-- [Knowledge](Knowledge/Knowledge)
+- [Notes](./Notes/Notes)
+- [Knowledge](./Knowledge/Knowledge)
 - [Slides](Slides/Slides)
 - [Opn](Work/Opn/Opn)
 - 🔒 [Financial](Financials/Financials)
