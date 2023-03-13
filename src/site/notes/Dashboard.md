@@ -3,9 +3,9 @@
 ---
 
 ## Pages
-- [Opn](Work/Opn/Opn)
 - [Notes](Notes/Notes)
 - [Knowledge](Knowledge/Knowledge)
 - [Slides](Slides/Slides)
+- [Opn](Work/Opn/Opn)
 - 🔒 [Financial](Financials/Financials)
 - 🔒 [Private Note](Notes/Private%20Notes)
