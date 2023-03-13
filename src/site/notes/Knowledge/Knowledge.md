@@ -62,18 +62,17 @@
 | [[Knowledge/Information Technology/Version Control System/Untitled\|Untitled]]                                                                                               | \-       |
 | [[Knowledge/Information Technology/Version Control System/Git\|Git]]                                                                                                         | \-       |
 | [[Knowledge/Information Technology/Web/Web\|Web]]                                                                                                                            | \-       |
+| [[Knowledge/Information Technology/Domain Driven Design\|Domain Driven Design]]                                                                                              | \-       |
 | [[Knowledge/Knowledge\|Knowledge]]                                                                                                                                           | \-       |
 | [[Knowledge/Presentation/Presentation\|Presentation]]                                                                                                                        | \-       |
 | [[Knowledge/Soft-skill/10 ways to have a better conversation\|10 ways to have a better conversation]]                                                                        | \-       |
 | [[Knowledge/Soft-skill/Agile\|Agile]]                                                                                                                                        | \-       |
 | [[Knowledge/Soft-skill/Data-Informed Design\|Data-Informed Design]]                                                                                                          | \-       |
 | [[Knowledge/Soft-skill/Design Thinking\|Design Thinking]]                                                                                                                    | \-       |
-| [[Knowledge/Soft-skill/Domain Driven Design\|Domain Driven Design]]                                                                                                          | \-       |
 | [[Knowledge/Soft-skill/Emotional intelligence\|Emotional intelligence]]                                                                                                      | \-       |
 | [[Knowledge/Soft-skill/General in Life\|General in Life]]                                                                                                                    | \-       |
 | [[Knowledge/Soft-skill/Google Sheet\|Google Sheet]]                                                                                                                          | \-       |
 | [[Knowledge/Soft-skill/Ikigai\|Ikigai]]                                                                                                                                      | \-       |
-| [[Knowledge/Soft-skill/Motivate\|Motivate]]                                                                                                                                  | \-       |
 | [[Knowledge/Soft-skill/Negotiation\|Negotiation]]                                                                                                                            | \-       |
 | [[Knowledge/Soft-skill/Photography\|Photography]]                                                                                                                            | \-       |
 | [[Knowledge/Soft-skill/Project Management\|Project Management]]                                                                                                              | \-       |
