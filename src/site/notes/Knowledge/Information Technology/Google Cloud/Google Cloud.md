@@ -7,6 +7,7 @@
 - https://www.cloudskillsboost.google/profile/paths
 - https://rsvp.withgoogle.com/events/partner-learning/google-cloud-certifications
 - https://cloud.google.com/products/calculator
+- https://partner.cloudskillsboost.google/course_sessions/2441031/video/351440
 ## Certificates
 - [ ] Cloud Digital Leader
 - [ ] Associate Cloud Engineer
@@ -20,14 +21,13 @@
 - [ ] Google Workspace Administrator
 - [ ] Machine Learning Engineer
 
-```ad-note
-Cloud computing is a way of using information technology (IT) that has these five equally important traits.
-First, customers get computing resources that are on-demand and self-service.
-Second, customers get access to those resources over the internet, from anywhere they have a connection.
-Third, the cloud provider has a big pool of those resources and allocates them to users out of that pool. That allows the provider to buy in bulk and pass the savings on to the customers.
-Fourth, the resources are elastic–which means they’re flexible, so customers can be.
-Finally, customers pay only for what they use, or reserve as they go.
-```
+> [!tip]+
+> Cloud computing is a way of using information technology (IT) that has these five equally important traits.
+> First, customers get computing resources that are on-demand and self-service.
+> Second, customers get access to those resources over the internet, from anywhere they have a connection.
+> Third, the cloud provider has a big pool of those resources and allocates them to users out of that pool. That allows the provider to buy in bulk and pass the savings on to the customers.
+> Fourth, the resources are elastic–which means they’re flexible, so customers can be.
+> Finally, customers pay only for what they use, or reserve as they go.
 
 ## Cloud Model
 - Colocation
