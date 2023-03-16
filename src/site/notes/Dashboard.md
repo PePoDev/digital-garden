@@ -4,8 +4,8 @@
 
 ## Pages
 - [[Notes/Notes \|Notes]]
-- [Knowledge](Knowledge/Knowledge)
+- [Knowledge](knowledge/knowledge)
 - [[Slides/Slides \|Slides]]
 - [[Work/Opn/Opn \|Opn]]
 - 🔒 [[Financials/Financials \|Financials]]
-- 🔒 [[Notes/Private Notes \|Private Notes]]
+- 🔒 [Private Notes](Notes/Private Notes)
