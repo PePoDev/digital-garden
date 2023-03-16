@@ -98,21 +98,10 @@ Google Cloud’s infrastructure is based in five major geographic locations:
 https://cloud.google.com/products/calculator
 
 ![Pasted image 20230212225053.png](/img/user/Attachments/Pasted%20image%2020230212225053.png)
-
 ### Quotas
 Applied at the project level
 - Rate quota (reset after a specific time)
 - Allocation quota (governs the number of resources)
-
-## Resource hierarchy
-It’s important to understand this resource hierarchy because it directly relates to how policies are managed and applied when you use Google Cloud.
-- Organization node (Level 04)
-	- Folder (Level 03)
-		- Project (Level 02)
-			- Resource (Level 01)
-
-> Policies are also inherited downward. This means that if you apply a policy to a folder, it will also apply to all of the projects within that folder.
-
 ### Project identity
 - Project ID
 	- Globally unique
@@ -135,50 +124,37 @@ Designed to programmatically help to manage projects
 - Delete projects
 - Recover previously deleted projects
 - Access through RPC API and REST API
-
-### Organization node
-- Org. policy administrator
-- Project Creator
-
 ### Interacting with Google Cloud
-
 1. Google Cloud console
 2. Cloud SDK and Cloud Shell
 3. APIs
 4. Cloud Mobile App
-
 ## Google Cloud Services
 - [[Knowledge/Information Technology/Cloud/Google Cloud/IAM\|IAM]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Network\|Network]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Compute Engine\|Compute Engine]]
 ### Cloud DNS
-
 - 100% Uptime SLA
 
 ### Cloud Storage
 #### Features
-
 - Versioning
 - Lifecycle policies
 - ACL
 
 #### Storage Class
-
 - Standard Storage (Hot data)
 - Nearline Storage (Once per month)
 - Coldline Storage (Once every 90 days)
 - Archive Storage (Once a year)
 
 #### Storage Transfer Service
-
 Managed service to transfer data
 
 #### Transfer Appliance
-
 AWS Snowball-like
 
 ### Cloud SQL
-
 Cloud SQL offers fully managed relational databases, including MySQL, PostgreSQL, and SQL Server as a service. It’s designed to hand off mundane, but necessary and often time-consuming, tasks to Google—like applying patches and updates managing backups, and configuring replications.
 
 ### Cloud Spanner
