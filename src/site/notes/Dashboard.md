@@ -4,7 +4,7 @@
 
 ## Pages
 - [[Notes/Notes \|Notes]]
-- [Knowledge](knowledge/knowledge)
+- [[Knowledge/Knowledge\|Knowledge]]
 - [[Slides/Slides \|Slides]]
 - [[Work/Opn/Opn \|Opn]]
 - 🔒 [[Financials/Financials \|Financials]]
