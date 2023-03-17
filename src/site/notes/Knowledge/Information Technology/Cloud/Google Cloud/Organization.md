@@ -11,8 +11,8 @@ It’s important to understand this resource hierarchy because it directly relat
 			- Resource (Level 01)
 
 > Policies are also inherited downward. This means that if you apply a policy to a folder, it will also apply to all of the projects within that folder.
-> 
-![Attachments/Pasted image 20230316202934.png](/img/user/Attachments/Pasted%20image%2020230316202934.png)
+
+![Attachments/Pasted image 20230316232424.png](/img/user/Attachments/Pasted%20image%2020230316232424.png)
 
 > [!note]
 > G Suite is now Google Workspace
@@ -28,3 +28,14 @@ It’s important to understand this resource hierarchy because it directly relat
 - Project Creator
 	- Controls project creation
 	- control over who can create projects
+## Cloud Identity
+- Login and manage resources using the same credentials used in existing Active Directory or LDAP systems
+- Google Admin console can be used to disable user accounts and remove them from groups when they leave
+- Available in free and premium editions
+- Already available to Google Workspace customers in the Google Admin console
+### Single sign-on (SSO)
+- Use Cloud Identity to configure SAML SSO
+- If SAML2 isn't supported, use a third-party solution (ADSF, Ping, or Okta)
+## Google Cloud Directory Sync
+- Scheduled one-way sync
+- Sync existing users from Microsoft AD or LDAP
