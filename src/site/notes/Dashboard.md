@@ -3,9 +3,9 @@
 ---
 
 ## Pages
-- [[Notes/Notes \|Notes]]
+- [[Notes/Notes\|Notes]]
 - [[Knowledge/Knowledge\|Knowledge]]
-- [[Slides/Slides \|Slides]]
-- [[Work/Opn/Opn \|Opn]]
-- 🔒 [[Financials/Financials \|Financials]]
-- 🔒 [Private Notes](Notes/Private Notes)
+- [[Slides/Slides\|Slides]]
+- [[Work/Opn/Opn\|Opn]]
+- 🔒 [[Financials/Financials\|Financials]]
+- 🔒 [[Notes/Private Notes\|Private Notes]]
