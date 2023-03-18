@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/readme-md/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"📝"}
+{"dg-publish":true,"dg-home":true,"permalink":"/readme-md/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## Pages
