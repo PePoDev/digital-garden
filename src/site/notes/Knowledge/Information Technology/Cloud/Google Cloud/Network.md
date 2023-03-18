@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/google-cloud/network/","dgPassFrontmatter":true,"noteIcon":"📝"}
+{"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/google-cloud/network/","dgPassFrontmatter":true}
 ---
 
 ## Virtual Private Cloud
