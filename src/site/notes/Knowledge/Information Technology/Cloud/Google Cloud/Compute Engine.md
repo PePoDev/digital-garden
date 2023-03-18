@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/google-cloud/compute-engine/","dgPassFrontmatter":true,"noteIcon":"📝"}
+{"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/google-cloud/compute-engine/","dgPassFrontmatter":true}
 ---
 
 ## Features
