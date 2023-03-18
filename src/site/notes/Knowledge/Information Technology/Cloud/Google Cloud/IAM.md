@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/google-cloud/iam/","dgPassFrontmatter":true,"noteIcon":"📝"}
+{"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/google-cloud/iam/","dgPassFrontmatter":true}
 ---
 
 ## Type of IAM Role
