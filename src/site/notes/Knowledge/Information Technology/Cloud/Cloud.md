@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/cloud/","dgPassFrontmatter":true,"noteIcon":"📝"}
+{"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/cloud/","dgPassFrontmatter":true}
 ---
 
 ## Total Cost of Ownership
