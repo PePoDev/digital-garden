@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/information-technology/programming-language/rust/","dgPassFrontmatter":true,"noteIcon":"📝"}
+{"dg-publish":true,"permalink":"/knowledge/information-technology/programming-language/rust/","dgPassFrontmatter":true}
 ---
 
 ## Links
