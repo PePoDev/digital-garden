@@ -1,5 +1,5 @@
 ---
-{"tag":"gcp, cloud, hard-skill","dg-publish":true,"permalink":"/knowledge/information-technology/cloud/google-cloud/google-cloud/","dgPassFrontmatter":true,"noteIcon":"📝"}
+{"tag":"gcp, cloud, hard-skill","dg-publish":true,"permalink":"/knowledge/information-technology/cloud/google-cloud/google-cloud/","dgPassFrontmatter":true}
 ---
 
 ## Links
