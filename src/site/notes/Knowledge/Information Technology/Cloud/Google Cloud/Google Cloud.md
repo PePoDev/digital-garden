@@ -134,6 +134,7 @@ Designed to programmatically help to manage projects
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Network\|Network]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Compute Engine\|Compute Engine]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Storage\|Storage]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Organization\|Organization]]
 ### Cloud DNS
 - 100% Uptime SLA
 ### App Engine
@@ -150,123 +151,31 @@ Designed to programmatically help to manage projects
   - ephemeral disk
   - Can access without App Engine network
   - Pay per hour and no automatic shutdown
-
 ### Cloud Run
-- A managed to compute platform that can run the stateless containers
+- A managed-to-compute platform that can run the stateless containers
 - Serverless, removing the need for infrastructure management
 - Built on Knative, an open API and runtime environment built on Kubernetes
 - Can automatically scale up and down from zero almost instantaneously charging only for the resources used
-
 ### Cloud Endpoints
 - Distributed API management system
 - Provides an API console, hosting, logging, monitoring, and other features
 - Use with any APIs that support the OpenAPI specification
 - Supports applications running in App Engine, GKE, and Compute Engine
 - Clients include Android, iOS, and Javascript
-
 ### API Gateway
 - Backend implementations can vary for a single service provider
 - Provide secure access to your backend services through a well-defined REST API
 - Clients consume your REST APIs to implement standalone apps
-
 ### Apigee  Edge
 - Specific focus on business problems like rate limiting quotas and analytics
 - Many Apigee Edge users provide a software service to other companies
 - Backend services for Apigee Edge don't need to be in Google Cloud
-
 ### Cloud Source Repository
 - Git repository
 - Work with Google services
 -  allows Google Cloud diagnostics tools, like Debugger and Error Reporting
-
 ### Cloud Function
 - Cloud Functions is a lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events, without the need to manage a server or a runtime environment.
-
-
-### Logging
-
-### Monitoring
-
-![Attachments/Pasted image 20230307225538.png](/img/user/Attachments/Pasted%20image%2020230307225538.png)
-
-#### Four Golden Signals
-- Latency
-	- Page load latency
-	- Number of requests waiting for a thread
-	- Query duration
-	- Service response time
-	- Transaction duration
-	- Time to the first response
-	- Time to complete return
-- Traffic
-	- \# HTTP requests per second
-	- \# Requests for static vs. dynamic content
-	- Network I/O
-	- \# Concurrent sessions
-	- \# Transactions per second
-	- \# of retrievals per second
-	- \# of active requests
-	- \# of write ops
-	- \# of read ops
-	- \# of active connections
-- Saturation
-	- % memory utilization
-	- % thread pool utilization
-	- % cache utilization
-	- % disk utilization
-	- % CPU utilization
-	- Disk quota
-	- Memory quota
-	- \# of available connections
-	- and \# of users on the system
-- Errors
-	- Wrong answers or incorrect content
-	- \# 400/500 HTTP codes
-	- \# failed requests
-	- \# exceptions
-	- \# stack traces
-	- servers that fail liveness checks
-	- And \# dropped connections
-#### Service Level Indicator (SLI)
-
-SLIs, are carefully selected monitoring metrics that measure one aspect of a service's reliability. Ideally, SLIs should have a close linear relationship with your users' experience of that reliability, and we recommend expressing them as the ratio of two numbers: the number of good events divided by the count of all valid events.
-
-#### Service level objective (SLO)
-
-combines a service level indicator with target reliability. If you express your SLIs as is commonly recommended, your SLOs will generally be somewhere just short of 100%, for example, 99.9%, or "three nines."
-
-##### S.M.A.R.T
-
-- Specific
-	  A question such as “Is the site fast enough for you?” is not specific; it's subjective. A statement such as “The 95th percentile of results are returned in under 100 milliseconds” is specific.
-- Measurable
-	  A lot of monitoring is numbers, grouped over time, with math applied. An SLI must be a number or a delta; something we can measure and place in a mathematical equation.
-- Achievable
-- Relevant
-- Time-bound
-	  Do you want a service to be 99% available? That’s fine. Is that per year? Per month? Per day? Does the calculation look at specific windows of set time, from Sunday to Sunday for example, or is it a rolling period of the last seven days? It can't be measured accurately if we don't know the answers to those questions.
-
-#### Service Level Agreements (SLA)
-
-commitments made to your customers that your systems and applications will have only a certain amount of “downtime.” An SLA describes the minimum levels of service that you promise to provide to your customers and what happens when you break that promise. If your service has paying customers, an SLA may include some way of compensating them with refunds or credits when that service has an outage that is longer than this agreement allows. To give you the opportunity to detect problems and take remedial action before your reputation is damaged, your alerting thresholds are often substantially higher than the minimum levels of service documented in your SLA.
-
-![Attachments/Pasted image 20230308005725.png](/img/user/Attachments/Pasted%20image%2020230308005725.png)
-
-![Attachments/Pasted image 20230308010212.png](/img/user/Attachments/Pasted%20image%2020230308010212.png)
-### Cloud Monitoring
-
-### Cloud Logging
-
-### Error Reporting
-
-![Attachments/Pasted image 20230308010715.png](/img/user/Attachments/Pasted%20image%2020230308010715.png)
-
-### Cloud Trace
-
-![Attachments/Pasted image 20230308010651.png](/img/user/Attachments/Pasted%20image%2020230308010651.png)
-### Cloud Profiler
-
-![Attachments/Pasted image 20230308010630.png](/img/user/Attachments/Pasted%20image%2020230308010630.png)
 ### Dataflow
 
 ### Pub/Sub
