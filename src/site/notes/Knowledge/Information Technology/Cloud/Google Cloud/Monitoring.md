@@ -31,14 +31,35 @@
 
 ![Attachments/Pasted image 20230320222319.png](/img/user/Attachments/Pasted%20image%2020230320222319.png)
 ## Cloud Logging
-
+- Platform, systems, and application logs
+	- API to write to logs
+	- 30-day retention
+- Log search/view/filter
+- Log-based metrics
+- Monitoring alerts can be set on log events
+- Data can be exported to Cloud Storage, BigQuery, and Pub/Sub
+- Export to Object storage, BigQuery, and Pub/Sub
+## Data Studio
+- Connect to BigQuery
+- Transform raw data into metrics and dimensions
 ## Error Reporting
-
-![Attachments/Pasted image 20230308010715.png](/img/user/Attachments/Pasted%20image%2020230308010715.png)
-
+- Error dashboard/notification
+- Counts analyze and aggregate the crashes in your running cloud services
+- Management interface displays the results with sorting and filtering capability
 ## Cloud Trace
-
-![Attachments/Pasted image 20230308010651.png](/img/user/Attachments/Pasted%20image%2020230308010651.png)
+- Displays data/performance insights in near real-time
+- Latency reporting
+- Per-URL latency sampling
+- Automatically analyzes to generate in-depth latency reports
+- Data
+	- App Engine
+	- Google HTTP(S) load balancers
+	- Applications instrumented with the Cloud Trace SDKs
+## Cloud Debugger
+- Inspect an application without stopping it or slowing it down significantly
+- Capture call stack and local variables of a running application
+- Inject logging into a service without stopping it
 ## Cloud Profiler
-
-![Attachments/Pasted image 20230308010630.png](/img/user/Attachments/Pasted%20image%2020230308010630.png)
+- Uses statistical techniques and extremely low-impact instrumentation that runs across all production application instances to provide a complete CPU and heap picture of an application
+- Allows developers to analyze applications running anywhere, including Google Cloud, another cloud performs, or on-premises, with support for Java, Go, Python, and NodeJS
+- Presents the call hierarchy and resource consumption of the relevant function in an interactive flame graph
