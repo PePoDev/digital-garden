@@ -9,6 +9,11 @@
 - [AWS Well-Architected Labs](https://wellarchitectedlabs.com/operational-excellence/100_labs/100_inventory_patch_management/1_intro/)
 - [AWS Control Tower Workshop](https://controltower.aws-management.tools/core/accountfactory/)
 - [AWS Solutions Architect Associate | Udemy](https://opn.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/learn/lecture/13528014?start=15#overview)
+## Tools
+- [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
+- [AWS Pricing Calculator](https://calculator.aws/#/)
+- [AWS Outpost Visual 3D](https://apps.kaonadn.net/5181491956940800/AWSOutpost/index.html?lang=en#Catalog)
+- [AWS Edge Cloud Global Visual](https://apps.kaonadn.net/5181491956940800/index.html)
 ## Certificates
 
 - [x] AWS Cloud Practitioner
