@@ -33,3 +33,5 @@
 - Collect fees
 - Establish & maintain rules
 - Maintain card settlement networks
+
+![Attachments/Pasted image 20230321135053.png](/img/user/Attachments/Pasted%20image%2020230321135053.png)
