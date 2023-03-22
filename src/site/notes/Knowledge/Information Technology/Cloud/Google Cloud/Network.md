@@ -54,14 +54,25 @@ Cloud Router lets other networks and Google VPC, exchange route information over
 ![Attachments/Pasted image 20230322132702.png](/img/user/Attachments/Pasted%20image%2020230322132702.png)
 ## Cloud Interconnect and peering services
 ![Attachments/Pasted image 20230322134802.png](/img/user/Attachments/Pasted%20image%2020230322134802.png)
+
+- Dedicated connections provide a direct connection to Google's network
+- Shared connections for white a connection to Google's network through a partner
+- Layer 2 connections use a VLAN that pipes directly into your GCP environment providing connectivity to internal IP addresses in the RFC 1918 address base
+- Layer 3 connections provide access to G Suite services, YouTube, and Google Cloud APIs using public IP addresses
 ### Direct Peering
-Peering means putting a router in the same public data center as a Google point of presence and using it to exchange traffic between networks. Google has more than 100 points of presence around the world.
+- Peering means putting a router in the same public data center as a Google point of presence and using it to exchange traffic between networks
+- Google has more than 100 points of presence around the world
 ### Carrier Peering
-Customers who aren’t already in a point of presence can work with a partner in the Carrier Peering program to get connected. Carrier peering gives you direct access from your on-premises network through a service provider's network to Google Workspace and to Google Cloud products that can be exposed through one or more public IP addresses. One downside of peering, though, is that it isn’t covered by a Google Service Level Agreement.
+- Customers who aren’t already in a point of presence can work with a partner in the Carrier Peering program to get connected
+- Carrier peering gives you direct access from your on-premises network through a service provider's network to Google Workspace and to Google Cloud products that can be exposed through one or more public IP addresses
+- One downside of peering, though, is that it isn’t covered by a Google Service Level Agreement
 ### Dedicated Interconnect
-If getting the highest uptimes for interconnection is important, using Dedicated Interconnect would be a good solution. This option allows for one or more direct, private connections to Google. If these connections have topologies that meet Google’s specifications, they can be covered by an SLA of up to 99.99%. Also, these connections can be backed up by a VPN for even greater reliability.
+- If getting the highest uptimes for interconnection is important, using Dedicated Interconnect would be a good solution
+- This option allows for one or more direct, private connections to Google. If these connections have topologies that meet Google’s specifications, they can be covered by an SLA of up to 99.99%
+- Also, these connections can be backed up by a VPN for even greater reliability
 ### Partner Interconnect
-Provides connectivity between an on-premises network and a VPC network through a supported service provider. A Partner Interconnect connection is useful if a data center is in a physical location that can't reach a Dedicated Interconnect colocation facility, or if the data needs don’t warrant an entire 10 GigaBytes per second connection.
+- Provides connectivity between an on-premises network and a VPC network through a supported service provider
+- A Partner Interconnect connection is useful if a data center is in a physical location that can't reach a Dedicated Interconnect colocation facility, or if the data needs don’t warrant an entire 10 GigaBytes per second connection.
 ## Load balancer
 - Global HTTP(s)
 - Global SSL Proxy
