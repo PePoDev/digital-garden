@@ -3,12 +3,12 @@
 ---
 
 ## Links
-- https://www.webassessor.com/wa.do?page=enterCatalog&tabs=7
-- https://partner.cloudskillsboost.google
-- https://www.cloudskillsboost.google/profile/paths
-- https://rsvp.withgoogle.com/events/partner-learning/google-cloud-certifications
-- https://cloud.google.com/products/calculator
-- https://partner.cloudskillsboost.google/course_sessions/2441031/video/351448
+- [Assessment Registration](https://www.webassessor.com/wa.do?page=enterCatalog&tabs=7)
+- [Google Cloud Skills Boost for Partners](https://partner.cloudskillsboost.google)
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/profile/paths)
+- [Google Cloud Partner Technical Training](https://rsvp.withgoogle.com/events/partner-learning/google-cloud-certifications)
+- [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator)
+- [Partner Certification Kickstart | Google Cloud](https://inthecloud.withgoogle.com/pck-page/register.html)
 ## Certificates
 - [ ] Cloud Digital Leader
 - [ ] Associate Cloud Engineer
@@ -29,23 +29,19 @@
 > Third, the cloud provider has a big pool of those resources and allocates them to users out of that pool. That allows the provider to buy in bulk and pass the savings on to the customers.
 > Fourth, the resources are elastic–which means they’re flexible, so customers can be.
 > Finally, customers pay only for what they use, or reserve as they go.
-
 ## Cloud Model
 - Colocation
 - Virtualized data center
 - Container-based architecture (Google Cloud)
-
 ## IaaS and PaaS
 ### Infrastructure as a Service
 - Raw compute
 - Storage
 - Network capability
 - pay for what they allocate
-
 ### Platform as a Service
 - bind code to the library
 - pay for what they use
-
 ## Google Cloud Network
 Google has invested billions of dollars over many years to build it. This network is designed to give customers the highest possible throughput and lowest possible latencies for their applications by leveraging more than 100 content caching nodes worldwide. These are locations where high-demand content is cached for quicker access, allowing applications to respond to user requests from the location that will provide the quickest response time.
 Google Cloud’s infrastructure is based in five major geographic locations:
@@ -89,9 +85,7 @@ Google Cloud’s infrastructure is based in five major geographic locations:
 	- Reducing insider risk
 	- Employee Universal Second Factor (U2F) use
 	- Software development 
-
 ## Pricing & Billing
-
 - Google was the first major cloud provider to deliver per-second billing.
 - Automatically applied sustained-use discounts, which are automatic discounts that you get for running a virtual machine instance for a significant portion of the billing month. Specifically, when you run an instance for more than 25% of a month, Compute Engine automatically gives you a discount for every incremental minute you use for that instance.
 
@@ -115,7 +109,6 @@ Applied at the project level
 	- Globally unique
 	- Assigned by Google Cloud
 	- Immutable
-
 ### Resource Manager Tool
 Designed to programmatically help to manage projects
 - Gather a list of projects
@@ -138,7 +131,6 @@ Designed to programmatically help to manage projects
 ### Cloud DNS
 - 100% Uptime SLA
 ### App Engine
-
 - Standard
   - Run in seconds
   - no SSH access
