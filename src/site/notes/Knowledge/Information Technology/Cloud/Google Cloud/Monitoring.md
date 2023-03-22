@@ -21,7 +21,7 @@
 - Dynamic config and intelligent defaults
 - Platform, system, and application metrics
 	- ingests data: Metrics, events, metadata
-	- Generates insights through dashboard, charts, alerts
+	- Generates insights through the dashboard, charts, alerts
 - Uptime/health checks
 - Dashboards
 - Alerts
