@@ -36,6 +36,15 @@ Cloud Router lets other networks and Google VPC, exchange route information over
 - Regional Network TCP/UDP
 - Regional Internal HTTP(S)
 
+![Attachments/Pasted image 20230323184230.png](/img/user/Attachments/Pasted%20image%2020230323184230.png)
+### Backend services
+- Health check
+- Session affinity (optional)
+- Time out setting (default 30s)
+- One or more backends
+	- An instance group (managed or unmanaged)
+	- A balancing mode (CPU utilization or RPS)
+	- A capacity scaler (ceiling % of CPU/Rate targets)
 ## Cloud Interconnect and peering services
 ![Attachments/Pasted image 20230323000001.png](/img/user/Attachments/Pasted%20image%2020230323000001.png)
 
