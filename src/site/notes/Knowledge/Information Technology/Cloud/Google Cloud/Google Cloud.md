@@ -128,6 +128,10 @@ Designed to programmatically help to manage projects
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Compute Engine\|Compute Engine]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Storage\|Storage]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Organization\|Organization]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Data Analytics\|Data Analytics]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Migration\|Migration]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Monitoring\|Monitoring]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Resource Management\|Resource Management]]
 ### Cloud DNS
 - 100% Uptime SLA
 ### App Engine
