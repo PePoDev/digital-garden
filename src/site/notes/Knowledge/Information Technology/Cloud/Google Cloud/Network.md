@@ -29,12 +29,50 @@ Cloud Router lets other networks and Google VPC, exchange route information over
 ## Shared VPC vs VPC Peering
 ![Attachments/Pasted image 20230323005240.png](/img/user/Attachments/Pasted%20image%2020230323005240.png)
 ## Load balancer
-- Global HTTP(s)
-- Global SSL Proxy
-- Global TCP Proxy
-- Regional Internal TCP/UDP
-- Regional Network TCP/UDP
-- Regional Internal HTTP(S)
+- Load balancer types
+	- Global HTTP(s)
+		- Target HTTP(S) proxy
+		- Client SSL session terminates at the load balancer
+		- One signed SSL certificate installed (minimum)
+		- Support the QUIC transport layer protocol
+	- Global SSL Proxy
+		- Global load balancing for encrypted, non-HTTP traffic
+		- Terminates SSL session at LB layer
+		- IPv4 or IPv6 clients
+		- Intelligent routing
+		- Certificate management
+		- Security patching
+		- SSL policies
+	- Global TCP Proxy
+		- Global load balancing for encrypted, non-HTTP traffic
+		- Terminates TCP session at LB layer
+		- IPv4 or IPv6 clients
+		- Intelligent routing
+		- Security patching
+	- Regional Internal TCP/UDP
+		- Uses lightweight load balancing built on top of Andromeda
+		- Private load balancing
+		- RFC 1918 IP address
+		- Reduced latency, Simpler configuration
+		- Software-defined, fully distributed load balancing
+	- Regional Network TCP/UDP
+		- Non-proxied load balancer (all traffic is passed through)
+		- Forwarding rules (IP protocol data)
+		- Traffic
+			- UDP
+			- TCP/SSL ports
+		- Architecture
+			- Backend service-based
+			- Target pool-based
+	- Regional Internal HTTP(S)
+		- Private load balancing
+		- RFC 1918 IP address
+		- HTTP, HTTPS, or HTTP/2 protocols
+		- Based on open source Envoy proxy
+- SSL
+	- Required for HTTP(S) load balancing
+	- Up to 15 SSL certificates (per target proxy)
+	- Create an SSL certificate resource
 
 ![Attachments/Pasted image 20230323184230.png](/img/user/Attachments/Pasted%20image%2020230323184230.png)
 ### Backend services
@@ -45,6 +83,35 @@ Cloud Router lets other networks and Google VPC, exchange route information over
 	- An instance group (managed or unmanaged)
 	- A balancing mode (CPU utilization or RPS)
 	- A capacity scaler (ceiling % of CPU/Rate targets)
+- Any changes to back-end services are not instantaneous, it takes several minutes to propagate throughout the network
+### Backend Buckets
+![Attachments/Pasted image 20230323190454.png](/img/user/Attachments/Pasted%20image%2020230323190454.png)
+### Network Endpoint Groups (NEG)
+- Group of backend endpoints or services
+- type of NEGs
+	- Zonal
+	- Internal
+	- Serverless
+	- Hybrid connectivity
+
+### Example Diagram
+![Attachments/Pasted image 20230323185315.png](/img/user/Attachments/Pasted%20image%2020230323185315.png)
+
+![Attachments/Pasted image 20230323192835.png](/img/user/Attachments/Pasted%20image%2020230323192835.png)
+
+![Attachments/Pasted image 20230323202456.png](/img/user/Attachments/Pasted%20image%2020230323202456.png)
+### Choosing LB
+![Attachments/Pasted image 20230323213435.png](/img/user/Attachments/Pasted%20image%2020230323213435.png)
+
+![Attachments/Pasted image 20230323213700.png](/img/user/Attachments/Pasted%20image%2020230323213700.png)
+## Cloud CDN
+- Caches content at the edge of Google's network
+- Automatically logged within Google Cloud (Cache Hit, Cache Miss)
+- Enable Cloud CDN with a simple checkbox when setting up the backend service Cache modes
+	- Control the factors that determine whether or not
+	- USE_ORIGIN_HEADERS
+	- CACHE_ALL_STATIC
+	- FORCE_CACHE_ALL
 ## Cloud Interconnect and peering services
 ![Attachments/Pasted image 20230323000001.png](/img/user/Attachments/Pasted%20image%2020230323000001.png)
 
