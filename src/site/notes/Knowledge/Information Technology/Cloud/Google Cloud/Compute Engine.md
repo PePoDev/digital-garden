@@ -3,7 +3,6 @@
 ---
 
 ## Features
-
 - Machine rightsizing
 - Live migrate
 - Auto restart
@@ -13,7 +12,6 @@
 - Sustained use discounts
 - Committed use discounts
 - Preemptible and Spot VMs Up to 91% discount!
-
 ## Highlight
 - Compute
 	- Network throughput scales 2 Gnps per vCPU (small exceptions)
@@ -81,9 +79,7 @@
 	- These images will have per-second charges after a one-minute minimum. With the exception of sequel server images, which are charged permanently after a 10-minute minimum.
 
 ![Attachments/Pasted image 20230316144325.png](/img/user/Attachments/Pasted%20image%2020230316144325.png)
-
 ## Pricing
-
 - Per-second billing, with a minimum of 1 minute
 - Resource-based pricing: each vCPU and memory is billed separately
 - Discounts
@@ -109,4 +105,9 @@
 ![Attachments/Pasted image 20230316140034.png](/img/user/Attachments/Pasted%20image%2020230316140034.png)
 ![Attachments/Pasted image 20230316140220.png](/img/user/Attachments/Pasted%20image%2020230316140220.png)
 ![Attachments/Pasted image 20230316140359.png](/img/user/Attachments/Pasted%20image%2020230316140359.png)
-
+### Managed Instance Groups
+- Deploy identical instances based on the instance template
+- The instance group can be resized
+- The manager ensures all instances are RUNNING
+- Typically used with autoscaler
+- Can be a single zone or regional
