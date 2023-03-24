@@ -20,6 +20,9 @@
 
 ### Invent in greenfield
 
+## NORTH-SOUTH and EAST-WEST
+- NORTH-SOUTH traffic is a server-client traffic
+- EAST-WEST traffic is a server-server traffic
 ## Cloud Providers
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Google Cloud\|Google Cloud]]
 - [[Knowledge/Information Technology/Cloud/AWS/AWS\|AWS]]
