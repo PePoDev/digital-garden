@@ -15,7 +15,18 @@
 ### CapEx & OpsEx
 ![Attachments/Pasted image 20230315230145.png](/img/user/Attachments/Pasted%20image%2020230315230145.png)
 ## Migration strategies
+### Google
 ![Pasted image 20230324010320.png](/img/user/Attachments/Pasted%20image%2020230324010320.png)
+### AWS
+![Pasted image 20230324133737.png](/img/user/Attachments/Pasted%20image%2020230324133737.png)
+
+**- Retire** - shut down the servers within that application stack
+- Retain - keep in your source environment or applications that you are not ready to migrate
+- Rehost (lift and shift) - move your applications from your source environment to the AWS Cloud without making any changes to the application
+- Relocate - transfer a large number of servers, comprising one or more applications, at a given time from an on-premises platform to a cloud version of the platform
+- Repurchase (drop and shop) - replace your application with a different version or product
+- Replatform (lift, tinker, and shift or lift and reshape) - move the application to the cloud, and you introduce some level of optimization in order to operate the application efficiently, reduce costs, or take advantage of cloud capabilities
+- Refactor or re-architect - move an application to the cloud and modify its architecture by taking full advantage of cloud-native features to improve agility, performance, and scalability
 ### Invent in brownfield
 
 ### Invent in greenfield
