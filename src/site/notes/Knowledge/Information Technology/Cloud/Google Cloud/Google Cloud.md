@@ -10,17 +10,18 @@
 - [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator)
 - [Partner Certification Kickstart | Google Cloud](https://inthecloud.withgoogle.com/pck-page/register.html)
 ## Certificates
-- [ ] Cloud Digital Leader
-- [ ] Associate Cloud Engineer
-- [ ] Professional Cloud Architect
-- [ ] Professional Cloud Developer
+- [ ] Cloud Digital Leader [Coursera](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
+- [ ] Associate Cloud Engineer 
+- [ ] Professional Cloud Architect [Coursera](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
+- [ ] Professional Cloud Developer [Coursera](https://www.coursera.org/professional-certificates/google-cloud-developer)
+- [ ] Professional Cloud DevOps Engineer [Coursera](https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud)
 - [ ] Professional Data Engineer
-- [ ] Professional Cloud Database Engineer
-- [ ] Professional Cloud Network Engineer
 - [ ] Professional Cloud Security Engineer
-- [ ] Professional Cloud DevOps Engineer
+- [ ] Professional Cloud Network Engineer
+- [ ] Professional Collaboration Engineer
+- [ ] Professional Machine Learning Engineer
+- [ ] Professional Cloud Database Engineer
 - [ ] Google Workspace Administrator
-- [ ] Machine Learning Engineer
 
 > [!tip]+
 > Cloud computing is a way of using information technology (IT) that has these five equally important traits.
