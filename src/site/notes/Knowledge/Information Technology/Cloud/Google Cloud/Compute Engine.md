@@ -12,17 +12,8 @@
 - Sustained use discounts
 - Committed use discounts
 - Preemptible and Spot VMs Up to 91% discount!
-## Highlight
-- Compute
-	- Network throughput scales 2 Gnps per vCPU (small exceptions)
-	- vCPU is equal to 1 hardware hyper-thread
-- Disk
-	- Standard and SSD PDs scale in performance for each GB
-	- Resize or migrate instances with no downtime
-	- Local SSD can create up to 8 partitions per instance with 375 GB (Total 3TB)
-	- Standard and non-local SSD can be sized up to 257 TB for each instance
-- Networking
-	- Network load balancing does not require pre-warming
+## Compute Engine
+- vCPU is equal to 1 hardware hyper-thread
 - Machine families
 	- General purpose (ratio of 0.5 GB to 8 GB of memory per vCPU)
 		- E2 (Cost-optimized)
@@ -79,6 +70,18 @@
 	- These images will have per-second charges after a one-minute minimum. With the exception of sequel server images, which are charged permanently after a 10-minute minimum.
 
 ![Attachments/Pasted image 20230316144325.png](/img/user/Attachments/Pasted%20image%2020230316144325.png)
+## Persistent Disks
+- Standard and SSD PDs scale in performance for each GB
+- Resize or migrate instances with no downtime
+- Local SSD can create up to 8 partitions per instance with 375 GB (Total 3TB)
+- Standard and non-local SSD can be sized up to 257 TB for each instance
+- Attach read-only for multiple VMs
+![Pasted image 20230325153309.png](/img/user/Attachments/Pasted%20image%2020230325153309.png)
+## Networking
+- Network throughput scales at 2 Gbps per vCPU
+	- Max 32 Gbps with 16 vCPU
+- Up to 8 NICs connected to different network
+- Can't modify after creation
 ## Pricing
 - Per-second billing, with a minimum of 1 minute
 - Resource-based pricing: each vCPU and memory is billed separately
