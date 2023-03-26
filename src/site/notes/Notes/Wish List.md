@@ -17,6 +17,7 @@
 - [The Art of Forming Successful Business](https://page.futureskill.co/superclass-theartofbusiness)
 - [Winning Your Brand With Grit](https://page.futureskill.co/winning-your-brand-with-grit)
 - [Growing a Successful Business Collection](https://page.futureskill.co/collection-business)
+- [เริ่มต้นทำธุรกิจส่วนตัว แบบไม่ต้องลาออกจากงานประจำ](https://page.fskill.co/mbaxx)
 - [Cariber](https://page.cariber.co/secret-offer-golf35)
 ## Coffee
 - [สินค้า HARIO - koffeetools](https://www.koffeetools.com/category/5117/%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2-hario)
