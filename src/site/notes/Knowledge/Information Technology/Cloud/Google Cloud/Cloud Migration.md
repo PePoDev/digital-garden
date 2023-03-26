@@ -2,9 +2,17 @@
 {"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/google-cloud/cloud-migration/","dgPassFrontmatter":true}
 ---
 
-## Migrate for Compute Engine
-- AWS and Azure use 4.x
-- VMWare uses 5.x
+## Migrate for Compute Engine (MFCE)
+- MFCE 4
+	- For Azure, AWS
+- MFCE 5
+	- offer a simpler and more powerful way of migrating VMWare (only)
+	- Managed service, No longer needs to deploy by Google Marketplace
+	- done by using replication, not streaming
+	- No more Cloud Extension/edge nodes
+	- No agent is needed on the migrated VMs (agentless migration)
+	- Minimum connectivity requirements (can be performed over HTTPS 443)
+	- Cloud VPN or Cloud Interconnect is no longer required (but still supported)
 - Process
 	- Setup VPN + Network tags
 	- Create GCP roles and service accounts
