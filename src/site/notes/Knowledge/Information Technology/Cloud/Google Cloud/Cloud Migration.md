@@ -13,6 +13,7 @@
 	- No agent is needed on the migrated VMs (agentless migration)
 	- Minimum connectivity requirements (can be performed over HTTPS 443)
 	- Cloud VPN or Cloud Interconnect is no longer required (but still supported)
+	- Architecture ![Pasted image 20230326172849.png](/img/user/Attachments/Pasted%20image%2020230326172849.png)
 - Process
 	- Setup VPN + Network tags
 	- Create GCP roles and service accounts
