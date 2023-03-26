@@ -17,6 +17,7 @@
 ![Attachments/Pasted image 20230319213915.png](/img/user/Attachments/Pasted%20image%2020230319213915.png)
 
 ![Attachments/Pasted image 20230319214044.png](/img/user/Attachments/Pasted%20image%2020230319214044.png)
+- Can use with Data Studio to visualize the cost by category
 ## Billing
 ### Budget
 ![Attachments/Pasted image 20230319214248.png](/img/user/Attachments/Pasted%20image%2020230319214248.png)
