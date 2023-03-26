@@ -8,7 +8,7 @@
 - Long Life
 - *Risk management
 
-![Untitled](/img/user/Attachments/Untitled 53.png)
+![Attachments/Untitled 53.png](/img/user/Attachments/Untitled%2053.png)
 
 ![Untitled](/img/user/Attachments/Untitled 1 7.png)
 
