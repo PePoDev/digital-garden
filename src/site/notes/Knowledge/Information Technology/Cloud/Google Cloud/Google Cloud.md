@@ -88,7 +88,7 @@ Google Cloud’s infrastructure is based in five major geographic locations:
 	- Software development 
 ## Pricing & Billing
 - Google was the first major cloud provider to deliver per-second billing.
-- Automatically applied sustained-use discounts, which are automatic discounts that you get for running a virtual machine instance for a significant portion of the billing month. Specifically, when you run an instance for more than 25% of a month, Compute Engine automatically gives you a discount for every incremental minute you use for that instance.
+- Automatically applied sustained-use discounts are automatic discounts you get for running a virtual machine instance for a significant portion of the billing month. Specifically, when you run an instance for more than 25% of a month, Compute Engine automatically gives you a discount for every incremental minute you use for that instance.
 
 https://cloud.google.com/products/calculator
 
@@ -130,7 +130,7 @@ Designed to programmatically help to manage projects
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Storage\|Storage]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Organization\|Organization]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Data Analytics\|Data Analytics]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Migration\|Migration]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Cloud Migration\|Cloud Migration]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Monitoring\|Monitoring]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Resource Management\|Resource Management]]
 ### Cloud DNS
