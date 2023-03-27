@@ -5,6 +5,7 @@
 ## Migrate for Compute Engine (MFCE)
 - MFCE 4
 	- For Azure, AWS
+	- Steps![Pasted image 20230325155931.png](/img/user/Attachments/Pasted%20image%2020230325155931.png)
 - MFCE 5
 	- offer a simpler and more powerful way of migrating VMWare (only)
 	- Managed service, No longer needs to deploy by Google Marketplace
@@ -40,4 +41,3 @@
 		- Uptime Sensitivity
 		- Licensing and Compliance
 		- Dependencies
-![Pasted image 20230325155931.png](/img/user/Attachments/Pasted%20image%2020230325155931.png)
