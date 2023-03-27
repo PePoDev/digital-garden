@@ -7,6 +7,19 @@
 - Flexibility (on-demand capacity, cost optimize)
 - Elasticity (scalable, pay what you go)
 - Security
+## Cloud Model
+- Colocation
+- Virtualized data center
+- Container-based architecture (Google Cloud)
+## IaaS and PaaS
+### Infrastructure as a Service
+- Raw compute
+- Storage
+- Network capability
+- pay for what they allocate
+### Platform as a Service
+- bind code to the library
+- pay for what they use
 ## Total Cost of Ownership
 > [!note]
 >  Total Cost of Owner = Capital Expense + Operational Expense
