@@ -30,19 +30,6 @@
 > Third, the cloud provider has a big pool of those resources and allocates them to users out of that pool. That allows the provider to buy in bulk and pass the savings on to the customers.
 > Fourth, the resources are elastic–which means they’re flexible, so customers can be.
 > Finally, customers pay only for what they use, or reserve as they go.
-## Cloud Model
-- Colocation
-- Virtualized data center
-- Container-based architecture (Google Cloud)
-## IaaS and PaaS
-### Infrastructure as a Service
-- Raw compute
-- Storage
-- Network capability
-- pay for what they allocate
-### Platform as a Service
-- bind code to the library
-- pay for what they use
 ## Google Cloud Network
 Google has invested billions of dollars over many years to build it. This network is designed to give customers the highest possible throughput and lowest possible latencies for their applications by leveraging more than 100 content caching nodes worldwide. These are locations where high-demand content is cached for quicker access, allowing applications to respond to user requests from the location that will provide the quickest response time.
 Google Cloud’s infrastructure is based in five major geographic locations:
