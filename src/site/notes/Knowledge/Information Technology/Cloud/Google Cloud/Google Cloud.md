@@ -9,6 +9,7 @@
 - [Google Cloud Partner Technical Training](https://rsvp.withgoogle.com/events/partner-learning/google-cloud-certifications)
 - [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator)
 - [Partner Certification Kickstart | Google Cloud](https://inthecloud.withgoogle.com/pck-page/register.html)
+- [GCP Exam Google Professional Cloud Architect | ExamTopics](https://www.examtopics.com/exams/google/professional-cloud-architect/)
 ## Certificates
 - [ ] Cloud Digital Leader [Coursera](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
 - [ ] Associate Cloud Engineer 
@@ -22,6 +23,16 @@
 - [ ] Professional Machine Learning Engineer
 - [ ] Professional Cloud Database Engineer
 - [ ] Google Workspace Administrator
+## Contents
+- [[Knowledge/Information Technology/Cloud/Google Cloud/IAM\|IAM]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Network\|Network]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Compute Engine\|Compute Engine]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Storage\|Storage]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Organization\|Organization]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Data Analytics\|Data Analytics]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Cloud Migration\|Cloud Migration]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Monitoring\|Monitoring]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Resource Management\|Resource Management]]
 
 > [!tip]+
 > Cloud computing is a way of using information technology (IT) that has these five equally important traits.
@@ -110,16 +121,6 @@ Designed to programmatically help to manage projects
 2. Cloud SDK and Cloud Shell
 3. APIs
 4. Cloud Mobile App
-## Google Cloud Services
-- [[Knowledge/Information Technology/Cloud/Google Cloud/IAM\|IAM]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Network\|Network]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Compute Engine\|Compute Engine]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Storage\|Storage]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Organization\|Organization]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Data Analytics\|Data Analytics]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Cloud Migration\|Cloud Migration]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Monitoring\|Monitoring]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Resource Management\|Resource Management]]
 ### Cloud DNS
 - 100% Uptime SLA
 ### App Engine
