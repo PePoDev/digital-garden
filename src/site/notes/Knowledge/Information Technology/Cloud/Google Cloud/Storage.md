@@ -137,3 +137,4 @@ Third-party provider uploads the data from physical media
 - Instances up to 300 GB
 - Network throughput of 12 Gbps
 - Easy Lift-and-Shift
+## Cloud Datastore
