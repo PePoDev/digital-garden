@@ -27,12 +27,6 @@
 	- Google APIs service account
 
 ![Attachments/Pasted image 20230317003111.png](/img/user/Attachments/Pasted%20image%2020230317003111.png)
-
-## Identity-Aware Proxy (IAP)
-- A central authorization layer for applications accessed by HTTPS
-- You can use an application-level access control model instead of relying on network-level firewalls
-- Applications and resources protected by Cloud IAP can only be accessed through the proxy by users and groups with the correct Cloud IAM role
-- When you grant a user access to an application or resource by Cloud IAP, they're subject to the fine-grained access controls implemented by the product in use without requiring a VPN.
 ## Best practices
 - Use the project to group the resources that share the same trust boundary
 - Use "principles of least privilege" when grating role
@@ -43,4 +37,4 @@
 	- Establish a naming convention for service accounts
 	- Establish key rotation policies and methods
 	- Audit with `serviceAccount.keys.list()` method
-- Use `Identity-Aware Proxy (IAP)` to enforce access control policies for applicators and resources
+- Use [[Knowledge/Information Technology/Cloud/Google Cloud/Resource Management#Identity-Aware Proxy (IAP)\|Identity-Aware Proxy (IAP)]] to enforce access control policies for applicators and resources
