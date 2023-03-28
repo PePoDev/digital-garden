@@ -17,7 +17,6 @@
 ![Attachments/Pasted image 20230320222001.png](/img/user/Attachments/Pasted%20image%2020230320222001.png)
 ## Cloud Monitoring
 ![Attachments/Pasted image 20230320222055.png](/img/user/Attachments/Pasted%20image%2020230320222055.png)
-
 - Dynamic config and intelligent defaults
 - Platform, system, and application metrics
 	- ingests data: Metrics, events, metadata
@@ -25,6 +24,8 @@
 - Uptime/health checks
 - Dashboards
 - Alerts
+### Monitoring pyramid
+![Pasted image 20230328221611.png](/img/user/Attachments/Pasted%20image%2020230328221611.png)
 ### Workspace
 - Determine your monitoring needs upfront
 - Consider using separate Workspaces for data and control isolation
