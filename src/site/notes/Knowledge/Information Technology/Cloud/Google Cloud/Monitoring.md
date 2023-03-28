@@ -11,8 +11,7 @@
 	- Open-source agents and integrations
 - Access to powerful data and analytics tools
 - Collaboration with third-party software
-
-![Attachments/Pasted image 20230320221609.png](/img/user/Attachments/Pasted%20image%2020230320221609.png)
+![Pasted image 20230328221701.png](/img/user/Attachments/Pasted%20image%2020230328221701.png)
 
 ![Attachments/Pasted image 20230320222001.png](/img/user/Attachments/Pasted%20image%2020230320222001.png)
 ## Cloud Monitoring
