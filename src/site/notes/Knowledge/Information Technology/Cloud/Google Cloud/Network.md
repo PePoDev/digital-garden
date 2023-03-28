@@ -23,7 +23,26 @@ Cloud Router lets other networks and Google VPC, exchange route information over
 
 #### Cloud Firewall Rules
 ## Shared VPC
-![Attachments/Pasted image 20230323004140.png](/img/user/Attachments/Pasted%20image%2020230323004140.png)
+- Use IAM roles for delegated administration
+- Required roles
+	- Organization Admin
+		- Nominates Shared VPC Admin (compute.xpnAdmin)
+	- Shared VPC Admin
+		- Enables Shared VPC for host project
+		- Attached service project
+		- Delegates access to some or all subnets in the Shared VPC network (compute.networkUser)
+	- Service Project Admin
+		- Network User
+		- Control over service project resources
+			- Compute Instance Admin
+			- Project Owner
+		- Create resources in Shared VPC
+			- VM instances
+			- Instance templates and groups
+			- Static internal IP
+			- Load balancer
+
+![Pasted image 20230327201322.png](/img/user/Attachments/Pasted%20image%2020230327201322.png)
 ## VPC Peering
 ![Attachments/Pasted image 20230323004515.png](/img/user/Attachments/Pasted%20image%2020230323004515.png)
 ## Shared VPC vs VPC Peering
@@ -93,7 +112,6 @@ Cloud Router lets other networks and Google VPC, exchange route information over
 	- Internal
 	- Serverless
 	- Hybrid connectivity
-
 ### Example Diagram
 ![Attachments/Pasted image 20230323185315.png](/img/user/Attachments/Pasted%20image%2020230323185315.png)
 
