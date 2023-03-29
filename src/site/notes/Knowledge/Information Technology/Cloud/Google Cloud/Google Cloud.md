@@ -26,7 +26,7 @@
 ## Contents
 - [[Knowledge/Information Technology/Cloud/Google Cloud/IAM\|IAM]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Network\|Network]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Compute Engine\|Compute Engine]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Compute\|Compute]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Storage\|Storage]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Organization\|Organization]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Data Analytics\|Data Analytics]]
@@ -123,24 +123,6 @@ Designed to programmatically help to manage projects
 4. Cloud Mobile App
 ### Cloud DNS
 - 100% Uptime SLA
-### App Engine
-- Standard
-  - Run in seconds
-  - no SSH access
-  - no write on disk (maybe /tmp available)
-  - network access via App Engine
-  - pay per instance class with automatic shutdown
-- Flexible
-  - Run in minutes
-  - SSH accessible
-  - ephemeral disk
-  - Can access without App Engine network
-  - Pay per hour and no automatic shutdown
-### Cloud Run
-- A managed-to-compute platform that can run the stateless containers
-- Serverless, removing the need for infrastructure management
-- Built on Knative, an open API and runtime environment built on Kubernetes
-- Can automatically scale up and down from zero almost instantaneously charging only for the resources used
 ### Cloud Endpoints
 - Distributed API management system
 - Provides an API console, hosting, logging, monitoring, and other features
@@ -159,8 +141,6 @@ Designed to programmatically help to manage projects
 - Git repository
 - Work with Google services
 -  allows Google Cloud diagnostics tools, like Debugger and Error Reporting
-### Cloud Function
-- Cloud Functions is a lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events, without the need to manage a server or a runtime environment.
 ### Dataflow
 
 ### Pub/Sub
