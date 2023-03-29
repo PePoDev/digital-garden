@@ -138,3 +138,5 @@ Third-party provider uploads the data from physical media
 - Network throughput of 12 Gbps
 - Easy Lift-and-Shift
 ## Cloud Datastore
+- highly scalable NoSQL database for your web and mobile applications
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Storage#Cloud Firestore\|Firestore]] is the next generation of Datastore
