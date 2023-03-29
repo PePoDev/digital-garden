@@ -16,6 +16,9 @@
 ![Attachments/Pasted image 20230320222001.png](/img/user/Attachments/Pasted%20image%2020230320222001.png)
 ## Cloud Monitoring
 ![Attachments/Pasted image 20230320222055.png](/img/user/Attachments/Pasted%20image%2020230320222055.png)
+
+![Pasted image 20230328221839.png](/img/user/Attachments/Pasted%20image%2020230328221839.png)
+
 - Dynamic config and intelligent defaults
 - Platform, system, and application metrics
 	- ingests data: Metrics, events, metadata
@@ -23,7 +26,9 @@
 - Uptime/health checks
 - Dashboards
 - Alerts
-### Monitoring pyramid
+### Ops Agent
+- Support Compute Engine and AWS EC2
+## Monitoring pyramid
 ![Pasted image 20230328221611.png](/img/user/Attachments/Pasted%20image%2020230328221611.png)
 ### Workspace
 - Determine your monitoring needs upfront
@@ -38,7 +43,7 @@
 - Log-based metrics
 - Monitoring alerts can be set on log events
 - Data can be exported to Cloud Storage, BigQuery, and Pub/Sub
-- Export to Object storage, BigQuery, and Pub/Sub
+- Export to Cloud storage, BigQuery, and Pub/Sub
 ## Data Studio
 - Connect to BigQuery
 - Transform raw data into metrics and dimensions
