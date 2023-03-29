@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/google-cloud/compute/","dgPassFrontmatter":true}
 ---
 
+## Overview
+![Pasted image 20230329221709.png](/img/user/Attachments/Pasted%20image%2020230329221709.png)
 ## Compute Engine
 - Machine rightsizing
 - Live migrate
@@ -115,15 +117,28 @@
 - Can be a single zone or regional
 - Rolling update without service disruption
 ## GKE
-
+- Fully managed Kubernetes
+- Container-Optimized OS
+- Auto upgrade
+- Auto repair unhealthy node
+- Cluster autoscaling
+- Seamless integration with Cloud Build and Container Registry
+- Identity and access management
+- Integrated logging and monitoring with Google Cloud Operation Suite
+- Integrated networking with VPC features
+- Cloud Console can view, inspect, and delete the resources
 ## App Engine
-- Standard
+- Provides a fully managed, code-first platform
+- Streamlined application deployment and scalability
+- Support popular programming languages and application runtimes
+- Simplifies version control canary testing, and rollbacks
+- Standard Mode
   - Run in seconds
   - no SSH access
   - no write on disk (maybe /tmp available)
   - network access via App Engine
   - pay per instance class with automatic shutdown
-- Flexible
+- Flexible Mode
   - Run in minutes
   - SSH accessible
   - ephemeral disk
@@ -133,6 +148,9 @@
 - A managed-to-compute platform that can run the stateless containers
 - Serverless, removing the need for infrastructure management
 - Built on Knative, an open API and runtime environment built on Kubernetes
-- Can automatically scale up and down from zero almost instantaneously charging only for the resources used
+- Automatically scale up and down from zero almost instantaneously charging only for the resources used
 ## Cloud Function
 - Cloud Functions is a lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events, without the need to manage a server or a runtime environment
+- Charges apply only when your code runs
+- Automatic scaling with highly available and fault-tolerant design
+- Triggered based on events in Google Cloud services, HTTP endpoints, and Firebase
