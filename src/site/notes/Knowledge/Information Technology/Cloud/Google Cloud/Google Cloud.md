@@ -10,6 +10,8 @@
 - [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator)
 - [Partner Certification Kickstart | Google Cloud](https://inthecloud.withgoogle.com/pck-page/register.html)
 - [GCP Exam Google Professional Cloud Architect | ExamTopics](https://www.examtopics.com/exams/google/professional-cloud-architect/)
+
+- [Sign in | Google Cloud Skills Boost for Partners](https://partner.cloudskillsboost.google/course_sessions/2681435/video/347177)
 ## Certificates
 - [ ] Cloud Digital Leader [Coursera](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
 - [ ] Associate Cloud Engineer 
@@ -118,7 +120,7 @@ Designed to programmatically help to manage projects
 - Access through RPC API and REST API
 ### Interacting with Google Cloud
 1. Google Cloud console
-2. Cloud SDK and Cloud Shell
+2. Cloud SDK and Cloud Shell (gcloud, kubectl, gsutil, bq)
 3. APIs
 4. Cloud Mobile App
 ### Cloud DNS
