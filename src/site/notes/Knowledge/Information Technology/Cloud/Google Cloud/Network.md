@@ -48,6 +48,11 @@ Cloud Router lets other networks and Google VPC, exchange route information over
 ## Shared VPC vs VPC Peering
 ![Attachments/Pasted image 20230323005240.png](/img/user/Attachments/Pasted%20image%2020230323005240.png)
 ## Load balancer
+- Global Cloud Load Balancing
+	- Use a single, global anycast IP address
+	- No pre-warming is required
+	- VM is selected based on proximity and capacity
+	- Traffic enters Google's Network as close as possible to the user
 - Load balancer types
 	- Global HTTP(s)
 		- Target HTTP(S) proxy
