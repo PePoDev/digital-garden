@@ -4,8 +4,7 @@
 
 > ถ้าเราปล่อยให้แสงผ่านเข้าไปในช่องเล็กๆในห้องมืด แล้วถือกระดาษสีขวาหลังช่องรับแสงนั้น จะปรากฏภาพจริงหัวกลับแต่เป็นภาพที่ไม่ชัดเจนนัก - อาริสโตเติล 
 
-![Untitled](/img/user/Knowledge/Photography/Untitled.png)
-![Untitled](/img/user/Knowledge/Photography/Untitled 1.png)
+![Untitled](/img/user/Attachments/Untitled 1 3.png)
 
 **เนียพซ์ - คิดคันการนำสารเคมีวัตุไวแสงไปล้างแล้วทำให้สีติดอยู่บนกระดาษคงทนถาวร**
 ## Photography
@@ -19,40 +18,40 @@ Phos (แสงสว่าง) + Graphein (การเขียน) = กา�
         - Full frame
         - APSC
 # Tips
-![Untitled](/img/user/Knowledge/Photography/Untitled 2.png)
+![Untitled](/img/user/Attachments/Untitled 2 3.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 3.png)
+![Untitled](/img/user/Attachments/Untitled 3 3.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 4.png)
+![Untitled](/img/user/Attachments/Untitled 4 3.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 5.png)
+![Untitled](/img/user/Attachments/Untitled 5 3.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 6.png)
+![Untitled](/img/user/Attachments/Untitled 6 3.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 7.png)
+![Untitled](/img/user/Attachments/Untitled 7 3.png)
 # Composition
-![Untitled](/img/user/Knowledge/Photography/Untitled 8.png)
+![Untitled](/img/user/Attachments/Untitled 8 3.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 9.png)
+![Untitled](/img/user/Attachments/Untitled 9 3.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 10.png)
+![Untitled](/img/user/Attachments/Untitled 10 3.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 11.png)
+![Untitled](/img/user/Attachments/Untitled 11 3.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 12.png)
+![Untitled](/img/user/Attachments/Untitled 12 3.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 13.png)
+![Untitled](Untitled%2013%203.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 14.png)
+![Untitled](/img/user/Attachments/Untitled 14 3.png)
 # Light
-![Untitled](/img/user/Knowledge/Photography/Untitled 15.png)
+![Untitled](/img/user/Attachments/Untitled 15 2.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 16.png)
+![Untitled](/img/user/Attachments/Untitled 16 2.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 17.png)
+![Untitled](Untitled%2017%202.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 18.png)
+![Untitled](/img/user/Attachments/Untitled 18 1.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 19.png)
+![Untitled](Untitled%2019%201.png)
 
-![Untitled](/img/user/Knowledge/Photography/Untitled 20.png)
+![Untitled](/img/user/Attachments/Untitled 20 1.png)
