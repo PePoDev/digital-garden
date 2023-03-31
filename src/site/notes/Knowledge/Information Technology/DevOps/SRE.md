@@ -3,8 +3,8 @@
 ---
 
 ## Links
-https://sre.google/sre-book/table-of-contents/
-https://sre.google/workbook/table-of-contents/
+- https://sre.google/sre-book/table-of-contents/
+- https://sre.google/workbook/table-of-contents/
 ## SRE
 ![Attachments/Pasted image 20230307225538.png](/img/user/Attachments/Pasted%20image%2020230307225538.png)
 
@@ -27,7 +27,6 @@ https://sre.google/workbook/table-of-contents/
 	- How will the system work?
 	- How Many users will there be?
 	- How much data will there be?
-
 ![Pasted image 20230331221928.png](/img/user/Attachments/Pasted%20image%2020230331221928.png)
 
 ![Pasted image 20230331222137.png](/img/user/Attachments/Pasted%20image%2020230331222137.png)
