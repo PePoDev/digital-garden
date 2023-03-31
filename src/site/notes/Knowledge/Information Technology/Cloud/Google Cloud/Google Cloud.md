@@ -32,7 +32,7 @@
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Storage\|Storage]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Organization\|Organization]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Data Analytics\|Data Analytics]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Cloud Migration\|Cloud Migration]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Migration\|Migration]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Monitoring\|Monitoring]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Resource Management\|Resource Management]]
 
