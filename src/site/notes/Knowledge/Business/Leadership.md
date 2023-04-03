@@ -4,6 +4,7 @@
 
 ## Links
 - HarvardX LEAD1x **Exercising Leadership: Foundational Principles**
+- [The home of engineering leadership | LeadDev](https://leaddev.com/)
 ## **Get on the** Balcony**.**
 
 ![Untitled](/img/user/Attachments/Untitled 47.png)
