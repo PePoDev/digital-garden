@@ -2,10 +2,46 @@
 {"dg-publish":true,"permalink":"/knowledge/soft-skill/agile/","dgPassFrontmatter":true}
 ---
 
+## Links
+- [Agile Project Management | Coursera](https://www.coursera.org/learn/agile-project-management)
 ## Certificates
-- CSP
-- A-CSP
-- CSP-SM
+- [ ] CSP
+- [ ] A-CSP
+- [ ] CSP-SM
+- [ ] ICP
+- [ ] ICP-FDO
+- [ ] ICP-IDO
+- [ ] ICP-TST
+- [ ] ICP-ATA
+- [ ] ICP-APM
+- [ ] ICP-DAS
+- [ ] ICP-ATF
+- [ ] ICP-ACC
+- [ ] ICP-AC
+- [ ] ICP-APO
+- [ ] ICP-PDM
+- [ ] ICP-PRG
+- [ ] ICP-ASD
+- [ ] ICP-BAF
+- [ ] ICP-LEA
+- [ ] ICP-PDV
+- [ ] ICP-AL
+- [ ] ICP-AHR
+- [ ] ICP-ORG
+- [ ] ICP-FIN
+- [ ] ICP-MKG
+- [ ] ICP-STR
+- [ ] ICP-ENT
+- [ ] ICP-CAT
+- [ ] ICP-EC
+- [ ] ICP-SYS
+- [ ] ICP-LPM
+- [ ] ACP-100
+- [ ] ACP-120
+- [ ] ACP-420
+- [ ] ACP-600
+- [ ] ACP-610
+- [ ] ACP-620
 ## Introduction
 agile เป็นกระบวนการส่งมอบงานเพื่อให้ได้รับ feedback อย่างต่อเนื่อง ปรับเปลื่ยนให้เข้ากับการแข่งขันได้ตลอดเวลา สิ่งที่ agile focus เลยคือการ feedback ,collaboration และ value
 ## Agile four values
