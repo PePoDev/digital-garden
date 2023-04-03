@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/knowledge/business/financial/","dgPassFrontmatter":true}
 ---
 
+## Links
+- [ThaiPFA สถาบันแรกในการจัดอบรมหลักสูตรการวางแผนการเงินCFP,IC,IP](https://www.thaipfa.co.th/home)
 ## Wealthy
 - Saving
 - Investment
