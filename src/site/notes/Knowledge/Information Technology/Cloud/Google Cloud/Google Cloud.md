@@ -10,8 +10,6 @@
 - [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator)
 - [Partner Certification Kickstart | Google Cloud](https://inthecloud.withgoogle.com/pck-page/register.html)
 - [GCP Exam Google Professional Cloud Architect | ExamTopics](https://www.examtopics.com/exams/google/professional-cloud-architect/)
-
-- [Sign in | Google Cloud Skills Boost for Partners](https://partner.cloudskillsboost.google/course_sessions/2681435/video/347177)
 ## Certificates
 - [ ] Cloud Digital Leader [Coursera](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
 - [ ] Associate Cloud Engineer 
@@ -62,7 +60,7 @@ Google Cloud’s infrastructure is based in five major geographic locations:
 
 ![Pasted image 20230209232307.png](/img/user/Attachments/Pasted%20image%2020230209232307.png)
 
-- In our founding decade, Google became the first major company to be carbon neutral.
+- In our founding decade, Google became the first major company to be carbon neuapitral.
 - In our second decade, we were the first company to achieve 100% renewable energy.
 - By 2030, we aim to be the first major company to operate completely carbon-free.
 
