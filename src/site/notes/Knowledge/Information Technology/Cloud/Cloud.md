@@ -2,9 +2,13 @@
 {"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/cloud/","dgPassFrontmatter":true}
 ---
 
+## Links
+- [Cloud Academy](https://cloudacademy.com/dashboard/)
+- [Tutorials Dojo](https://tutorialsdojo.com/)
+- [Whizlabs](https://www.whizlabs.com/)
 ## Why Cloud?
 - Refresh cycle (buy new hardware every 3 years?)
-- Flexibility (on-demand capacity, cost optimize)
+- Flexibility (on-demand capacity, cost optimization)
 - Elasticity (scalable, pay what you go)
 - Security
 ## Cloud Model
