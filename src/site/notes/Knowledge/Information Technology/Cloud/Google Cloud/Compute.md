@@ -127,6 +127,11 @@
 - Integrated logging and monitoring with Google Cloud Operation Suite
 - Integrated networking with VPC features
 - Cloud Console can view, inspect, and delete the resources
+### Node Auto Provisioning (NAP)
+- Adds new node pools sized to meet demand
+- Without node auto-provisioning, the cluster autoscaler will only create new nodes in the node pools you specified, meaning the new nodes will be the same machine type as the other nodes in that pool
+- This is perfect for helping optimize resource usage for batch workloads and other apps that don't need extreme scaling
+- Creating a node pool specifically optimized for your use case might take more time than just adding more nodes to an existing pool
 ## App Engine
 - Provides a fully managed, code-first platform
 - Streamlined application deployment and scalability
