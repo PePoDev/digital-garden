@@ -47,6 +47,16 @@ Cloud Router lets other networks and Google VPC, exchange route information over
 ![Attachments/Pasted image 20230323004515.png](/img/user/Attachments/Pasted%20image%2020230323004515.png)
 ## Shared VPC vs VPC Peering
 ![Attachments/Pasted image 20230323005240.png](/img/user/Attachments/Pasted%20image%2020230323005240.png)
+## Network Tier
+### Premium Tier
+- Premium Tier delivers traffic over Google’s well-provisioned, low-latency, highly reliable global network
+- This network consists of an extensive global private fiber network with over [100 points of presence (POPs)](https://peering.google.com/#/) across the globe
+![Pasted image 20230404151028.png](/img/user/Attachments/Pasted%20image%2020230404151028.png)
+### Standard Tier
+- Standard Tier is a new lower-cost offering
+- This tier provides network quality that is comparable to other public cloud providers (but lower than Premium Tier) and regional network services such as Regional Load Balancing with one VIP per region
+- The standard tier is priced lower than the Premium because your traffic between Google Cloud and your end-user (Internet) is delivered over transit (ISP) networks instead of Google’s network
+![Pasted image 20230404151042.png](/img/user/Attachments/Pasted%20image%2020230404151042.png)
 ## Load balancer
 - Global Cloud Load Balancing
 	- Use a single, global anycast IP address
