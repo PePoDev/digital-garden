@@ -19,4 +19,4 @@
 	- 🔒 [[Work/Freelance/Freelance\|Freelance]]
 - [[Notes/Notes\|Notes]]
 	- [[Notes/Wish List\|Wish List]]
-	- [[Notes/Private Notes\|Private Notes]]
+	- 🔒 [[Notes/Private Notes\|Private Notes]]
