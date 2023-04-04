@@ -15,7 +15,7 @@
 - Committed use discounts
 - Preemptible and Spot VMs Up to 91% discount!
 - vCPU is equal to 1 hardware hyper-thread
-- Machine families
+- Machine families ![Pasted image 20230404162314.png](/img/user/Attachments/Pasted%20image%2020230404162314.png)
 	- General purpose (ratio of 0.5 GB to 8 GB of memory per vCPU)
 		- E2 (Cost-optimized)
 			- Standard (between 2 to 32 vCPUs)
