@@ -3,7 +3,8 @@
 ---
 
 ## Links
-https://learn.microsoft.com/en-us/training/modules/rust-create-program/3-basic-data-types
+- https://learn.microsoft.com/en-us/training/modules/rust-create-program/3-basic-data-types
+- [Rust Atomics and Locks — Foreword by Paul E. McKenney](https://marabos.nl/atomics/foreword.html)
 ## Highlight
 - System Programming
 - Safer Parallel Programming
