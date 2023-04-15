@@ -125,3 +125,21 @@
 	- \# stack traces
 	- servers that fail liveness checks
 	- And \# dropped connections
+## Reliability
+![Pasted image 20230415214005.png](/img/user/Attachments/Pasted%20image%2020230415214005.png)
+
+![Pasted image 20230415213948.png](/img/user/Attachments/Pasted%20image%2020230415213948.png)
+
+![Pasted image 20230415214040.png](/img/user/Attachments/Pasted%20image%2020230415214040.png)
+
+![Pasted image 20230415214124.png](/img/user/Attachments/Pasted%20image%2020230415214124.png)
+
+![Pasted image 20230415214152.png](/img/user/Attachments/Pasted%20image%2020230415214152.png)
+
+![Pasted image 20230415214233.png](/img/user/Attachments/Pasted%20image%2020230415214233.png)
+
+![Pasted image 20230415214250.png](/img/user/Attachments/Pasted%20image%2020230415214250.png)
+
+![Pasted image 20230415214314.png](/img/user/Attachments/Pasted%20image%2020230415214314.png)
+## Design
+![Pasted image 20230415210545.png](/img/user/Attachments/Pasted%20image%2020230415210545.png)
