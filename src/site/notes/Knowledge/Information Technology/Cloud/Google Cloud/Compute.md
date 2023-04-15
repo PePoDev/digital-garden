@@ -71,7 +71,7 @@
 	- These images will have per-second charges after a one-minute minimum. With the exception of sequel server images, which are charged permanently after a 10-minute minimum.
 
 ![Attachments/Pasted image 20230316144325.png](/img/user/Attachments/Pasted%20image%2020230316144325.png)
-## Persistent Disks
+### Persistent Disks
 - Standard and SSD PDs scale in performance for each GB
 - Resize or migrate instances with no downtime
 - Local SSD can create up to 8 partitions per instance with 375 GB (Total 3TB)
@@ -82,6 +82,7 @@
 - Network throughput scales at 2 Gbps per vCPU
 	- Max 32 Gbps with 16 vCPU
 - Up to 8 NICs connected to different network
+- Each NIC must be attached to a different VPC
 - Can't modify after creation
 ### Pricing
 - Per-second billing, with a minimum of 1 minute
@@ -128,7 +129,8 @@
 - Integrated networking with VPC features
 - Cloud Console can view, inspect, and delete the resources
 - Stream log to Cloud Logging by default
-- Any Linux log files are older than 1 day or reach 100 Mb will be compressed and rotated
+- Node-level logging that is older than 1 day or reaches 100 Mb will be compressed and rotated
+- Binary authorization allows you to enforce deployment of only trusted containers into GKE
 ### Node Auto Provisioning (NAP)
 - Adds new node pools sized to meet demand
 - Without node auto-provisioning, the cluster autoscaler will only create new nodes in the node pools you specified, meaning the new nodes will be the same machine type as the other nodes in that pool
@@ -175,3 +177,5 @@
 - Charges apply only when your code runs
 - Automatic scaling with highly available and fault-tolerant design
 - Triggered based on events in Google Cloud services, HTTP endpoints, and Firebase
+## Decision Tree
+![Pasted image 20230415192602.png](/img/user/Attachments/Pasted%20image%2020230415192602.png)
