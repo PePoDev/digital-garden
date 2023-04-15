@@ -2,13 +2,39 @@
 {"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/google-cloud/storage/","dgPassFrontmatter":true}
 ---
 
-
+## Storage Services
 ![Attachments/Pasted image 20230319173437.png](/img/user/Attachments/Pasted%20image%2020230319173437.png)
 
+![Pasted image 20230415185144.png](/img/user/Attachments/Pasted%20image%2020230415185144.png)
+
 ![Attachments/Pasted image 20230319173542.png](/img/user/Attachments/Pasted%20image%2020230319173542.png)
+### Characteristics
+- SLAs
+- Durability
+- Scale
+	- Horizontally
+		- Bigtable
+		- Spanner
+	- Vertically
+		- Cloud SQL
+		- Memorystore
+	- Automatically
+		- Cloud Storage
+		- BigQuery
+		- Firestore
+- Consistency
+	- Everyone gets the latest copy of the data on reads
+		- Storage
+		- Cloud SQL
+		- Spanner
+		- Filestore
+	- Handle a large volume of writes
+		- Bigtable
+		- Memorystore replicas
+
+![Pasted image 20230415184913.png](/img/user/Attachments/Pasted%20image%2020230415184913.png)
 ## Cloud Storage
 Cloud Storage is a collection of buckets to store objects.
-### FEATURES
 - Scalable to exabytes
 - Time to the first byte in milliseconds
 - Very high availability across all storage classes
@@ -58,10 +84,30 @@ Cloud Storage is a collection of buckets to store objects.
 	- `gsutil signurl -d 10m path/to/privatekey.p12 gs://bucket/object`
 ### Data Import Services
 #### Transfer Appliance
-AWS Snowball-like. Rack, capture, and then ship your data to Google Cloud
+![Pasted image 20230415185928.png](/img/user/Attachments/Pasted%20image%2020230415185928.png)
+- AWS Snowball-like
+- Rackable device up to 1PB
+- Capture and then ship your data to Google Cloud
+- Encryption key control by the customer
+- Google securely erases the appliance after use
 ![Attachments/Pasted image 20230319190416.png](/img/user/Attachments/Pasted%20image%2020230319190416.png)![Attachments/Pasted image 20230319190617.png](/img/user/Attachments/Pasted%20image%2020230319190617.png)
 #### Storage Transfer Service
-Import online data (another bucket, an S3 bucket, or a web source)
+![Pasted image 20230415185310.png](/img/user/Attachments/Pasted%20image%2020230415185310.png)
+- Import online data
+	- Transfer between Cloud Storage buckets
+	- S3 bucket
+	- web source (HTTP/HTTPS location)
+- Scheduled jobs
+	- One-time or recurring
+	- Options for deleting objects not in source or after transfer
+	- Filter on the file name, creation date
+- On-premises agent
+	- Agent run in a Docker container
+	- Set up a connection to Google Cloud
+	- Requires a minimum of 300 Mbps bandwidth
+- Scale to billions of files and 100s of TBs
+- Automatic retires
+- Logged
 #### Offline Media Import
 Third-party provider uploads the data from physical media
 ## Filestore
@@ -119,9 +165,11 @@ Third-party provider uploads the data from physical media
 - Consistent sub-10ms latency
 - Seamless scalability for throughput
 - Learns and adjusts to access patterns
-- Ideal for Ad Tech, Fintech, and IOT
+- Ideal for Ad Tech, Fintech, Stream processing, ML, Analytics, and IoT
 - Storage engine for MK applications
 - Easy integration with open-source big data tools
+- Batch MapReduce operations
+- Choose Bigtable when you have flat data that fit in one row per key, and when you need access latencies for your data to be in the millisecond range
 
 ![Attachments/Pasted image 20230319210450.png](/img/user/Attachments/Pasted%20image%2020230319210450.png)
 
@@ -140,3 +188,5 @@ Third-party provider uploads the data from physical media
 ## Cloud Datastore
 - highly scalable NoSQL database for your web and mobile applications
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Storage#Cloud Firestore\|Firestore]] is the next generation of Datastore
+## Decision Tree
+![Pasted image 20230415161420.png](/img/user/Attachments/Pasted%20image%2020230415161420.png)
