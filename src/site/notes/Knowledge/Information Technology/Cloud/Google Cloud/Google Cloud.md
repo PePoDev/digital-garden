@@ -129,6 +129,9 @@ Designed to programmatically help to manage projects
 - Use with any APIs that support the OpenAPI specification
 - Supports applications running in App Engine, GKE, and Compute Engine
 - Clients include Android, iOS, and Javascript
+- Protect and monitor your public APIs
+- Integrates with Identity Platform
+- Control who has access to your API
 ### API Gateway
 - Backend implementations can vary for a single service provider
 - Provide secure access to your backend services through a well-defined REST API
