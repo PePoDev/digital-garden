@@ -127,11 +127,27 @@
 - Integrated logging and monitoring with Google Cloud Operation Suite
 - Integrated networking with VPC features
 - Cloud Console can view, inspect, and delete the resources
+- Stream log to Cloud Logging by default
+- Any Linux log files are older than 1 day or reach 100 Mb will be compressed and rotated
 ### Node Auto Provisioning (NAP)
 - Adds new node pools sized to meet demand
 - Without node auto-provisioning, the cluster autoscaler will only create new nodes in the node pools you specified, meaning the new nodes will be the same machine type as the other nodes in that pool
 - This is perfect for helping optimize resource usage for batch workloads and other apps that don't need extreme scaling
 - Creating a node pool specifically optimized for your use case might take more time than just adding more nodes to an existing pool
+### Network policy
+- Requirements
+	- Have at least 2 nodes
+	- The node must restart when to enable
+	- All nodes must be of machine type `n1-standard-1` or higher
+### Double-Hop problem
+![Pasted image 20230412224247.png](/img/user/Attachments/Pasted%20image%2020230412224247.png)
+- Set `externalTrafficPolicy: local` in the service manifest to force the `kube-proxy` to choose a Pod on the receiving node for the lowest latency
+### Container-native load balancer
+- eliminates the "Local" external-traffic policy workaround
+- Leverages a Google Cloud HTTP(S) load balancer
+- Traffic is directed to the Pods directly instead of to the nodes
+- Use a data model called Network Endpoint Groups
+![Pasted image 20230412224722.png](/img/user/Attachments/Pasted%20image%2020230412224722.png)
 ## App Engine
 - Provides a fully managed, code-first platform
 - Streamlined application deployment and scalability
