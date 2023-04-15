@@ -6,6 +6,9 @@
 - [เราเตอร์ Asus ROG Rapture GT-AX11000 Tri-band WiFi 6 (802.11ax) Gaming Router](https://www.bnn.in.th/th/p/asus-gt-ax11000-tri-band-wi-fi-6-80211ax-gaming-router-v2-4718017064781-3_zopj7r)
 - [Synology DiskStation DS920 4-bay](https://smartsolutioncomputer.com/TH/product-detail/Synology-DiskStation-DS920%2B-4-bay-NAS-DS920%2B)
 - [NocNoc - Sure-Vision-ขาตั้งจอมอนิเตอร์](https://nocnoc.com/p/Products/Sure-Vision-ขาตั้งจอมอนิเตอร์-13%E2%80%9D--36%E2%80%9D-รุ่น-GSL-36W-(มีไฟ-RGB-สีฟ้า-แบบปรับได้ทุกทิศทาง)/10585167)
+- [เกมเศรษฐี ลงทุนให้รวย ด้วยอสังหาริมทรัพย์](https://m.se-ed.com/Product/Detail/9786160848768)
+- [หลังฉากความสำเร็จ](https://m.se-ed.com/Product/Detail/9786165983716)
+- [Storytel - หนังสือเสียงในมือถือของคุณ](https://www.storytel.com/th/th/c/bookfair2023)
 ## Healthy
 - [ดูแลสุขภาพระดับ DNA | GeneusDNA.com ชุดตรวจยีน](https://www.geneusdna.com/)
 ## Courses
