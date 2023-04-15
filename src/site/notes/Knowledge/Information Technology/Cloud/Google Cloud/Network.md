@@ -18,12 +18,14 @@ A secure, individual, private cloud-computing model hosted within a public cloud
 ![Attachments/Pasted image 20230312223933.png](/img/user/Attachments/Pasted%20image%2020230312223933.png)
 
 #### Cloud External IP Addresses
-#### Cloud Routes
-Cloud Router lets other networks and Google VPC, exchange route information over the VPN using the Border Gateway Protocol. Using this method, if you add a new subnet to your Google VPC, your on-premises network will automatically get routes to it. But using the internet to connect networks isn't always the best option for everyone, either because of security concerns or because of bandwidth reliability.
-
+#### Cloud Router
+- lets other networks and Google VPC, exchange route information over the VPN using the Border Gateway Protocol
+- Using this method, if you add a new subnet to your Google VPC, your on-premises network will automatically get routes to it
+- But using the internet to connect networks isn't always the best option for everyone, either because of security concerns or because of bandwidth reliability
 #### Cloud Firewall Rules
 ## Shared VPC
 - Use IAM roles for delegated administration
+- Required an organization
 - Required roles
 	- Organization Admin
 		- Nominates Shared VPC Admin (compute.xpnAdmin)
@@ -44,6 +46,9 @@ Cloud Router lets other networks and Google VPC, exchange route information over
 
 ![Pasted image 20230327201322.png](/img/user/Attachments/Pasted%20image%2020230327201322.png)
 ## VPC Peering
+- Can be the same or different organizations
+- Subnet ranges can't overlap
+- Network admin for each VPC must approve the peering requests
 ![Attachments/Pasted image 20230323004515.png](/img/user/Attachments/Pasted%20image%2020230323004515.png)
 ## Shared VPC vs VPC Peering
 ![Attachments/Pasted image 20230323005240.png](/img/user/Attachments/Pasted%20image%2020230323005240.png)
@@ -58,6 +63,7 @@ Cloud Router lets other networks and Google VPC, exchange route information over
 - The standard tier is priced lower than the Premium because your traffic between Google Cloud and your end-user (Internet) is delivered over transit (ISP) networks instead of Google’s network
 ![Pasted image 20230404151042.png](/img/user/Attachments/Pasted%20image%2020230404151042.png)
 ## Load balancer
+![Pasted image 20230415191300.png](/img/user/Attachments/Pasted%20image%2020230415191300.png)
 - Global Cloud Load Balancing
 	- Use a single, global anycast IP address
 	- No pre-warming is required
@@ -108,6 +114,10 @@ Cloud Router lets other networks and Google VPC, exchange route information over
 	- Up to 15 SSL certificates (per target proxy)
 	- Create an SSL certificate resource
 
+![Pasted image 20230415191048.png](/img/user/Attachments/Pasted%20image%2020230415191048.png)
+
+![Pasted image 20230415191200.png](/img/user/Attachments/Pasted%20image%2020230415191200.png)
+
 ![Attachments/Pasted image 20230323184230.png](/img/user/Attachments/Pasted%20image%2020230323184230.png)
 ### Backend services
 - Health check
@@ -138,6 +148,7 @@ Cloud Router lets other networks and Google VPC, exchange route information over
 
 ![Attachments/Pasted image 20230323213700.png](/img/user/Attachments/Pasted%20image%2020230323213700.png)
 ## Cloud CDN
+![Pasted image 20230415191233.png](/img/user/Attachments/Pasted%20image%2020230415191233.png)
 - Caches content at the edge of Google's network
 - Automatically logged within Google Cloud (Cache Hit, Cache Miss)
 - Enable Cloud CDN with a simple checkbox when setting up the backend service Cache modes
@@ -145,6 +156,10 @@ Cloud Router lets other networks and Google VPC, exchange route information over
 	- USE_ORIGIN_HEADERS
 	- CACHE_ALL_STATIC
 	- FORCE_CACHE_ALL
+## Network Intelligence Center
+- Visualize network topology
+- Test network connectivity
+![Pasted image 20230415191415.png](/img/user/Attachments/Pasted%20image%2020230415191415.png)
 ## Cloud Interconnect and peering services
 ![Attachments/Pasted image 20230323000001.png](/img/user/Attachments/Pasted%20image%2020230323000001.png)
 
