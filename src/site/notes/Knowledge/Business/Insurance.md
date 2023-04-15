@@ -24,7 +24,6 @@
 ![Attachments/Pasted image 20230311142405.png](/img/user/Attachments/Pasted%20image%2020230311142405.png)
 
 ![Attachments/Pasted image 20230311142457.png](/img/user/Attachments/Pasted%20image%2020230311142457.png)
-
 ## IP (Investment Planner)
 ![Attachments/Pasted image 20230311143129.png](/img/user/Attachments/Pasted%20image%2020230311143129.png)
 ## AFPT ()
