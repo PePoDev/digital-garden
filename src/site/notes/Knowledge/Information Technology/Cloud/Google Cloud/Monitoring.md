@@ -34,7 +34,7 @@
 - Determine your monitoring needs upfront
 - Consider using separate Workspaces for data and control isolation
 
-![Attachments/Pasted image 20230320222319.png](/img/user/Attachments/Pasted%20image%2020230320222319.png)
+![Pasted image 20230415141243.png](/img/user/Attachments/Pasted%20image%2020230415141243.png)
 ## Cloud Logging
 - Platform, systems, and application logs
 	- API to write to logs
