@@ -22,6 +22,8 @@
 ![Attachments/Pasted image 20230319214044.png](/img/user/Attachments/Pasted%20image%2020230319214044.png)
 - Can use with Data Studio to visualize the cost by category
 ## Cloud Identity
+![Pasted image 20230415221925.png](/img/user/Attachments/Pasted%20image%2020230415221925.png)
+
 ![Pasted image 20230327162202.png](/img/user/Attachments/Pasted%20image%2020230327162202.png)
 
 ![Pasted image 20230327162918.png](/img/user/Attachments/Pasted%20image%2020230327162918.png)
@@ -45,6 +47,7 @@
 - Sync accounts
 - Keeps a trust boundary clear between on-premises and cloud
 ## Identity-Aware Proxy (IAP)
+![Pasted image 20230415221844.png](/img/user/Attachments/Pasted%20image%2020230415221844.png)
 - A central authorization layer for applications accessed by HTTPS
 - You can use an application-level access control model instead of relying on network-level firewalls
 - Applications and resources protected by Cloud IAP can only be accessed through the proxy by users and groups with the correct Cloud IAM role
@@ -76,4 +79,4 @@
 		- GKE API: 1000 requests per 100 seconds
 	- Allocation
 		- 5 networks per project
-- Can change by requesting to Google Cloud support
+- Can change by requesting Google Cloud support
