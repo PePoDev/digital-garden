@@ -31,6 +31,8 @@
 
 ## CFP (Certified Financial Planner)
 
+## CFA
+
 ## Accredited Investment and Securities Analyst (AISA)
 
 ## Certified Investment and Securities Analyst (CISA)
