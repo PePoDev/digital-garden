@@ -44,6 +44,19 @@
 - Monitoring alerts can be set on log events
 - Data can be exported to Cloud Storage, BigQuery, and Pub/Sub
 - Export to Cloud storage, BigQuery, and Pub/Sub
+- Data access logs are retained for 1-3650 days and Admin logs for 400 days
+- Logs
+	- Cloud Audit Logs
+		- Admin activity
+		- Data Access
+		- System Event
+		- Access Transparency
+	- Agent Logs
+	- Network Logs
+		- VPC flow
+		- Firewall rules
+		- NAT gateway
+		- Load Balancer
 ## Data Studio
 - Connect to BigQuery
 - Transform raw data into metrics and dimensions
@@ -56,7 +69,7 @@
 - Latency reporting
 - Per-URL latency sampling
 - Automatically analyzes to generate in-depth latency reports
-- Data
+- Support
 	- App Engine
 	- Google HTTP(S) load balancers
 	- Applications instrumented with the Cloud Trace SDKs
@@ -64,7 +77,17 @@
 - Inspect an application without stopping it or slowing it down significantly
 - Capture call stack and local variables of a running application
 - Inject logging into a service without stopping it
+- Increased collaboration by sharing debug session
+- Debug snapshots, logpoints, conditional debugging
+- Integrations with popular IDEs
 ## Cloud Profiler
 - Uses statistical techniques and extremely low-impact instrumentation that runs across all production application instances to provide a complete CPU and heap picture of an application
-- Allows developers to analyze applications running anywhere, including Google Cloud, another cloud performs, or on-premises, with support for Java, Go, Python, and NodeJS
+- Support for Java, Go, Python, and NodeJS
 - Presents the call hierarchy and resource consumption of the relevant function in an interactive flame graph
+- Improve performance and reduce costs
+- Understand application call patterns
+## Service Monitoring
+- Understand and troubleshoot intra-service dependencies
+- Current support for App Engine, Anthos Service Mesh, and Istio
+- Know when you're meeting or breaking SLOs
+- Know when you have an error budget to spend
