@@ -57,6 +57,8 @@
 - SLIs are carefully selected monitoring metrics that measure one aspect of a service's reliability
 - Ideally, SLIs should have a close linear relationship with your users' experience of that reliability, and we recommend expressing them as the ratio of two numbers: the number of good events divided by the count of all valid events
 - Must be time-bound and measurable
+- 3-5 SLIs per user journey
+![Pasted image 20230415230240.png](/img/user/Attachments/Pasted%20image%2020230415230240.png)
 ### Service level objective (SLO)
 - combines a service level indicator with target reliability
 - If you express your SLIs as is commonly recommended, your SLOs will generally be somewhere just short of 100%, for example, 99.9%, or "three nines."
@@ -66,7 +68,10 @@
 	- The goal is to make them as low as you can get away with while still making users happy (That's why it's important to understand your users)
 	- The higher you set the SLO, the higher the cost of computer resources (redundancy) and operations effort (people time)
 	- Applications should not significantly outperform their SOLs, because users come to expect the level of reliability you usually give them
+
 ![Pasted image 20230331234112.png](/img/user/Attachments/Pasted%20image%2020230331234112.png)
+
+![Pasted image 20230415230315.png](/img/user/Attachments/Pasted%20image%2020230415230315.png)
 #### S.M.A.R.T
 - Specific
 	  A question such as “Is the site fast enough for you?” is not specific; it's subjective. A statement such as “The 95th percentile of results are returned in under 100 milliseconds” is specific.
@@ -87,6 +92,32 @@
 - Your SLO thresholds should be stricter than your SLA
 
 ![Pasted image 20230331234719.png](/img/user/Attachments/Pasted%20image%2020230331234719.png)
+
+![Pasted image 20230415225850.png](/img/user/Attachments/Pasted%20image%2020230415225850.png)
+
+![Pasted image 20230415225910.png](/img/user/Attachments/Pasted%20image%2020230415225910.png)
+
+![Pasted image 20230415230100.png](/img/user/Attachments/Pasted%20image%2020230415230100.png)
+## Error Budget
+![Pasted image 20230416012609.png](/img/user/Attachments/Pasted%20image%2020230416012609.png)
+
+![Pasted image 20230416005645.png](/img/user/Attachments/Pasted%20image%2020230416005645.png)
+
+![Pasted image 20230416005637.png](/img/user/Attachments/Pasted%20image%2020230416005637.png)
+
+![Pasted image 20230416005717.png](/img/user/Attachments/Pasted%20image%2020230416005717.png)
+
+![Pasted image 20230416005755.png](/img/user/Attachments/Pasted%20image%2020230416005755.png)
+## Alert
+![Pasted image 20230416012814.png](/img/user/Attachments/Pasted%20image%2020230416012814.png)
+
+![Pasted image 20230416012939.png](/img/user/Attachments/Pasted%20image%2020230416012939.png)
+
+![Pasted image 20230416012951.png](/img/user/Attachments/Pasted%20image%2020230416012951.png)
+
+![Pasted image 20230416013011.png](/img/user/Attachments/Pasted%20image%2020230416013011.png)
+
+![Pasted image 20230416013026.png](/img/user/Attachments/Pasted%20image%2020230416013026.png)
 ### Four Golden Signals
 - Latency
 	- Page load latency
@@ -125,6 +156,24 @@
 	- \# stack traces
 	- servers that fail liveness checks
 	- And \# dropped connections
+## Postmortem
+- Impact
+- Root Causes and Trigger
+- Detection
+- Resolution
+- Quantifiable metrics
+- Lessons Learned
+- Timeline
+- Action items
+## Incident Management
+![Pasted image 20230416044903.png](/img/user/Attachments/Pasted%20image%2020230416044903.png)
+
+![Pasted image 20230416045123.png](/img/user/Attachments/Pasted%20image%2020230416045123.png)
+
+>[!NOTE]
+> **Blameless Culture**
+> Fix problems, not people
+
 ## Reliability
 ![Pasted image 20230415214005.png](/img/user/Attachments/Pasted%20image%2020230415214005.png)
 
