@@ -17,6 +17,8 @@
 ## Cloud Monitoring
 ![Attachments/Pasted image 20230320222055.png](/img/user/Attachments/Pasted%20image%2020230320222055.png)
 
+![Pasted image 20230415225329.png](/img/user/Attachments/Pasted%20image%2020230415225329.png)
+
 ![Pasted image 20230328221839.png](/img/user/Attachments/Pasted%20image%2020230328221839.png)
 
 - Dynamic config and intelligent defaults
@@ -26,8 +28,40 @@
 - Uptime/health checks
 - Dashboards
 - Alerts
-### Ops Agent
+### Custom metrics
+- Use the Cloud Monitoring API
+- Use OpenCensus
+	- Open-source library to help capture, manipulate, and export traces and metrics
+	- Low overhead and broadly supported
+	- Measure
+		- represent a metric being recorded
+	- Measurement
+		- data point recorded as a Measure
+	- View
+		- represents the coupling of an Aggregation applied to a Measure and optionally Tags
+### Logs-based Metrics
+- Don't reinvent the wheel (Google has a curated list of over 1,000 predefined metrics, check there first)
+- Metric types
+	- Counter - counts the number of log entries
+	- Distribution - extracted log values in histogram buckets
+		- Linear: buckets of fixed width
+		- Exponential:
+			- N+2 buckets
+			- Upper:scale * (growthFactor ^ i)
+			- Lower:scale * (growthFactor ^ (i-1))
+		- Explicit: Array of bucket boundaries
+## OS Monitoring Agent
 - Support Compute Engine and AWS EC2
+- Based on the open-source collected
+- Gathers additional system resources and application metrics
+- Optional, but recommended
+- The additional support offered through BindPlane from Blue Medora
+## OS Logging Agent
+- Support third-party applications, such as
+	- Apache/Tomcat/Nginx
+	- Chef/Jenkins/Puppet
+	- Cassandra/MongoDB/MySQL
+- Based on fluentd log data collector (can add own fluentd configuration files)
 ## Monitoring pyramid
 ![Pasted image 20230328221611.png](/img/user/Attachments/Pasted%20image%2020230328221611.png)
 ### Workspace
@@ -44,19 +78,34 @@
 - Monitoring alerts can be set on log events
 - Data can be exported to Cloud Storage, BigQuery, and Pub/Sub
 - Export to Cloud storage, BigQuery, and Pub/Sub
-- Data access logs are retained for 1-3650 days and Admin logs for 400 days
+- Data access logs are and Admin logs for 400 days
 - Logs
 	- Cloud Audit Logs
 		- Admin activity
+			- API calls modifying configuration or metadata
+			- retained for 400 days
+			- no charge
+			- Always Enabled
 		- Data Access
+			- API calls that read metadata, and configuration or that create, modify, or read user-provided data
+			-  retained for 1-3650 days (30 default)
+			- Data access by All Users or All Authenticated Users
+			- Needs to be enabled
 		- System Event
+			- Record Google Cloud non-human admin actions that modify configurations
+			- Part of Google's transparency
+			- no charge
+			- Retention is 400 days
+			- Always Enabled
 		- Access Transparency
+			- How and Why customer data is accessed once it has been stored in Google Cloud
 	- Agent Logs
 	- Network Logs
 		- VPC flow
 		- Firewall rules
 		- NAT gateway
 		- Load Balancer
+- Firewall Rule Logging
 ## Data Studio
 - Connect to BigQuery
 - Transform raw data into metrics and dimensions
@@ -64,6 +113,7 @@
 - Error dashboard/notification
 - Counts analyze and aggregate the crashes in your running cloud services
 - Management interface displays the results with sorting and filtering capability
+- Centralized error management interface
 ## Cloud Trace
 - Displays data/performance insights in near real-time
 - Latency reporting
@@ -91,3 +141,20 @@
 - Current support for App Engine, Anthos Service Mesh, and Istio
 - Know when you're meeting or breaking SLOs
 - Know when you have an error budget to spend
+- Select latency or availability metrics to act as SLIs
+- Use SLIs to easily create SLOs
+- Alerting easily integrated
+
+![Pasted image 20230416005849.png](/img/user/Attachments/Pasted%20image%2020230416005849.png)
+
+![Pasted image 20230416005907.png](/img/user/Attachments/Pasted%20image%2020230416005907.png)
+
+![Pasted image 20230416005919.png](/img/user/Attachments/Pasted%20image%2020230416005919.png)
+
+![Pasted image 20230416005945.png](/img/user/Attachments/Pasted%20image%2020230416005945.png)
+## Pricing
+![Pasted image 20230416051658.png](/img/user/Attachments/Pasted%20image%2020230416051658.png)
+## Free Allotment
+![Pasted image 20230416051717.png](/img/user/Attachments/Pasted%20image%2020230416051717.png)
+
+![Pasted image 20230416051750.png](/img/user/Attachments/Pasted%20image%2020230416051750.png)
