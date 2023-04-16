@@ -3,7 +3,7 @@
 ---
 
 ## Links
-- [Assessment Registration](https://www.webassessor.com/wa.do?page=enterCatalog&tabs=7)
+- [Assessment Registration](https://www.webassessor.com/wa.do?page=publicHome&branding=GOOGLECLOUD)
 - [Google Cloud Skills Boost for Partners](https://partner.cloudskillsboost.google)
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/profile/paths)
 - [Google Cloud Partner Technical Training](https://rsvp.withgoogle.com/events/partner-learning/google-cloud-certifications)
@@ -25,7 +25,7 @@
 - [ ] Google Workspace Administrator
 ## Contents
 - [[Knowledge/Information Technology/Cloud/Google Cloud/IAM\|IAM]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Network\|Network]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Network\|Knowledge/Information Technology/Cloud/Google Cloud/Network]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Compute\|Compute]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Storage\|Storage]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Organization\|Organization]]
