@@ -22,6 +22,8 @@
 ![Pasted image 20230415223030.png](/img/user/Attachments/Pasted%20image%2020230415223030.png)
 
 ![Pasted image 20230415223117.png](/img/user/Attachments/Pasted%20image%2020230415223117.png)
+## Cloud DLP (Data Loss Prevention)
+- redact PII from Google Cloud Service
 ## Cloud Armor
 ![Pasted image 20230415222837.png](/img/user/Attachments/Pasted%20image%2020230415222837.png)
 
