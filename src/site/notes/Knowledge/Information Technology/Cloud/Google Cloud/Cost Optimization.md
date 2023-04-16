@@ -38,3 +38,11 @@
 ![Pasted image 20230415224016.png](/img/user/Attachments/Pasted%20image%2020230415224016.png)
 
 ![Pasted image 20230415224038.png](/img/user/Attachments/Pasted%20image%2020230415224038.png)
+### Products Which Can Generate Big Logs
+- VPC Flow Logs
+	- Percentage
+	- Message type (CIDR)
+- HTTP 200 OK from requests
+- Load balancer
+- Logging agent on Compute Engine or AWS
+- The write operation 9in the Cloud Logging API
