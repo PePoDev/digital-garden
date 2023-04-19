@@ -6,7 +6,6 @@
 - [Cloud Academy](https://cloudacademy.com/dashboard/)
 - [Tutorials Dojo](https://tutorialsdojo.com/)
 - [Whizlabs](https://www.whizlabs.com/)
-- [ExamTopics](https://www.examtopics.com/)
 ## Why Cloud?
 - Refresh cycle (buy new hardware every 3 years?)
 - Flexibility (on-demand capacity, cost optimization)
