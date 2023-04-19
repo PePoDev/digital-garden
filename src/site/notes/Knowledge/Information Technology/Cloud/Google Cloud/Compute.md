@@ -7,14 +7,26 @@
 ## Compute Engine
 - Machine rightsizing
 - Live migrate
+	- migrate the running instance to another host in the same zone
+	- Support for instances with Local SSDs
+	- Not Support for GPUs and preemptible instances
+	- Availability Policy
+		- On host maintenance
+			- Migrate (default)
+			- Terminate
+		- Automatic restart
 - Auto restart
 - Global load balancing
 - OS patch management
-- Per-second billing
-- Sustained use discounts
-- Committed use discounts
-- Preemptible and Spot VMs Up to 91% discount!
 - vCPU is equal to 1 hardware hyper-thread
+- Sole-Tenant
+- GPU
+	- Use images with GPU libraries (Deep Learning) otherwise, GPU will not be used
+	- restrictions
+		- NOT supported on all machine types
+		- host maintenance can only have the value "Terminate"
+- TPU
+	- Use for massive matrix operations performed
 - Machine families ![Pasted image 20230404162314.png](/img/user/Attachments/Pasted%20image%2020230404162314.png)
 	- General purpose (ratio of 0.5 GB to 8 GB of memory per vCPU)
 		- E2 (Cost-optimized)
@@ -78,6 +90,8 @@
 - Standard and non-local SSD can be sized up to 257 TB for each instance
 - Attach read-only for multiple VMs
 ![Pasted image 20230325153309.png](/img/user/Attachments/Pasted%20image%2020230325153309.png)
+### Snapshot
+![Compute-2023-04-17.png](/img/user/Attachments/Compute-2023-04-17.png)
 ### Networking
 - Network throughput scales at 2 Gbps per vCPU
 	- Max 32 Gbps with 16 vCPU
@@ -89,16 +103,24 @@
 - Resource-based pricing: each vCPU and memory is billed separately
 - Discounts
 	- Sustained use
+		- If using more than 25% of a month, You will get a 20% to 50% discount on every incremental minute
+		- Applicable for GKE and Compute Engine
 	- Committed use
+		- For predictable resource needs
 		- up to 57% for most machine types
 		- up to 70% for memory-optimized machine types
+		- Applicable for GKE and Compute Engine
 	- Preemptible VM
 		- Up to 91%
-		- 30-second termination warning, but not guaranteed
+		- 30-second stop warning, but not guaranteed
 		- 24 hours max
+		- Free tier credits are not applicable
 		- no live migration; no auto restart
 	- Spot VM
 		- the latest version of preemptible
+		- 30-second notice to be reclaimed at any time
+		- Dynamic pricing 60-91% discount
+		- Free tier credits are not applicable
 		- no maximum runtime
 		- no live migration; no auto restart
 - Recommendation Engine
@@ -131,6 +153,19 @@
 - Stream log to Cloud Logging by default
 - Node-level logging that is older than 1 day or reaches 100 Mb will be compressed and rotated
 - Binary authorization allows you to enforce deployment of only trusted containers into GKE
+- Number of nodes per region
+- Mode
+	- Standard
+		- Pay per resources provisioned
+		- User configured resources
+		- User Configured autoscaling
+		- Regional or zonal
+	- Autopilot
+		- Google manages nodes and pools
+		- Provision based on pod specification
+		- Pay per pod, only resources used
+		- Built-in security best practices
+		- Regional
 ### Node Auto Provisioning (NAP)
 - Adds new node pools sized to meet demand
 - Without node auto-provisioning, the cluster autoscaler will only create new nodes in the node pools you specified, meaning the new nodes will be the same machine type as the other nodes in that pool
@@ -150,32 +185,103 @@
 - Traffic is directed to the Pods directly instead of to the nodes
 - Use a data model called Network Endpoint Groups
 ![Pasted image 20230412224722.png](/img/user/Attachments/Pasted%20image%2020230412224722.png)
+### Workload Identity
+- Access Google Cloud services in a secure and manageable way
+- Workload Identity allows a Kubernetes service account in your GKE cluster to act as an IAM service account
+- Pods that use the configured Kubernetes service account automatically authenticate as the IAM service account when accessing Google Cloud APIs
 ## App Engine
 - Provides a fully managed, code-first platform
 - Streamlined application deployment and scalability
 - Support popular programming languages and application runtimes
 - Simplifies version control canary testing, and rollbacks
+- Scaling mode
+	- Automatic - Create instance based on request rate, response latencies, and other metrics
+	- Basic - Create instance when receiving requests, shutdown when idle
+	- Manual
 - Standard Mode
-  - Run in seconds
-  - no SSH access
-  - no write on disk (maybe /tmp available)
-  - network access via App Engine
-  - pay per instance class with automatic shutdown
+	- Run in seconds with preconfigured containers
+	- The application run in a secure sandbox
+	- no SSH access
+	- no write on disk (maybe /tmp available)
+	- network access via App Engine
+	- pay per instance (hours) class with automatic shutdown
+	- Can scale to zero instance
+	- Standard runtimes: Python, Java, Node, Go, PHP, and Ruby
+	- Max Request timeout 1 to 10 minutes
 - Flexible Mode
-  - Run in minutes
-  - SSH accessible
-  - ephemeral disk
-  - Can access without App Engine network
-  - Pay per hour and no automatic shutdown
+	- Run in minutes with customized Docker containers
+	- SSH accessible (Not restricted as sandbox used in Standard mode)
+	- Access resources in Compute Engine
+	- ephemeral disk
+	- Can access without App Engine network
+	- Pay per hour based on vCPU, Memory, and persistent disks
+	- Minimum 1 instance
+	- No automatic shutdown
+	- Max Request timeout 60 minutes
+- Configured in `app.yaml`
+	- `Target_cpu_utilization`
+	- `Target_throughput_utilization`
+	- `Max_concurrent_requests`
+	- `Max_pending_latency`
+	- `Min_pending_latency`
+- Traffic Splitting
+	- IP Address
+	- HTTP cookie
+	- Random
+- One Application per project
 ## Cloud Run
 - A managed-to-compute platform that can run the stateless containers
 - Serverless, removing the need for infrastructure management
 - Built on Knative, an open API and runtime environment built on Kubernetes
 - Automatically scale up and down from zero almost instantaneously charging only for the resources used
+- Pay-per-use
+- Up to 1000 container instances by default
+- Manage identities that can access service or allow unauthorized access
+- Containers isolated to gVisor sandbox
+- Container instance can receive up to 80 requests at the same time (1,000 max)
+- Possible to reduce concurrency to 1
 ## Cloud Function
 - Cloud Functions is a lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events, without the need to manage a server or a runtime environment
 - Charges apply only when your code runs
 - Automatic scaling with highly available and fault-tolerant design
 - Triggered based on events in Google Cloud services, HTTP endpoints, and Firebase
+- Receive 1 request at a time
+- Trigger types
+	- HTTP
+	- Cloud Storage
+	- Cloud Pub/Sub
+	- Cloud Firestore
+	- Firebase
+	- Cloud Logging
+- No internet access by default
+- Best practices
+	- Correctness
+		- Write idempotent functions
+		- Send HTTP response in HTTP functions
+		- Do not start background operations
+		- Clean up temporary files
+		- Do not manually exit, e.g. do not use `sys.exit()` in Python
+	- Performance
+		- Balance the use of imports with performance
+		- Use global variables to reuse variables across invocations
+		- Use lazy initialization on global variables
+- Generation
+	- V1
+		- 1 concurrent request per function instance
+		- Up to 8 GB with 2 vCPU
+		- Support 4 event types
+	- V2
+		- Build on top of Cloud Run and Eventarc
+		- Recommended
+		- Request timeout up to 60 minutes for HTTP triggered
+		- Up to 16 GiB with 4 vCPU
+		- Up to 1000 concurrent per function instance
+		- Support Multiple Function Revisions and Traffic Splitting
+		- Support for 90+ event types
+- Typical serverless functions architecture
+	- Autoscaling as new invocations com in
+	- One function instance handles ONLY ONE request at a time
+	- Cold Start
+		- Solution - Configure Min number instance (increases cost)
 ## Decision Tree
 ![Pasted image 20230415192602.png](/img/user/Attachments/Pasted%20image%2020230415192602.png)
