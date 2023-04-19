@@ -34,47 +34,68 @@
 
 ![Pasted image 20230415184913.png](/img/user/Attachments/Pasted%20image%2020230415184913.png)
 ## Cloud Storage
-Cloud Storage is a collection of buckets to store objects.
 - Scalable to exabytes
 - Time to the first byte in milliseconds
 - Very high availability across all storage classes
 - Single API across storage classes
+- Automatic encryption
+	- Google Managed
+	- Customer managed - using Cloud Key Management Service
+	- Customer supplied - using the key created and managed by the customer
 - The customer-supplied encryption key (CSEK)
 - Object Versioning
 	- Maintain a history of modifications of objects
 	- List archived versions of an object, restore or delete.
 - Object Lifecycle Management
+	- Can manage the classes of objects
+	- Retention policies specify a minimum retention period
 	- Object inspection occurs in asynchronous batches
 	- Changes can take 24 hours to apply
-	- Example
-		- Downgrade storage class on objects older than a year
-		- Delete objects created before a specific date
-		- Keep only the 3 most recent versions of an object
+	- Lifecycle policy
+		- Rules applied to buckets and content
+		- Actions executed when condition applies
+	- Lifecycle Actions
+		- Delete
+			- If versioned, deleting the live version creates a non-current version
+			- If versioned, deleing non-current version deletes the object permanently
+		- Change storage class based on age (can't change to the better class)
+	- Lifecycle conditions
+		- Age
+		- Created before date
+		- Is Live
+		- Matches Storage Class
+		- Number of Newer Version
 - Directory synchronization
 - Object change notification
 	- Can use with pub/sub notifications for Cloud Storage 
-- ACLs
-### Notes
-- The default class is applied to new objects
-- The regional bucket can never be changed to multi-region/dual-region
-- The multi-regional bucket can never be changed to regional
-- Objects can be moved from bucket to bucket
-- Object Lifecycle Management can manage the classes of objects
 ### Storage Class
+- The default class is applied to new objects
 ![Attachments/Pasted image 20230319174904.png](/img/user/Attachments/Pasted%20image%2020230319174904.png)
-### ACLs
-- ACL is a mechanism used to define who has access to your buckets and objects, as well as the level of access to have
-- The maximum number of ACL entries you can create for a bucket or object is 100
-- Each ACL consists of one or more entries, and these entries consist of two pieces of information
-- A scope that defines who can perform the specified actions
-- The permission defines what actions can be performed
-- The `allUsers` identifier listed under the slide represents anyone who is on the Internet, with or without a Google account
-- The `allAuthenticatedUsers` identifier, in contrast, represents anyone who is authenticated with a Google account
-![Attachments/Pasted image 20230319182213.png](/img/user/Attachments/Pasted%20image%2020230319182213.png)
-### Signed URLs
-- Create a URL that grants read or write access to a specific cloud storage resource, and specifies when this access expires.
-- That URL is signed using a private key associated with their service account. 
-- When the request is received, Cloud Storage can verify that the axis granting URL was issued on behalf of a trusted security principle.
+### Redundancy
+- Regional
+	- Data stored in a single region
+	- Replicated across zones
+	- Can't change to multi-region or dual-region
+- Dual-region
+	- Data replicated across specific par of regions
+	- Auto-failover
+- Multi-region
+	- Data duplicated across US, EU, or Asia
+	- Auto-failover
+	- Can't change to regional
+### Access Controls
+#### Uniform bucket level access
+- Recommended
+- Use Cloud Identity and IAM
+- Applies permissions to objects in a bucket or group of objects with a common prefix
+#### Fine-grained
+- Legacy access control method
+- Uses access control lists
+- Apply for permissions at both bucket and object level
+#### Signed URLs
+- Create a URL that grants read or write access to a specific cloud storage resource, and specifies when this access expires
+- That URL is signed using a private key associated with their service account
+- When the request is received, Cloud Storage can verify that the axis granting URL was issued on behalf of a trusted security principle
 - "Valet Key" access to buckets and objects via ticket
 	- The ticket is a cryptographically signed URL
 	- Time-limited
@@ -82,13 +103,30 @@ Cloud Storage is a collection of buckets to store objects.
 	- Any user with a URL can invoke permitted operations
 - Example:
 	- `gsutil signurl -d 10m path/to/privatekey.p12 gs://bucket/object`
+### ACLs
+- ACL is a mechanism used to define who has access to your buckets and objects, as well as the level of access to have
+- The maximum number of ACL entries you can create for a bucket or object is 100
+- Each ACL consists of one or more entries, and these entries consist of two pieces of information
+	- A scope that defines who can perform the specified actions
+	- The permission defines what actions can be performed
+- The `allUsers` identifier represents anyone who is on the Internet, with or without a Google account
+- The `allAuthenticatedUsers` identifier, in contrast, represents anyone who is authenticated with a Google account
+![Attachments/Pasted image 20230319182213.png](/img/user/Attachments/Pasted%20image%2020230319182213.png)
 ### Data Import Services
 #### Transfer Appliance
-![Pasted image 20230415185928.png](/img/user/Attachments/Pasted%20image%2020230415185928.png)
-- AWS Snowball-like
+- Process
+	1. Request Transfer Appliance
+	2. Encrypt and copy your data
+	3. Shop it back to Google
+	4. Google loads the data
+	5. You decrypt your data
+- Capacity
+	- 40 TB
+	- 300 TB
 - Rackable device up to 1PB
 - Capture and then ship your data to Google Cloud
 - Encryption key control by the customer
+- Used when at least 10 TB of data or would take more than 1 week to load data
 - Google securely erases the appliance after use
 ![Attachments/Pasted image 20230319190416.png](/img/user/Attachments/Pasted%20image%2020230319190416.png)![Attachments/Pasted image 20230319190617.png](/img/user/Attachments/Pasted%20image%2020230319190617.png)
 #### Storage Transfer Service
@@ -119,6 +157,11 @@ Third-party provider uploads the data from physical media
 - Cloud SQL offers fully managed relational databases, including MySQL, PostgreSQL, and SQL Server as a service
 - Designed to hand off mundane, but necessary and often time-consuming, tasks to Google—like applying patches and updates managing backups, and configuring replications
 - Spec: 64 TB of Storage, 60000 IOPS, 624 GB of RAM
+- Partitions shard data
+- Geograohy
+	- Regional data store
+	- Multiple zones for high availability
+	- Multi-region for backups only
 - Scale:
 	- Up: Machine capacity
 	- Out: Read replicas
@@ -132,9 +175,18 @@ Third-party provider uploads the data from physical media
 - Cloud Spanner is a fully managed relational database service that scales horizontally, is strongly consistent, and speaks SQL
 - Battle-tested by Google’s mission-critical applications and services, Spanner is the service that powers Google’s $80 billion business
 - Cloud Spanner is especially suited for applications that require: A SQL relational database management system with joins and secondary indexes Built-in high availability Strong global consistency And high numbers of input and output operations per second
+- Globally distributed and scalable
 - Tens of thousands of reads and writes per second or more
 - Scale to petabytes
 - Used for financial and inventory applications
+- Limitations
+	- 100 databases per instance
+	- Up to 2 TB per node
+	- 1000 tables per database
+	- 1024 columns per database
+	- 10MB maximum data per column
+	- 32 indexes per table
+	- 10000 indexes per database
 - Uptime (Multi-regional: 99.999%, Regional: 99.99)
 
 ![Attachments/Pasted image 20230319205034.png](/img/user/Attachments/Pasted%20image%2020230319205034.png)
@@ -148,13 +200,21 @@ Third-party provider uploads the data from physical media
 - ACID transactions
 - Multi-region replication
 - Live synchronization and offline support
-- Datastore mode (server)
-	- backward compatible with Cloud Datastore
-	- No entity limits
-- Native mode (mobile and web apps)
-	- Collection and document data model
-	- Real-time updates
-
+- Mode
+	- Datastore mode (server)
+		- backward compatible with Cloud Datastore
+		- No entity limits
+		- Used as Backend for server applications
+	- Native mode (mobile and web apps)
+		- Collection and document data model
+		- Real-time updates
+		- Used with mobile & web applications
+- Entities
+	- Describe or represent a thing
+	- A single entity is analogous to a row in a relational table
+	- A set of entities with similar attributes is somewhat analogous to a table in a relational database
+	- Entities have properties
+	- Related entities knowns as Kinds
 ![Attachments/Pasted image 20230319205822.png](/img/user/Attachments/Pasted%20image%2020230319205822.png)
 ## Cloud Bigtable
 - Cloud Bigtable is Google's NoSQL big data database service
