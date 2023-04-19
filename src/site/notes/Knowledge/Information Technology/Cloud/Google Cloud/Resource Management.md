@@ -46,12 +46,6 @@
 - Synchronized forest pattern ![Pasted image 20230328220909.png](/img/user/Attachments/Pasted%20image%2020230328220909.png)
 - Sync accounts
 - Keeps a trust boundary clear between on-premises and cloud
-## Identity-Aware Proxy (IAP)
-![Pasted image 20230415221844.png](/img/user/Attachments/Pasted%20image%2020230415221844.png)
-- A central authorization layer for applications accessed by HTTPS
-- You can use an application-level access control model instead of relying on network-level firewalls
-- Applications and resources protected by Cloud IAP can only be accessed through the proxy by users and groups with the correct Cloud IAM role
-- When you grant a user access to an application or resource by Cloud IAP, they're subject to the fine-grained access controls implemented by the product in use without requiring a VPN
 ## Billing
 ### Billing Account
 - pays for project resources
