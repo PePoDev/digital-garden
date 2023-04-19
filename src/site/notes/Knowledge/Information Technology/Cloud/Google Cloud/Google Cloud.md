@@ -11,11 +11,11 @@
 - [Partner Certification Kickstart | Google Cloud](https://inthecloud.withgoogle.com/pck-page/register.html)
 - [GCP Exam Google Professional Cloud Architect | ExamTopics](https://www.examtopics.com/exams/google/professional-cloud-architect/)
 ## Certificates
-- [ ] Cloud Digital Leader [Coursera](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
-- [ ] Associate Cloud Engineer 
-- [ ] Professional Cloud Architect [Coursera](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
-- [ ] Professional Cloud Developer [Coursera](https://www.coursera.org/professional-certificates/google-cloud-developer)
-- [ ] Professional Cloud DevOps Engineer [Coursera](https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud)
+- [ ] Cloud Digital Leader
+- [ ] Associate Cloud Engineer
+- [ ] Professional Cloud Architect
+- [ ] Professional Cloud Developer
+- [ ] Professional Cloud DevOps Engineer
 - [ ] Professional Data Engineer
 - [ ] Professional Cloud Security Engineer
 - [ ] Professional Cloud Network Engineer
