@@ -62,12 +62,17 @@
 	- Lifecycle conditions
 		- Age
 		- Created before date
-		- Is Live
 		- Matches Storage Class
 		- Number of Newer Version
 - Directory synchronization
+- Max object size is 5TB
+- Metadata for each file
 - Object change notification
-	- Can use with pub/sub notifications for Cloud Storage 
+	- Can use with pub/sub notifications for Cloud Storage
+- Ramp up request rate gradually
+	- No problem up to 1000 write and 5000 read request per second, But more than this, take at least 20 minutes to double request rates
+- Use `Exponential backoff` if you receive 5xx (server error) or 429 (too many requests) (e.g. retry after 1, 2, 4, 8, 16, ... seconds)
+- Use **Cloud Storage FUSE** to enable file system access to Cloud Storage
 ### Storage Class
 - The default class is applied to new objects
 ![Attachments/Pasted image 20230319174904.png](/img/user/Attachments/Pasted%20image%2020230319174904.png)
@@ -90,7 +95,14 @@
 - Applies permissions to objects in a bucket or group of objects with a common prefix
 #### Fine-grained
 - Legacy access control method
-- Uses access control lists
+- Uses ACLs
+	- ACL is a mechanism used to define who has access to your buckets and objects, as well as the level of access to have
+	- The maximum number of ACL entries you can create for a bucket or object is 100
+	- Each ACL consists of one or more entries, and these entries consist of two pieces of information
+		- A scope that defines who can perform the specified actions
+		- The permission defines what actions can be performed
+	- The `allUsers` identifier represents anyone who is on the Internet, with or without a Google account
+	- The `allAuthenticatedUsers` identifier, in contrast, represents anyone who is authenticated with a Google account ![Attachments/Pasted image 20230319182213.png](/img/user/Attachments/Pasted%20image%2020230319182213.png)
 - Apply for permissions at both bucket and object level
 #### Signed URLs
 - Create a URL that grants read or write access to a specific cloud storage resource, and specifies when this access expires
@@ -103,15 +115,6 @@
 	- Any user with a URL can invoke permitted operations
 - Example:
 	- `gsutil signurl -d 10m path/to/privatekey.p12 gs://bucket/object`
-### ACLs
-- ACL is a mechanism used to define who has access to your buckets and objects, as well as the level of access to have
-- The maximum number of ACL entries you can create for a bucket or object is 100
-- Each ACL consists of one or more entries, and these entries consist of two pieces of information
-	- A scope that defines who can perform the specified actions
-	- The permission defines what actions can be performed
-- The `allUsers` identifier represents anyone who is on the Internet, with or without a Google account
-- The `allAuthenticatedUsers` identifier, in contrast, represents anyone who is authenticated with a Google account
-![Attachments/Pasted image 20230319182213.png](/img/user/Attachments/Pasted%20image%2020230319182213.png)
 ### Data Import Services
 #### Transfer Appliance
 - Process
@@ -152,13 +155,18 @@ Third-party provider uploads the data from physical media
 - Fully managed network attached storage (NAS) for Compute Engine and GKE instances
 - Predictable performance
 - Full NFSv3 support
+- HDD and SSD
 - Scales to 100s of TBs for high-performance workloads
+- Up to 320 TB with the throughput of 16 GB/s and 480K IOPS
 ## Cloud SQL
 - Cloud SQL offers fully managed relational databases, including MySQL, PostgreSQL, and SQL Server as a service
 - Designed to hand off mundane, but necessary and often time-consuming, tasks to Google—like applying patches and updates managing backups, and configuring replications
 - Spec: 64 TB of Storage, 60000 IOPS, 624 GB of RAM
 - Partitions shard data
-- Geograohy
+- HA configuration
+	- Automatically fail-over (not revert automatically)
+	- HA setup can't be used as a read replica
+- Geography
 	- Regional data store
 	- Multiple zones for high availability
 	- Multi-region for backups only
@@ -220,7 +228,12 @@ Third-party provider uploads the data from physical media
 - Cloud Bigtable is Google's NoSQL big data database service
 - The same database powers many core Google services, including Search, Analytics, Maps, and Gmail
 - Bigtable is designed to handle massive workloads at consistently low latency and high throughput
-- Customers often choose Bigtable if: They’re working with more than 1TB of semi-structured or structured data
+- Wide column NoSQL DB
+- HBase API compatible
+- Not Serverless, Need to create an instance (use HDD or SSD)
+- Can't export data using Cloud console or `gcloud` command (Use java or HBase command)
+- Single-row transaction (multi-row transactions NOT support)
+- Use `cbt` to work with Bigtable
 - Petabyte-scale
 - Consistent sub-10ms latency
 - Seamless scalability for throughput
@@ -229,6 +242,7 @@ Third-party provider uploads the data from physical media
 - Storage engine for MK applications
 - Easy integration with open-source big data tools
 - Batch MapReduce operations
+- Customers often choose Bigtable if: They’re working with more than 1TB of semi-structured or structured data
 - Choose Bigtable when you have flat data that fit in one row per key, and when you need access latencies for your data to be in the millisecond range
 
 ![Attachments/Pasted image 20230319210450.png](/img/user/Attachments/Pasted%20image%2020230319210450.png)
