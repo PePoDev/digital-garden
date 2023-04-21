@@ -2,10 +2,10 @@
 {"dg-publish":true,"dg-home":true,"permalink":"/readme-md/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-## Pages
+## Table of Contents
 - 🔒 [[Assets/Assets\|Assets]]
 - [[Travel/Travel\|Travel]]
-- [[Books/Books\|To-read Books]]
+- [[Books/Books\|Books]]
 - [[Blog/Blog\|Blog]]
 - [[Home/Home\|Home]]
 - 🔒 [[Documents/Documents\|Documents]]
