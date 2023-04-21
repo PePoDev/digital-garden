@@ -156,6 +156,16 @@
 	- \# stack traces
 	- servers that fail liveness checks
 	- And \# dropped connections
+### Handling Excess Loads
+- Load Shedding
+	- API limits
+	- Streaming Data
+- Reduce Quality of Service
+	- Instead of talking to a recommendations API, return a hardcoded set of products
+### Avoiding Cascading Failures
+- Plan to avoid thrashing
+	- Circuit Breaker
+	- Reduce Quality of Service
 ## Postmortem
 - Impact
 - Root Causes and Trigger
