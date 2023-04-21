@@ -13,7 +13,7 @@
 ## Certificates
 - [ ] Cloud Digital Leader
 - [ ] Associate Cloud Engineer
-- [ ] Professional Cloud Architect
+- [x] Professional Cloud Architect
 - [ ] Professional Cloud Developer
 - [ ] Professional Cloud DevOps Engineer
 - [ ] Professional Data Engineer
@@ -24,14 +24,14 @@
 - [ ] Professional Cloud Database Engineer
 - [ ] Google Workspace Administrator
 ## Contents
-- [[Knowledge/Information Technology/Cloud/Google Cloud/IAM\|IAM]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/IAM\|Knowledge/Information Technology/Cloud/Google Cloud/IAM]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Network\|Knowledge/Information Technology/Cloud/Google Cloud/Network]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Compute\|Compute]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Storage\|Storage]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Compute\|Knowledge/Information Technology/Cloud/Google Cloud/Compute]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Storage\|Knowledge/Information Technology/Cloud/Google Cloud/Storage]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Organization\|Organization]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Data Analytics\|Data Analytics]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Analytics\|Analytics]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Migration\|Migration]]
-- [[Knowledge/Information Technology/Cloud/Google Cloud/Monitoring\|Monitoring]]
+- [[Knowledge/Information Technology/Cloud/Google Cloud/Monitoring\|Knowledge/Information Technology/Cloud/Google Cloud/Monitoring]]
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Resource Management\|Resource Management]]
 
 > [!tip]+
@@ -121,8 +121,6 @@ Designed to programmatically help to manage projects
 2. Cloud SDK and Cloud Shell (gcloud, kubectl, gsutil, bq)
 3. APIs
 4. Cloud Mobile App
-### Cloud DNS
-- 100% Uptime SLA
 ### Cloud Endpoints
 - Distributed API management system
 - Provides an API console, hosting, logging, monitoring, and other features
@@ -136,7 +134,13 @@ Designed to programmatically help to manage projects
 - Backend implementations can vary for a single service provider
 - Provide secure access to your backend services through a well-defined REST API
 - Clients consume your REST APIs to implement standalone apps
-### Apigee  Edge
+### Apigee API Management
+- Design, secure, publish, analyze, monitor, monetize, and scale APIs anywhere
+- Manage Complete API life cycle
+- Provides AI-powered API monitoring (Get actionable insights)
+- Create Developer Portals
+	- Allow developers to easily explore the APIs, get API keys
+- Expose ML models as APIs
 - Specific focus on business problems like rate limiting quotas and analytics
 - Many Apigee Edge users provide a software service to other companies
 - Backend services for Apigee Edge don't need to be in Google Cloud
