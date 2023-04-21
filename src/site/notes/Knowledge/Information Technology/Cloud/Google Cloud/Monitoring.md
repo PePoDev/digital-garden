@@ -98,7 +98,7 @@
 			- Retention is 400 days
 			- Always Enabled
 		- Access Transparency
-			- How and Why customer data is accessed once it has been stored in Google Cloud
+			- How and Why customer data is accessed once it has been Stored in Google Cloud
 	- Agent Logs
 	- Network Logs
 		- VPC flow
@@ -106,6 +106,18 @@
 		- NAT gateway
 		- Load Balancer
 - Firewall Rule Logging
+### Log Router (Sink)
+- Logs from various sources reach Log Router
+- Checks against configured rules (What to ingest? What to discard? Where to route?)
+- Logs Storage (Logs buckets)
+	- \_Required
+		- Hold Admin activity, System Events & Access Transparency Logs (retained for 400 days)
+		- ZERO charge
+		- Can't change the retention period
+	- \_Default
+		- All other logs (retained for 30 days)
+		- Can't DELETE but can disable log sink to disable ingestion
+		- Can edit retention settings from 1 to 3650 days
 ## Data Studio
 - Connect to BigQuery
 - Transform raw data into metrics and dimensions
