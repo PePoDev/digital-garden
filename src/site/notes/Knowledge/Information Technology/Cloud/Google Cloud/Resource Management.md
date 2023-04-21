@@ -9,6 +9,8 @@
 ## Organization
 - Created when using G Suite or Use Google Cloud Identity
 - Fixed ID but can change the name
+### Organization Policy
+- Centralized constraints on all resources created in Organization
 ## Hierarchy
 ### Function-oriented
 ![Pasted image 20230327195121.png](/img/user/Attachments/Pasted%20image%2020230327195121.png)
@@ -53,6 +55,9 @@
 - A project that didn't link with a billing account can use only free resources
 - Charged automatically or invoiced every month or at a threshold limit
 - Subaccounts can be used for separate billing for projects
+- Types
+	- Self-Serve: Billed directly to Credit Card or Bank Account
+	- Invoiced: Generate invoices (Used by large enterprises)
 ### Budgets & Alerts
 ![Attachments/Pasted image 20230319214248.png](/img/user/Attachments/Pasted%20image%2020230319214248.png)
 ### Billing export
