@@ -89,8 +89,34 @@
 - Local SSD can create up to 8 partitions per instance with 375 GB (Total 3TB)
 - Standard and non-local SSD can be sized up to 257 TB for each instance
 - Attach read-only for multiple VMs
+- Types
+	- Local SSD
+		- Temporary data - Data persists until the instance is running
+		- Enable live migration for data to survive maintenance events
+		- Lifecycle tied to the VM instance
+		- Can't configure encryption keys
+		- Only some machine support
+		- Supports SCSI and NVMe interfaces
+		- Choose NVMe-enabled and multi-queue images for the best performance
+		- Larger Size, More vCPU = Better Performance
+	- Persistent Disks
+		- Options: Regional and Zonal
+		- Regional PDs are 2X the cost of Zonal PDs
+		- Independent lifecycle from the VM instance
+		- Performance scales with size
+		- Lifecycle NOT tied to the VM instance
+		- Type
+			- pd-standard (HDD)
+			- pd-balanced (SSD)
+			- pd-ssd (SSD)
 ![Pasted image 20230325153309.png](/img/user/Attachments/Pasted%20image%2020230325153309.png)
 ### Snapshot
+- Take point-in-time snapshots of your Persistent Disks
+- Schedule snapshots (support auto-delete after X days)
+- Snapshots can be Multi-regional and Regional
+- Share snapshots across projects
+- Snapshots are incremental
+- Snapshots reduce performance (schedule during off-peak hours)
 ![Compute-2023-04-17.png](/img/user/Attachments/Compute-2023-04-17.png)
 ### Networking
 - Network throughput scales at 2 Gbps per vCPU
@@ -229,6 +255,12 @@
 	- HTTP cookie
 	- Random
 - One Application per project
+### App Engine Memcache
+- Memcache for App Engine
+- Ephemeral data
+- Mode
+	- Shared (free)
+	- Dedicated
 ## Cloud Run
 - A managed-to-compute platform that can run the stateless containers
 - Serverless, removing the need for infrastructure management
@@ -282,6 +314,11 @@
 	- Autoscaling as new invocations com in
 	- One function instance handles ONLY ONE request at a time
 	- Cold Start
-		- Solution - Configure Min number instance (increases cost)
+		- Solution - Configure Min number of instances (increases cost)
+## Pub/Sub
+- The publisher sends a message to Topic
+- Message individually delivered to each and every subscription
+- Subscribers can receive messages either by push and pull
+- Add Dataflow into flow to enable message deduplication (exactly-once processing)
 ## Decision Tree
 ![Pasted image 20230415192602.png](/img/user/Attachments/Pasted%20image%2020230415192602.png)
