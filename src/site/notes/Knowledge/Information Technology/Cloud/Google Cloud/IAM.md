@@ -2,14 +2,25 @@
 {"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/google-cloud/iam/","dgPassFrontmatter":true}
 ---
 
-## Type of IAM Role
-- Basic
-	- Viewer, Editor, Owner, and Billing Admin
-- Predefined
-	- Compute Admin, Network Admin and etc.
-- Custom
-	- Need to manage the permissions that define the custom role you have
-	- Custom roles can only be applied to either the project level and organized level
+## Overview
+- Identity
+	- Google account
+	- Service account
+	- Google Group
+	- Google Workspace domain
+	- Google Identity domain
+	- All authenticated users
+	- All users
+- Roles
+	- Basic
+		- Viewer, Editor, Owner, and Billing Admin
+	- Predefined
+		- Compute Admin, Network Admin and etc.
+	- Custom
+		- Need to manage the permissions that define the custom role you have
+		- Custom roles can only be applied to either the project level and organized level
+- Condition
+	- Specified using Common Expression Language (CEL)
 
 > [!Note]
 > It can take up to 80 seconds for such a change to take effect as it propagates. Read more about Google Cloud IAM in the Google Cloud IAMResource Documentation, [Frequently asked questions](https://cloud.google.com/iam/docs/faq).
@@ -27,6 +38,16 @@
 	- Google APIs service account
 
 ![Attachments/Pasted image 20230317003111.png](/img/user/Attachments/Pasted%20image%2020230317003111.png)
+## Workload Identity Federation
+- Grant external identities IAM roles, including impersonating a service account
+- Use a short-lived access token instead of a long-lived service account key
+- Workload identity pools are collections of related identities for granting fine-grained access
+- Workload identity provider describes the relationship between Google and external identity provider
+	- AWS
+	- Azure AD
+	- Okta
+	- Kubernetes clusters
+	- On-premises AD
 ## Best practices
 - Use the project to group the resources that share the same trust boundary
 - Use "principles of least privilege" when grating role
