@@ -23,6 +23,8 @@ A secure, individual, private cloud-computing model hosted within a public cloud
 - Using this method, if you add a new subnet to your Google VPC, your on-premises network will automatically get routes to it
 - But using the internet to connect networks isn't always the best option for everyone, either because of security concerns or because of bandwidth reliability
 #### Cloud Firewall Rules
+- Stateful
+- Priority 0-65535 (0 is highest)
 ## Shared VPC
 - Use IAM roles for delegated administration
 - Required an organization
@@ -62,6 +64,10 @@ A secure, individual, private cloud-computing model hosted within a public cloud
 - This tier provides network quality that is comparable to other public cloud providers (but lower than Premium Tier) and regional network services such as Regional Load Balancing with one VIP per region
 - The standard tier is priced lower than the Premium because your traffic between Google Cloud and your end-user (Internet) is delivered over transit (ISP) networks instead of Google’s network
 ![Pasted image 20230404151042.png](/img/user/Attachments/Pasted%20image%2020230404151042.png)
+## Service Directory
+- Managed service to publish, discover, and connect to services
+- More dynamic implementation of services means changing IP addresses
+- Service Directory tracks changes, eliminates the need to manually update DNS records
 ## Load balancer
 ![Pasted image 20230415191300.png](/img/user/Attachments/Pasted%20image%2020230415191300.png)
 - Global Cloud Load Balancing
@@ -148,14 +154,18 @@ A secure, individual, private cloud-computing model hosted within a public cloud
 
 ![Attachments/Pasted image 20230323213700.png](/img/user/Attachments/Pasted%20image%2020230323213700.png)
 ## Cloud CDN
-![Pasted image 20230415191233.png](/img/user/Attachments/Pasted%20image%2020230415191233.png)
+- 100% Uptime SLA
 - Caches content at the edge of Google's network
 - Automatically logged within Google Cloud (Cache Hit, Cache Miss)
-- Enable Cloud CDN with a simple checkbox when setting up the backend service Cache modes
+- Enable Cloud CDN with a simple checkbox when setting up the backend service
+- Minimum `max-age=300` (5 minutes) 
+- Cache modes
 	- Control the factors that determine whether or not
 	- USE_ORIGIN_HEADERS
 	- CACHE_ALL_STATIC
 	- FORCE_CACHE_ALL
+- Using Versioned URLs to update content
+![Pasted image 20230415191233.png](/img/user/Attachments/Pasted%20image%2020230415191233.png)
 ## Network Intelligence Center
 - Visualize network topology
 - Test network connectivity
