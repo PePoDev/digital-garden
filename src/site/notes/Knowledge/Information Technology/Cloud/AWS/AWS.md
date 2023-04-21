@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/aws/aws/","dgPassFrontmatter":true}
+{"dg-publish":true,"sticker":"1f325-fe0f","permalink":"/knowledge/information-technology/cloud/aws/aws/","dgPassFrontmatter":true}
 ---
 
 ## Links
