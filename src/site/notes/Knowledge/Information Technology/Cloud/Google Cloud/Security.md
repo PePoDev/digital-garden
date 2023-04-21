@@ -12,6 +12,12 @@
 	- Google Managed
 	- Customer managed - using Cloud Key Management Service
 	- Customer supplied - using the key created and managed by the customer
+## Secret Manager
+- Store API keys, password, or etc
+- Multiple version of secrets
+- Automate rotation with Cloud Function
+- Auditing with Cloud Audit Logs
+- Encrypted by default
 ## VPC Service Control
 - Centrally manage multi-tenant service access at scale
 - Securely access multi-tenant services
@@ -45,7 +51,18 @@
 
 ![Pasted image 20230415223117.png](/img/user/Attachments/Pasted%20image%2020230415223117.png)
 ## Cloud DLP (Data Loss Prevention)
-- redact PII from Google Cloud Service
+- Keep some information private and confidential
+- Redact PII from Google Cloud Service
+- Typically focused on specific kinds of attributes
+	- Government IDs
+	- Credit card numbers
+	- Passport number
+- Discovery and classification data
+	- Personally identifying information (PII)
+	- Credentials and secrets
+	- Country-specific identifiers
+- Automatically mask data
+- Measure re-identification risk
 ## Cloud Armor
 ![Pasted image 20230415222837.png](/img/user/Attachments/Pasted%20image%2020230415222837.png)
 
