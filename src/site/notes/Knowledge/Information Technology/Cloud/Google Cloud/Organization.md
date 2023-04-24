@@ -12,7 +12,7 @@ It’s important to understand this resource hierarchy because it directly relat
 
 > Policies are also inherited downward. This means that if you apply a policy to a folder, it will also apply to all of the projects within that folder.
 
-![Attachments/Pasted image 20230316232424.png](/img/user/Attachments/Pasted%20image%2020230316232424.png)
+![Organization-2023-04-24.png](/img/user/Attachments/Organization-2023-04-24.png)
 
 > [!note]
 > G Suite is now Google Workspace
