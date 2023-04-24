@@ -11,15 +11,15 @@
 	- Open-source agents and integrations
 - Access to powerful data and analytics tools
 - Collaboration with third-party software
-![Pasted image 20230328221701.png](/img/user/Attachments/Pasted%20image%2020230328221701.png)
+![Monitoring-2023-04-24.png](/img/user/Attachments/Monitoring-2023-04-24.png)
 
-![Attachments/Pasted image 20230320222001.png](/img/user/Attachments/Pasted%20image%2020230320222001.png)
+![Monitoring-2023-04-24-1.png](/img/user/Attachments/Monitoring-2023-04-24-1.png)
 ## Cloud Monitoring
-![Attachments/Pasted image 20230320222055.png](/img/user/Attachments/Pasted%20image%2020230320222055.png)
+![Monitoring-2023-04-24-2.png](/img/user/Attachments/Monitoring-2023-04-24-2.png)
 
-![Pasted image 20230415225329.png](/img/user/Attachments/Pasted%20image%2020230415225329.png)
+![Monitoring-2023-04-24-3.png](/img/user/Attachments/Monitoring-2023-04-24-3.png)
 
-![Pasted image 20230328221839.png](/img/user/Attachments/Pasted%20image%2020230328221839.png)
+![Monitoring-2023-04-24-4.png](/img/user/Attachments/Monitoring-2023-04-24-4.png)
 
 - Dynamic config and intelligent defaults
 - Platform, system, and application metrics
@@ -63,12 +63,12 @@
 	- Cassandra/MongoDB/MySQL
 - Based on fluentd log data collector (can add own fluentd configuration files)
 ## Monitoring pyramid
-![Pasted image 20230328221611.png](/img/user/Attachments/Pasted%20image%2020230328221611.png)
+![Monitoring-2023-04-24-5.png](/img/user/Attachments/Monitoring-2023-04-24-5.png)
 ### Workspace
 - Determine your monitoring needs upfront
 - Consider using separate Workspaces for data and control isolation
 
-![Pasted image 20230415141243.png](/img/user/Attachments/Pasted%20image%2020230415141243.png)
+![Monitoring-2023-04-24-6.png](/img/user/Attachments/Monitoring-2023-04-24-6.png)
 ## Cloud Logging
 - Platform, systems, and application logs
 	- API to write to logs
@@ -157,16 +157,16 @@
 - Use SLIs to easily create SLOs
 - Alerting easily integrated
 
-![Pasted image 20230416005849.png](/img/user/Attachments/Pasted%20image%2020230416005849.png)
+![Monitoring-2023-04-24-7.png](/img/user/Attachments/Monitoring-2023-04-24-7.png)
 
-![Pasted image 20230416005907.png](/img/user/Attachments/Pasted%20image%2020230416005907.png)
+![Monitoring-2023-04-24-8.png](/img/user/Attachments/Monitoring-2023-04-24-8.png)
 
-![Pasted image 20230416005919.png](/img/user/Attachments/Pasted%20image%2020230416005919.png)
+![Monitoring-2023-04-24-9.png](/img/user/Attachments/Monitoring-2023-04-24-9.png)
 
-![Pasted image 20230416005945.png](/img/user/Attachments/Pasted%20image%2020230416005945.png)
+![Monitoring-2023-04-24-10.png](/img/user/Attachments/Monitoring-2023-04-24-10.png)
 ## Pricing
-![Pasted image 20230416051658.png](/img/user/Attachments/Pasted%20image%2020230416051658.png)
+![Monitoring-2023-04-24-11.png](/img/user/Attachments/Monitoring-2023-04-24-11.png)
 ## Free Allotment
-![Pasted image 20230416051717.png](/img/user/Attachments/Pasted%20image%2020230416051717.png)
+![Monitoring-2023-04-24-12.png](/img/user/Attachments/Monitoring-2023-04-24-12.png)
 
-![Pasted image 20230416051750.png](/img/user/Attachments/Pasted%20image%2020230416051750.png)
+![Monitoring-2023-04-24-13.png](/img/user/Attachments/Monitoring-2023-04-24-13.png)
