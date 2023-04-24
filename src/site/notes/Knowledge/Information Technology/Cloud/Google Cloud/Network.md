@@ -7,15 +7,15 @@ A secure, individual, private cloud-computing model hosted within a public cloud
 
 > Networks are global and subnets are regional.
 
-![Attachments/Pasted image 20230312210847.png](/img/user/Attachments/Pasted%20image%2020230312210847.png)
+![Network-2023-04-24.png](/img/user/Attachments/Network-2023-04-24.png)
 
 - Support to expand subnet without recreating instance
 - Can expand but not shrink
 - can convert from auto to custom mode
 
-![Attachments/Pasted image 20230312223219.png](/img/user/Attachments/Pasted%20image%2020230312223219.png)
+![Network-2023-04-24-1.png](/img/user/Attachments/Network-2023-04-24-1.png)
 
-![Attachments/Pasted image 20230312223933.png](/img/user/Attachments/Pasted%20image%2020230312223933.png)
+![Network-2023-04-24-2.png](/img/user/Attachments/Network-2023-04-24-2.png)
 
 #### Cloud External IP Addresses
 #### Cloud Router
@@ -46,30 +46,30 @@ A secure, individual, private cloud-computing model hosted within a public cloud
 			- Static internal IP
 			- Load balancer
 
-![Pasted image 20230327201322.png](/img/user/Attachments/Pasted%20image%2020230327201322.png)
+![Network-2023-04-24-3.png](/img/user/Attachments/Network-2023-04-24-3.png)
 ## VPC Peering
 - Can be the same or different organizations
 - Subnet ranges can't overlap
 - Network admin for each VPC must approve the peering requests
-![Attachments/Pasted image 20230323004515.png](/img/user/Attachments/Pasted%20image%2020230323004515.png)
+![Network-2023-04-24-4.png](/img/user/Attachments/Network-2023-04-24-4.png)
 ## Shared VPC vs VPC Peering
-![Attachments/Pasted image 20230323005240.png](/img/user/Attachments/Pasted%20image%2020230323005240.png)
+![Network-2023-04-24-5.png](/img/user/Attachments/Network-2023-04-24-5.png)
 ## Network Tier
 ### Premium Tier
 - Premium Tier delivers traffic over Google’s well-provisioned, low-latency, highly reliable global network
 - This network consists of an extensive global private fiber network with over [100 points of presence (POPs)](https://peering.google.com/#/) across the globe
-![Pasted image 20230404151028.png](/img/user/Attachments/Pasted%20image%2020230404151028.png)
+![Network-2023-04-24-6.png](/img/user/Attachments/Network-2023-04-24-6.png)
 ### Standard Tier
 - Standard Tier is a new lower-cost offering
 - This tier provides network quality that is comparable to other public cloud providers (but lower than Premium Tier) and regional network services such as Regional Load Balancing with one VIP per region
 - The standard tier is priced lower than the Premium because your traffic between Google Cloud and your end-user (Internet) is delivered over transit (ISP) networks instead of Google’s network
-![Pasted image 20230404151042.png](/img/user/Attachments/Pasted%20image%2020230404151042.png)
+![Network-2023-04-24-7.png](/img/user/Attachments/Network-2023-04-24-7.png)
 ## Service Directory
 - Managed service to publish, discover, and connect to services
 - More dynamic implementation of services means changing IP addresses
 - Service Directory tracks changes, eliminates the need to manually update DNS records
 ## Load balancer
-![Pasted image 20230415191300.png](/img/user/Attachments/Pasted%20image%2020230415191300.png)
+![Network-2023-04-24-8.png](/img/user/Attachments/Network-2023-04-24-8.png)
 - Global Cloud Load Balancing
 	- Use a single, global anycast IP address
 	- No pre-warming is required
@@ -120,11 +120,11 @@ A secure, individual, private cloud-computing model hosted within a public cloud
 	- Up to 15 SSL certificates (per target proxy)
 	- Create an SSL certificate resource
 
-![Pasted image 20230415191048.png](/img/user/Attachments/Pasted%20image%2020230415191048.png)
+![Network-2023-04-24-9.png](/img/user/Attachments/Network-2023-04-24-9.png)
 
-![Pasted image 20230415191200.png](/img/user/Attachments/Pasted%20image%2020230415191200.png)
+![Network-2023-04-24-10.png](/img/user/Attachments/Network-2023-04-24-10.png)
 
-![Attachments/Pasted image 20230323184230.png](/img/user/Attachments/Pasted%20image%2020230323184230.png)
+![Network-2023-04-24-11.png](/img/user/Attachments/Network-2023-04-24-11.png)
 ### Backend services
 - Health check
 - Session affinity (optional)
@@ -135,7 +135,7 @@ A secure, individual, private cloud-computing model hosted within a public cloud
 	- A capacity scaler (ceiling % of CPU/Rate targets)
 - Any changes to back-end services are not instantaneous, it takes several minutes to propagate throughout the network
 ### Backend Buckets
-![Attachments/Pasted image 20230323190454.png](/img/user/Attachments/Pasted%20image%2020230323190454.png)
+![Network-2023-04-24-12.png](/img/user/Attachments/Network-2023-04-24-12.png)
 ### Network Endpoint Groups (NEG)
 - Group of backend endpoints or services
 - type of NEGs
@@ -144,15 +144,15 @@ A secure, individual, private cloud-computing model hosted within a public cloud
 	- Serverless
 	- Hybrid connectivity
 ### Example Diagram
-![Attachments/Pasted image 20230323185315.png](/img/user/Attachments/Pasted%20image%2020230323185315.png)
+![Network-2023-04-24-13.png](/img/user/Attachments/Network-2023-04-24-13.png)
 
-![Attachments/Pasted image 20230323192835.png](/img/user/Attachments/Pasted%20image%2020230323192835.png)
+![Network-2023-04-24-14.png](/img/user/Attachments/Network-2023-04-24-14.png)
 
-![Attachments/Pasted image 20230323202456.png](/img/user/Attachments/Pasted%20image%2020230323202456.png)
+![Network-2023-04-24-15.png](/img/user/Attachments/Network-2023-04-24-15.png)
 ### Choosing LB
-![Attachments/Pasted image 20230323213435.png](/img/user/Attachments/Pasted%20image%2020230323213435.png)
+![Network-2023-04-24-16.png](/img/user/Attachments/Network-2023-04-24-16.png)
 
-![Attachments/Pasted image 20230323213700.png](/img/user/Attachments/Pasted%20image%2020230323213700.png)
+![Network-2023-04-24-17.png](/img/user/Attachments/Network-2023-04-24-17.png)
 ## Cloud CDN
 - 100% Uptime SLA
 - Caches content at the edge of Google's network
@@ -165,13 +165,13 @@ A secure, individual, private cloud-computing model hosted within a public cloud
 	- CACHE_ALL_STATIC
 	- FORCE_CACHE_ALL
 - Using Versioned URLs to update content
-![Pasted image 20230415191233.png](/img/user/Attachments/Pasted%20image%2020230415191233.png)
+![Network-2023-04-24-18.png](/img/user/Attachments/Network-2023-04-24-18.png)
 ## Network Intelligence Center
 - Visualize network topology
 - Test network connectivity
-![Pasted image 20230415191415.png](/img/user/Attachments/Pasted%20image%2020230415191415.png)
+![Network-2023-04-24-19.png](/img/user/Attachments/Network-2023-04-24-19.png)
 ## Cloud Interconnect and peering services
-![Attachments/Pasted image 20230323000001.png](/img/user/Attachments/Pasted%20image%2020230323000001.png)
+![Network-2023-04-24-20.png](/img/user/Attachments/Network-2023-04-24-20.png)
 
 - Dedicated connections provide a direct connection to Google's network
 - Shared connections for white a connection to Google's network through a partner
@@ -189,7 +189,7 @@ A secure, individual, private cloud-computing model hosted within a public cloud
 - Doesn’t support "dial in" with client VPN software
 - MTU for on-premises VPN gateway cannot be greater than 1460 bytes
 
-![Attachments/Pasted image 20230321225933.png](/img/user/Attachments/Pasted%20image%2020230321225933.png)
+![Network-2023-04-24-21.png](/img/user/Attachments/Network-2023-04-24-21.png)
 ### HA VPN
 - SLA 99.99%
 - Must properly configure two or four tunnels from your HA VPN gateway to your peer VPN gateway or to another HA VPN gateway
@@ -201,11 +201,11 @@ A secure, individual, private cloud-computing model hosted within a public cloud
 	- An HA VPN gateway to an AWS virtual private gateway
 	- Two HA VPN gateways connected to each other
 
-![Attachments/Pasted image 20230322132327.png](/img/user/Attachments/Pasted%20image%2020230322132327.png)
+![Network-2023-04-24-22.png](/img/user/Attachments/Network-2023-04-24-22.png)
 
-![Attachments/Pasted image 20230322132523.png](/img/user/Attachments/Pasted%20image%2020230322132523.png)
+![Network-2023-04-24-23.png](/img/user/Attachments/Network-2023-04-24-23.png)
 
-![Attachments/Pasted image 20230322132702.png](/img/user/Attachments/Pasted%20image%2020230322132702.png)
+![Network-2023-04-24-24.png](/img/user/Attachments/Network-2023-04-24-24.png)
 ### Direct Peering
 - Peering means putting a router in the same public data center as a Google point of presence and using it to exchange traffic between networks
 - Google has more than 100 points of presence around the world
@@ -218,7 +218,7 @@ A secure, individual, private cloud-computing model hosted within a public cloud
 - Carrier peering gives you direct access from your on-premises network through a service provider's network to Google Workspace and to Google Cloud products that can be exposed through one or more public IP addresses
 - No SLA
 ### Dedicated Interconnect
-![Attachments/Pasted image 20230323000137.png](/img/user/Attachments/Pasted%20image%2020230323000137.png)
+![Network-2023-04-24-25.png](/img/user/Attachments/Network-2023-04-24-25.png)
 - Dedicated Interconnect provides direct physical connections between your on-premises network and Google's network
 - This enables you to transfer large amounts of data between networks, which can be more cost-effective than purchasing additional bandwidth over the public internet
 - If getting the highest uptimes for interconnection is important, using Dedicated Interconnect would be a good solution
@@ -227,16 +227,16 @@ A secure, individual, private cloud-computing model hosted within a public cloud
 - Can have up to eight links to achieve multiples of 10 Gbps but 10 Gbps is the minimum capacity
 - The BETA provides 100 Gbps per link with a maximum of two links
 ### Partner Interconnect
-![Attachments/Pasted image 20230323001945.png](/img/user/Attachments/Pasted%20image%2020230323001945.png)
+![Network-2023-04-24-26.png](/img/user/Attachments/Network-2023-04-24-26.png)
 - Provides connectivity between an on-premises network and a VPC network through a supported service provider
 - A Partner Interconnect connection is useful if a data center is in a physical location that can't reach a Dedicated Interconnect colocation facility, or if the data needs don’t warrant an entire 10 GigaBytes per second connection
 - Partner Interconnect can be configured to offer a 99.9% or a 99.99% uptime SLA
 ### Comparison
 
-![Attachments/Pasted image 20230323002552.png](/img/user/Attachments/Pasted%20image%2020230323002552.png)
+![Network-2023-04-24-27.png](/img/user/Attachments/Network-2023-04-24-27.png)
 
-![Attachments/Pasted image 20230323003356.png](/img/user/Attachments/Pasted%20image%2020230323003356.png)
+![Network-2023-04-24-28.png](/img/user/Attachments/Network-2023-04-24-28.png)
 ### Choosing
-![Attachments/Pasted image 20230323003530.png](/img/user/Attachments/Pasted%20image%2020230323003530.png)
+![Network-2023-04-24-29.png](/img/user/Attachments/Network-2023-04-24-29.png)
 
-![Attachments/Pasted image 20230323003616.png](/img/user/Attachments/Pasted%20image%2020230323003616.png)
+![Network-2023-04-24-30.png](/img/user/Attachments/Network-2023-04-24-30.png)
