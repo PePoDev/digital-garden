@@ -3,9 +3,9 @@
 ---
 
 ## Resource Manager
-![Attachments/Pasted image 20230319212043.png](/img/user/Attachments/Pasted%20image%2020230319212043.png)
+![Resource Management-2023-04-24.png](/img/user/Attachments/Resource%20Management-2023-04-24.png)
 
-![Attachments/Pasted image 20230319213129.png](/img/user/Attachments/Pasted%20image%2020230319213129.png)
+![Resource Management-2023-04-24-1.png](/img/user/Attachments/Resource%20Management-2023-04-24-1.png)
 ## Organization
 - Created when using G Suite or Use Google Cloud Identity
 - Fixed ID but can change the name
@@ -13,22 +13,22 @@
 - Centralized constraints on all resources created in Organization
 ## Hierarchy
 ### Function-oriented
-![Pasted image 20230327195121.png](/img/user/Attachments/Pasted%20image%2020230327195121.png)
+![Resource Management-2023-04-24-2.png](/img/user/Attachments/Resource%20Management-2023-04-24-2.png)
 ### Environment-oriented
-![Pasted image 20230327195150.png](/img/user/Attachments/Pasted%20image%2020230327195150.png)
+![Resource Management-2023-04-24-3.png](/img/user/Attachments/Resource%20Management-2023-04-24-3.png)
 
-![Pasted image 20230327195233.png](/img/user/Attachments/Pasted%20image%2020230327195233.png)
+![Resource Management-2023-04-24-4.png](/img/user/Attachments/Resource%20Management-2023-04-24-4.png)
 ## Labels
-![Attachments/Pasted image 20230319213915.png](/img/user/Attachments/Pasted%20image%2020230319213915.png)
+![Resource Management-2023-04-24-5.png](/img/user/Attachments/Resource%20Management-2023-04-24-5.png)
 
-![Attachments/Pasted image 20230319214044.png](/img/user/Attachments/Pasted%20image%2020230319214044.png)
+![Resource Management-2023-04-24-6.png](/img/user/Attachments/Resource%20Management-2023-04-24-6.png)
 - Can use with Data Studio to visualize the cost by category
 ## Cloud Identity
-![Pasted image 20230415221925.png](/img/user/Attachments/Pasted%20image%2020230415221925.png)
+![Resource Management-2023-04-24-7.png](/img/user/Attachments/Resource%20Management-2023-04-24-7.png)
 
-![Pasted image 20230327162202.png](/img/user/Attachments/Pasted%20image%2020230327162202.png)
+![Resource Management-2023-04-24-8.png](/img/user/Attachments/Resource%20Management-2023-04-24-8.png)
 
-![Pasted image 20230327162918.png](/img/user/Attachments/Pasted%20image%2020230327162918.png)
+![Resource Management-2023-04-24-9.png](/img/user/Attachments/Resource%20Management-2023-04-24-9.png)
 ### Authentication Options
 - Google authentication (No SSO)
 - Single sign-on (SSO): Google auth + Cloud Identity as Identity Provider
@@ -39,13 +39,13 @@
 - Password Sync intercepts the raw password and applies a salted SHA512 hash
 - Encrypted via TLS, the salted hash is sent to Cloud Identity using the Directory API
 ## Google Cloud Directory Sync (GCDS)
-![Pasted image 20230327163125.png](/img/user/Attachments/Pasted%20image%2020230327163125.png)
+![Resource Management-2023-04-24-10.png](/img/user/Attachments/Resource%20Management-2023-04-24-10.png)
 
 - One-way synchronization
 - Only synchronizes deltas for the fastest possible provisioning
 - Configure which users account to sync
 ## Managed Service for Microsoft AD
-- Synchronized forest pattern ![Pasted image 20230328220909.png](/img/user/Attachments/Pasted%20image%2020230328220909.png)
+- Synchronized forest pattern ![Resource Management-2023-04-24-11.png](/img/user/Attachments/Resource%20Management-2023-04-24-11.png)
 - Sync accounts
 - Keeps a trust boundary clear between on-premises and cloud
 ## Billing
@@ -59,7 +59,7 @@
 	- Self-Serve: Billed directly to Credit Card or Bank Account
 	- Invoiced: Generate invoices (Used by large enterprises)
 ### Budgets & Alerts
-![Attachments/Pasted image 20230319214248.png](/img/user/Attachments/Pasted%20image%2020230319214248.png)
+![Resource Management-2023-04-24-12.png](/img/user/Attachments/Resource%20Management-2023-04-24-12.png)
 ### Billing export
 - Export to BigQuery
 - Can use Data Studio to visualize data
