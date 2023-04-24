@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/google-cloud/google-cloud/","dgPassFrontmatter":true}
+{"dg-publish":true,"candidate-id":"","permalink":"/knowledge/information-technology/cloud/google-cloud/google-cloud/","dgPassFrontmatter":true}
 ---
+
 
 ## Links
 - [Assessment Registration](https://www.webassessor.com/wa.do?page=publicHome&branding=GOOGLECLOUD)
@@ -9,7 +10,6 @@
 - [Google Cloud Partner Technical Training](https://rsvp.withgoogle.com/events/partner-learning/google-cloud-certifications)
 - [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator)
 - [Partner Certification Kickstart | Google Cloud](https://inthecloud.withgoogle.com/pck-page/register.html)
-- [GCP Exam Google Professional Cloud Architect | ExamTopics](https://www.examtopics.com/exams/google/professional-cloud-architect/)
 ## Certificates
 - [ ] Cloud Digital Leader
 - [ ] Associate Cloud Engineer
@@ -84,6 +84,8 @@ Google Cloud’s infrastructure is based in five major geographic locations:
 	- Reducing insider risk
 	- Employee Universal Second Factor (U2F) use
 	- Software development 
+
+![Pasted image 20230422232242.png](/img/user/Attachments/Pasted%20image%2020230422232242.png)
 ## Pricing & Billing
 - Google was the first major cloud provider to deliver per-second billing.
 - Automatically applied sustained-use discounts are automatic discounts you get for running a virtual machine instance for a significant portion of the billing month. Specifically, when you run an instance for more than 25% of a month, Compute Engine automatically gives you a discount for every incremental minute you use for that instance.
