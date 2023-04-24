@@ -3,11 +3,11 @@
 ---
 
 ## CI/CD pipelines
-![Pasted image 20230415162209.png](/img/user/Attachments/Pasted%20image%2020230415162209.png)
+![Automation-2023-04-24.png](/img/user/Attachments/Automation-2023-04-24.png)
 ### Spectrum
-![Pasted image 20230415162333.png](/img/user/Attachments/Pasted%20image%2020230415162333.png)
+![Automation-2023-04-24-1.png](/img/user/Attachments/Automation-2023-04-24-1.png)
 ### Google Cloud Services
-![Pasted image 20230412133723.png](/img/user/Attachments/Pasted%20image%2020230412133723.png)
+![Automation-2023-04-24-2.png](/img/user/Attachments/Automation-2023-04-24-2.png)
 ## Cloud Source Repository
 - managed Git repository
 - Control access by using IAM
