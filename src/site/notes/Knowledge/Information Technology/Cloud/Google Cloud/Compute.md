@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-![Pasted image 20230329221709.png](/img/user/Attachments/Pasted%20image%2020230329221709.png)
+![Compute-2023-04-24.png](/img/user/Attachments/Compute-2023-04-24.png)
 ## Compute Engine
 - Machine rightsizing
 - Live migrate
@@ -27,7 +27,7 @@
 		- host maintenance can only have the value "Terminate"
 - TPU
 	- Use for massive matrix operations performed
-- Machine families ![Pasted image 20230404162314.png](/img/user/Attachments/Pasted%20image%2020230404162314.png)
+- Machine families ![Compute-2023-04-24-1.png](/img/user/Attachments/Compute-2023-04-24-1.png)
 	- General purpose (ratio of 0.5 GB to 8 GB of memory per vCPU)
 		- E2 (Cost-optimized)
 			- Standard (between 2 to 32 vCPUs)
@@ -82,7 +82,7 @@
 	- Premium image indicated in parentheses with a p. eg. RHEL(p)
 	- These images will have per-second charges after a one-minute minimum. With the exception of sequel server images, which are charged permanently after a 10-minute minimum.
 
-![Attachments/Pasted image 20230316144325.png](/img/user/Attachments/Pasted%20image%2020230316144325.png)
+![Compute-2023-04-24-2.png](/img/user/Attachments/Compute-2023-04-24-2.png)
 ### Persistent Disks
 - Standard and SSD PDs scale in performance for each GB
 - Resize or migrate instances with no downtime
@@ -109,7 +109,7 @@
 			- pd-standard (HDD)
 			- pd-balanced (SSD)
 			- pd-ssd (SSD)
-![Pasted image 20230325153309.png](/img/user/Attachments/Pasted%20image%2020230325153309.png)
+![Compute-2023-04-24-3.png](/img/user/Attachments/Compute-2023-04-24-3.png)
 ### Snapshot
 - Take point-in-time snapshots of your Persistent Disks
 - Schedule snapshots (support auto-delete after X days)
@@ -117,7 +117,7 @@
 - Share snapshots across projects
 - Snapshots are incremental
 - Snapshots reduce performance (schedule during off-peak hours)
-![Compute-2023-04-17.png](/img/user/Attachments/Compute-2023-04-17.png)
+![Compute-2023-04-24-4.png](/img/user/Attachments/Compute-2023-04-24-4.png)
 ### Networking
 - Network throughput scales at 2 Gbps per vCPU
 	- Max 32 Gbps with 16 vCPU
@@ -155,9 +155,9 @@
 - Free usage limits
 	- Sustained use discounts are automatic discounts that you get for running
 
-![Attachments/Pasted image 20230316140034.png](/img/user/Attachments/Pasted%20image%2020230316140034.png)
-![Attachments/Pasted image 20230316140220.png](/img/user/Attachments/Pasted%20image%2020230316140220.png)
-![Attachments/Pasted image 20230316140359.png](/img/user/Attachments/Pasted%20image%2020230316140359.png)
+![Compute-2023-04-24-5.png](/img/user/Attachments/Compute-2023-04-24-5.png)
+![Compute-2023-04-24-6.png](/img/user/Attachments/Compute-2023-04-24-6.png)
+![Compute-2023-04-24-7.png](/img/user/Attachments/Compute-2023-04-24-7.png)
 ### Managed Instance Groups
 - Deploy identical instances based on the instance template
 - The instance group can be resized
@@ -203,14 +203,14 @@
 	- The node must restart when to enable
 	- All nodes must be of machine type `n1-standard-1` or higher
 ### Double-Hop problem
-![Pasted image 20230412224247.png](/img/user/Attachments/Pasted%20image%2020230412224247.png)
+![Compute-2023-04-24-8.png](/img/user/Attachments/Compute-2023-04-24-8.png)
 - Set `externalTrafficPolicy: local` in the service manifest to force the `kube-proxy` to choose a Pod on the receiving node for the lowest latency
 ### Container-native load balancer
 - eliminates the "Local" external-traffic policy workaround
 - Leverages a Google Cloud HTTP(S) load balancer
 - Traffic is directed to the Pods directly instead of to the nodes
 - Use a data model called Network Endpoint Groups
-![Pasted image 20230412224722.png](/img/user/Attachments/Pasted%20image%2020230412224722.png)
+![Compute-2023-04-24-9.png](/img/user/Attachments/Compute-2023-04-24-9.png)
 ### Workload Identity
 - Access Google Cloud services in a secure and manageable way
 - Workload Identity allows a Kubernetes service account in your GKE cluster to act as an IAM service account
@@ -321,4 +321,4 @@
 - Subscribers can receive messages either by push and pull
 - Add Dataflow into flow to enable message deduplication (exactly-once processing)
 ## Decision Tree
-![Pasted image 20230415192602.png](/img/user/Attachments/Pasted%20image%2020230415192602.png)
+![Compute-2023-04-24-10.png](/img/user/Attachments/Compute-2023-04-24-10.png)
