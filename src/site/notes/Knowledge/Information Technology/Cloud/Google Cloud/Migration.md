@@ -5,7 +5,7 @@
 ## Migrate for Compute Engine (MFCE)
 - MFCE 4
 	- For Azure, AWS
-	- Steps![Pasted image 20230325155931.png](/img/user/Attachments/Pasted%20image%2020230325155931.png)
+	- Steps![Migration-2023-04-24.png](/img/user/Attachments/Migration-2023-04-24.png)
 - MFCE 5
 	- offer a simpler and more powerful way of migrating VMWare (only)
 	- Managed service, No longer needs to deploy by Google Marketplace
@@ -14,7 +14,7 @@
 	- No agent is needed on the migrated VMs (agentless migration)
 	- Minimum connectivity requirements (can be performed over HTTPS 443)
 	- Cloud VPN or Cloud Interconnect is no longer required (but still supported)
-	- Architecture ![Pasted image 20230326172849.png](/img/user/Attachments/Pasted%20image%2020230326172849.png)
+	- Architecture ![Migration-2023-04-24-1.png](/img/user/Attachments/Migration-2023-04-24-1.png)
 - Process
 	- Setup VPN + Network tags
 	- Create GCP roles and service accounts
@@ -64,4 +64,4 @@
 		- Generate the yaml file for deploying the VM into the GKE cluster
 	- Test
 	- Deploy
-![Pasted image 20230331203316.png](/img/user/Attachments/Pasted%20image%2020230331203316.png)
+![Migration-2023-04-24-2.png](/img/user/Attachments/Migration-2023-04-24-2.png)
