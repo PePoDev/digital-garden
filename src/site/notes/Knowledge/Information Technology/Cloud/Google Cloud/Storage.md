@@ -3,11 +3,11 @@
 ---
 
 ## Storage Services
-![Attachments/Pasted image 20230319173437.png](/img/user/Attachments/Pasted%20image%2020230319173437.png)
+![Storage-2023-04-24.png](/img/user/Attachments/Storage-2023-04-24.png)
 
-![Pasted image 20230415185144.png](/img/user/Attachments/Pasted%20image%2020230415185144.png)
+![Storage-2023-04-24-1.png](/img/user/Attachments/Storage-2023-04-24-1.png)
 
-![Attachments/Pasted image 20230319173542.png](/img/user/Attachments/Pasted%20image%2020230319173542.png)
+![Storage-2023-04-24-2.png](/img/user/Attachments/Storage-2023-04-24-2.png)
 ### Characteristics
 - SLAs
 - Durability
@@ -32,7 +32,7 @@
 		- Bigtable
 		- Memorystore replicas
 
-![Pasted image 20230415184913.png](/img/user/Attachments/Pasted%20image%2020230415184913.png)
+![Storage-2023-04-24-3.png](/img/user/Attachments/Storage-2023-04-24-3.png)
 ## Cloud Storage
 - Scalable to exabytes
 - Time to the first byte in milliseconds
@@ -75,7 +75,7 @@
 - Use **Cloud Storage FUSE** to enable file system access to Cloud Storage
 ### Storage Class
 - The default class is applied to new objects
-![Attachments/Pasted image 20230319174904.png](/img/user/Attachments/Pasted%20image%2020230319174904.png)
+![Storage-2023-04-24-4.png](/img/user/Attachments/Storage-2023-04-24-4.png)
 ### Redundancy
 - Regional
 	- Data stored in a single region
@@ -102,7 +102,7 @@
 		- A scope that defines who can perform the specified actions
 		- The permission defines what actions can be performed
 	- The `allUsers` identifier represents anyone who is on the Internet, with or without a Google account
-	- The `allAuthenticatedUsers` identifier, in contrast, represents anyone who is authenticated with a Google account ![Attachments/Pasted image 20230319182213.png](/img/user/Attachments/Pasted%20image%2020230319182213.png)
+	- The `allAuthenticatedUsers` identifier, in contrast, represents anyone who is authenticated with a Google account ![Storage-2023-04-24-5.png](/img/user/Attachments/Storage-2023-04-24-5.png)
 - Apply for permissions at both bucket and object level
 #### Signed URLs
 - Create a URL that grants read or write access to a specific cloud storage resource, and specifies when this access expires
@@ -131,9 +131,9 @@
 - Encryption key control by the customer
 - Used when at least 10 TB of data or would take more than 1 week to load data
 - Google securely erases the appliance after use
-![Attachments/Pasted image 20230319190416.png](/img/user/Attachments/Pasted%20image%2020230319190416.png)![Attachments/Pasted image 20230319190617.png](/img/user/Attachments/Pasted%20image%2020230319190617.png)
+![Storage-2023-04-24-6.png](/img/user/Attachments/Storage-2023-04-24-6.png)![Storage-2023-04-24-7.png](/img/user/Attachments/Storage-2023-04-24-7.png)
 #### Storage Transfer Service
-![Pasted image 20230415185310.png](/img/user/Attachments/Pasted%20image%2020230415185310.png)
+![Storage-2023-04-24-8.png](/img/user/Attachments/Storage-2023-04-24-8.png)
 - Import online data
 	- Transfer between Cloud Storage buckets
 	- S3 bucket
@@ -178,7 +178,7 @@ Third-party provider uploads the data from physical media
 	- PostgreSQL 9.6, 10, 11, 12, 13 (default), or 14
 	- Microsoft SQL Server 2017 or 2019 (standard default)
 
-![Attachments/Pasted image 20230319201143.png](/img/user/Attachments/Pasted%20image%2020230319201143.png)
+![Storage-2023-04-24-9.png](/img/user/Attachments/Storage-2023-04-24-9.png)
 ## Cloud Spanner
 - Cloud Spanner is a fully managed relational database service that scales horizontally, is strongly consistent, and speaks SQL
 - Battle-tested by Google’s mission-critical applications and services, Spanner is the service that powers Google’s $80 billion business
@@ -197,7 +197,7 @@ Third-party provider uploads the data from physical media
 	- 10000 indexes per database
 - Uptime (Multi-regional: 99.999%, Regional: 99.99)
 
-![Attachments/Pasted image 20230319205034.png](/img/user/Attachments/Pasted%20image%2020230319205034.png)
+![Storage-2023-04-24-10.png](/img/user/Attachments/Storage-2023-04-24-10.png)
 ## Cloud Firestore
 - Firestore is a flexible, horizontally scalable, NoSQL cloud database for mobile, web, and server development
 - With Firestore, data is stored in documents and then organized into collections
@@ -223,7 +223,7 @@ Third-party provider uploads the data from physical media
 	- A set of entities with similar attributes is somewhat analogous to a table in a relational database
 	- Entities have properties
 	- Related entities knowns as Kinds
-![Attachments/Pasted image 20230319205822.png](/img/user/Attachments/Pasted%20image%2020230319205822.png)
+![Storage-2023-04-24-11.png](/img/user/Attachments/Storage-2023-04-24-11.png)
 ## Cloud Bigtable
 - Cloud Bigtable is Google's NoSQL big data database service
 - The same database powers many core Google services, including Search, Analytics, Maps, and Gmail
@@ -245,13 +245,13 @@ Third-party provider uploads the data from physical media
 - Customers often choose Bigtable if: They’re working with more than 1TB of semi-structured or structured data
 - Choose Bigtable when you have flat data that fit in one row per key, and when you need access latencies for your data to be in the millisecond range
 
-![Attachments/Pasted image 20230319210450.png](/img/user/Attachments/Pasted%20image%2020230319210450.png)
+![Storage-2023-04-24-12.png](/img/user/Attachments/Storage-2023-04-24-12.png)
 
-![Attachments/Pasted image 20230319210648.png](/img/user/Attachments/Pasted%20image%2020230319210648.png)
+![Storage-2023-04-24-13.png](/img/user/Attachments/Storage-2023-04-24-13.png)
 
-![Attachments/Pasted image 20230319210812.png](/img/user/Attachments/Pasted%20image%2020230319210812.png)
+![Storage-2023-04-24-14.png](/img/user/Attachments/Storage-2023-04-24-14.png)
 
-![Attachments/Pasted image 20230319210825.png](/img/user/Attachments/Pasted%20image%2020230319210825.png)
+![Storage-2023-04-24-15.png](/img/user/Attachments/Storage-2023-04-24-15.png)
 ## Memorystore
 - In-memory data store service
 - High availability, failover, patching, and monitoring
@@ -263,4 +263,4 @@ Third-party provider uploads the data from physical media
 - highly scalable NoSQL database for your web and mobile applications
 - [[Knowledge/Information Technology/Cloud/Google Cloud/Storage#Cloud Firestore\|Firestore]] is the next generation of Datastore
 ## Decision Tree
-![Pasted image 20230415161420.png](/img/user/Attachments/Pasted%20image%2020230415161420.png)
+![Storage-2023-04-24-16.png](/img/user/Attachments/Storage-2023-04-24-16.png)
