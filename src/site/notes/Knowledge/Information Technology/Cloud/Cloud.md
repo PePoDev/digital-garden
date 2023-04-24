@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/information-technology/cloud/cloud/","dgPassFrontmatter":true}
+{"dg-publish":true,"sticker":"1f327-fe0f","permalink":"/knowledge/information-technology/cloud/cloud/","dgPassFrontmatter":true}
 ---
 
 ## Links
@@ -11,25 +11,43 @@
 - Flexibility (on-demand capacity, cost optimization)
 - Elasticity (scalable, pay what you go)
 - Security
+## Digital Transfomation
+- When an organization uses new digital technologies, such as public, private, and hybrid cloud platforms to create or modify business processes, culture, and customer experiences to meet the needs of changing business and market dynamics
 ## Cloud Model
-- Colocation
-- Virtualized data center
-- Container-based architecture (Google Cloud)
-## IaaS and PaaS
-### Infrastructure as a Service
-- Raw compute
-- Storage
-- Network capability
-- pay for what they allocate
-### Platform as a Service
-- bind code to the library
-- pay for what they use
-## Total Cost of Ownership
+- Private Cloud (Colocation, Virtualized data center)
+- Public Cloud (Google Cloud, AWS, Azure)
+- Hybrid Cloud
+- Multi-Cloud
+
 > [!note]
+>  81% of organizations are working with two or more public cloud providers
+>  (Gartner)
+## Cloud Service Models
+- On-premises (Owning a car)
+- IaaS (Leasing a car)
+	- Raw compute
+	- Storage
+	- Network capability
+	- pay for what they allocate
+- PaaS (Taking a taxi)
+	- bind code to the library
+	- pay for what they use
+- SaaS (Going by bus)
+## Total Cost of Ownership
+> [!NOTE]
 >  Total Cost of Owner = Capital Expense + Operational Expense
 
 ![Attachments/Pasted image 20230315225212.png](/img/user/Attachments/Pasted%20image%2020230315225212.png)
 ### CapEx & OpsEx
+- Capital expenditures (CapEx)
+	- Upfront business expenses put toward fixed assets
+- Operation expenditures (OpEx)
+	- Recurring costs for a more immediate benefit
+
+![Pasted image 20230422185001.png](/img/user/Attachments/Pasted%20image%2020230422185001.png)
+
+![Pasted image 20230422185204.png](/img/user/Attachments/Pasted%20image%2020230422185204.png)
+
 ![Attachments/Pasted image 20230315230145.png](/img/user/Attachments/Pasted%20image%2020230315230145.png)
 ## Migration strategies
 ### Google
