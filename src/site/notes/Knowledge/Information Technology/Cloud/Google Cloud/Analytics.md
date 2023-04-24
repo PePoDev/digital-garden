@@ -46,7 +46,7 @@
 - Intelligently scale to millions of QPS
 - Can use to export the Bigtable data to Cloud Storage
 - Often used for ETL
-![Pasted image 20230323234633.png](/img/user/Attachments/Pasted%20image%2020230323234633.png)
+![Analytics-2023-04-24.png](/img/user/Attachments/Analytics-2023-04-24.png)
 ## Dataproc
 - Managed Spark and Hadoop service
 - Visually explore, clean, and prepare data for analysis and machine learning
@@ -55,7 +55,7 @@
 - Focus on data analysis
 - Integrated Partner service operated by Trifacta
 - Cloud Storage Connector (instead of HDFS attached storage)
-![Pasted image 20230323234927.png](/img/user/Attachments/Pasted%20image%2020230323234927.png)
+![Analytics-2023-04-24-1.png](/img/user/Attachments/Analytics-2023-04-24-1.png)
 ## Cloud Datalab
 - Web-based tool to explore, analyze and visualize data based on Jupyter notebook
 - Support for popular data-science toolkits (pandas, numpy, and scikit-learn)
@@ -87,4 +87,4 @@
 - Integrated with GCP
 - Managed service
 - Simple and familiar
-![Pasted image 20230324004726.png](/img/user/Attachments/Pasted%20image%2020230324004726.png)
+![Analytics-2023-04-24-2.png](/img/user/Attachments/Analytics-2023-04-24-2.png)
