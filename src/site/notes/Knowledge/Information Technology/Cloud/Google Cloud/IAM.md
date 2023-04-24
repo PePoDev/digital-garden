@@ -37,7 +37,7 @@
 		- Scope (legacy, use Role instead)
 	- Google APIs service account
 
-![Attachments/Pasted image 20230317003111.png](/img/user/Attachments/Pasted%20image%2020230317003111.png)
+![IAM-2023-04-24.png](/img/user/Attachments/IAM-2023-04-24.png)
 ## Workload Identity Federation
 - Grant external identities IAM roles, including impersonating a service account
 - Use a short-lived access token instead of a long-lived service account key
