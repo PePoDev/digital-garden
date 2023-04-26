@@ -13,10 +13,18 @@
 	- Avoid unclear data, Mislabeled data
 - Data Completeness
 	- Availability of sufficient data
-## Cloud Auto ML
-## Vision API
+## AI and ML models on Google Cloud 
+- Pre-trained APIs
+	- Vision API
+		- Ingest data from Cloud Storage
+	- Speech-to-Text API
+	- Translation API
+- AutoML
+	- Vertex AI
+- Custom model tooling
+	- Vertex AI
 ## Vertex AI
-- Build, deploy, and monitor ML models
+- Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case
 - Support MLOps practices
 - A unified framework for ML Workflows
 - Components
@@ -30,6 +38,5 @@
 	- Model Monitoring
 	- Pipelines
 	- Predictions
-## Speech-to-Text API
-## Cloud Translation API
 ## Cloud Natural Language API
+## Cloud AI Hub
