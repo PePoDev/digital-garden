@@ -58,13 +58,13 @@ Google Cloud’s infrastructure is based in five major geographic locations:
 
 > Google's data centers were the first to achieve ISO 14001 certification, which is a standard that maps out a framework for an organization to enhance its environmental performance by improving resource efficiency and reducing waste.
 
-![Pasted image 20230209232307.png](/img/user/Attachments/Pasted%20image%2020230209232307.png)
+![Google Cloud-2023-04-24.png](/img/user/Attachments/Google%20Cloud-2023-04-24.png)
 
 - In our founding decade, Google became the first major company to be carbon neuapitral.
 - In our second decade, we were the first company to achieve 100% renewable energy.
 - By 2030, we aim to be the first major company to operate completely carbon-free.
 
-![Pasted image 20230209232503.png](/img/user/Attachments/Pasted%20image%2020230209232503.png)
+![Google Cloud-2023-04-24-1.png](/img/user/Attachments/Google%20Cloud-2023-04-24-1.png)
 
 ## Google Infrastructure Security 
 1. Hardware security layer
@@ -85,14 +85,14 @@ Google Cloud’s infrastructure is based in five major geographic locations:
 	- Employee Universal Second Factor (U2F) use
 	- Software development 
 
-![Pasted image 20230422232242.png](/img/user/Attachments/Pasted%20image%2020230422232242.png)
+![Google Cloud-2023-04-24-2.png](/img/user/Attachments/Google%20Cloud-2023-04-24-2.png)
 ## Pricing & Billing
 - Google was the first major cloud provider to deliver per-second billing.
 - Automatically applied sustained-use discounts are automatic discounts you get for running a virtual machine instance for a significant portion of the billing month. Specifically, when you run an instance for more than 25% of a month, Compute Engine automatically gives you a discount for every incremental minute you use for that instance.
 
 https://cloud.google.com/products/calculator
 
-![Pasted image 20230212225053.png](/img/user/Attachments/Pasted%20image%2020230212225053.png)
+![Google Cloud-2023-04-24-3.png](/img/user/Attachments/Google%20Cloud-2023-04-24-3.png)
 ### Quotas
 Applied at the project level
 - Rate quota (reset after a specific time)
@@ -137,6 +137,7 @@ Designed to programmatically help to manage projects
 - Provide secure access to your backend services through a well-defined REST API
 - Clients consume your REST APIs to implement standalone apps
 ### Apigee API Management
+![Google Cloud-2023-04-24-8.png](/img/user/Attachments/Google%20Cloud-2023-04-24-8.png)
 - Design, secure, publish, analyze, monitor, monetize, and scale APIs anywhere
 - Manage Complete API life cycle
 - Provides AI-powered API monitoring (Get actionable insights)
@@ -146,22 +147,41 @@ Designed to programmatically help to manage projects
 - Specific focus on business problems like rate limiting quotas and analytics
 - Many Apigee Edge users provide a software service to other companies
 - Backend services for Apigee Edge don't need to be in Google Cloud
-### Cloud Source Repository
-- Git repository
-- Work with Google services
--  allows Google Cloud diagnostics tools, like Debugger and Error Reporting
 ### Dataflow
 
 ### Pub/Sub
-
+## Support
+- Support options
+	- Technical Support
+		- When something isn't working right
+	- Billing Support
+		- Help with your bill and purchasing reserved instance
+	- Role-based Support
+		- More predictable rates and a flexible configuration
+	- Enterprise Support
+		- Working directly with TAM (Technical Account Management) Contact
+- Support level
+	- Basic
+		- Free
+		- Least Amount of Options
+	- Standard
+		- Unlimited access to support
+		- 4-hour response time to priority 2 cases
+		- Receive support during local business hours, Monday - Friday
+	- Enhanced
+		- Guaranteed 1 hour response to priority 1 cases
+		- Ability to escalate cases for additional attention
+	- Premium
+		- Guaranteed 15 minute response time to priority 1 cases
+		- A number of value add services
 ## Bare Metal Solution
 
 ## Migration
-![Attachments/Pasted image 20230312204133.png](/img/user/Attachments/Pasted%20image%2020230312204133.png)
+![Google Cloud-2023-04-24-4.png](/img/user/Attachments/Google%20Cloud-2023-04-24-4.png)
 
-![Attachments/Pasted image 20230312205820.png](/img/user/Attachments/Pasted%20image%2020230312205820.png)
+![Google Cloud-2023-04-24-5.png](/img/user/Attachments/Google%20Cloud-2023-04-24-5.png)
 
-![Attachments/Pasted image 20230312205835.png](/img/user/Attachments/Pasted%20image%2020230312205835.png)
+![Google Cloud-2023-04-24-6.png](/img/user/Attachments/Google%20Cloud-2023-04-24-6.png)
 
 ## Cheat sheet
-![Attachments/Pasted image 20230312205850.png](/img/user/Attachments/Pasted%20image%2020230312205850.png)
+![Google Cloud-2023-04-24-7.png](/img/user/Attachments/Google%20Cloud-2023-04-24-7.png)
