@@ -3,15 +3,15 @@
 ---
 
 # Problem Space vs Solution Space
-![Pasted image 20230219223400.png](/img/user/Attachments/Pasted%20image%2020230219223400.png)
-![Attachments/Pasted image 20230313171248.png](/img/user/Attachments/Pasted%20image%2020230313171248.png)
+![Domain Driven Design-2023-04-26.png](/img/user/Attachments/Domain%20Driven%20Design-2023-04-26.png)
+![Domain Driven Design-2023-04-26-1.png](/img/user/Attachments/Domain%20Driven%20Design-2023-04-26-1.png)
 
 ## Domains
 - Core domains
 - Generic domains
 - Supporting domains
 
-![Attachments/Pasted image 20230313171831.png](/img/user/Attachments/Pasted%20image%2020230313171831.png)
+![Domain Driven Design-2023-04-26-2.png](/img/user/Attachments/Domain%20Driven%20Design-2023-04-26-2.png)
 
 ## Integrating Bounded Context
 -   Partnership — ต่อกันแบบ Ad hoc 1–1
