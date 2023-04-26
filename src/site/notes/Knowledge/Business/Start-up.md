@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/knowledge/business/start-up/","dgPassFrontmatter":true}
 ---
 
-![Untitled](/img/user/Attachments/Untitled 50.png)
+![Untitled](/img/user/Attachments/Start-up-2023-04-26.png)
 
 หา Early Adopters อย่างมีกลยุทธ์ด้วย Beachhead Market  Prof. Bill Aulet จาก MIT Innovation ซึ่งเป็นนักเขียนและอาจารย์ชื่อดังด้านการสร้างบริษัทนวัตกรรมได้สอนเรื่อง Beachhead Market ไว้เพื่อช่วยให้สตาร์ทอัพหา Early Adopters    โดย Aulet ได้สอนไว้ว่าBeachhead Market ที่ดีต้องมีคุณสมบัติ 7 ประการ
 1. 
@@ -58,13 +58,13 @@
 - Frequency - ความถี่ในการซื้อ
 - Monetary - มูลค่าของการซื้อโดยรวม
 
-![Untitled](/img/user/Attachments/Untitled 1 4.png)
+![Untitled](/img/user/Attachments/Start-up-2023-04-26-1.png)
 ## **Targeting**
 - Size - ขนาดและความความสามารถในการเติบโตของ Segment
 - Profitability - มูลค่าตลาดของ Segment ความสามารถในการจ่าย และระยะเวลาที่ลูกค้าจะสร้างกำไรให้กับธุรกิจ
 - Reachability - ความยากง่ายในการเข้าถึงลูกค้าใน Segment นั้น รวมถึงค่าใช้จ่ายในการเข้าถึง (Customer Acquisition Cost)
 
-![Untitled](/img/user/Attachments/Untitled 2 4.png)
+![Untitled](/img/user/Attachments/Start-up-2023-04-26-2.png)
 ## Stage of start-up
 - Problem Solution Fit
 - Product Market Fit
