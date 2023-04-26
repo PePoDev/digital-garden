@@ -5,9 +5,9 @@
 ## History of payments
 - What year was the first credit card launched? 1966
 
-![Attachments/Pasted image 20230321130930.png](/img/user/Attachments/Pasted%20image%2020230321130930.png)
+![Payment-2023-04-26.png](/img/user/Attachments/Payment-2023-04-26.png)
 ## Four-party model
-![Attachments/Pasted image 20230321132825.png](/img/user/Attachments/Pasted%20image%2020230321132825.png)
+![Payment-2023-04-26-1.png](/img/user/Attachments/Payment-2023-04-26-1.png)
 ### Merchant
 
 ### Acquirer
@@ -34,7 +34,7 @@
 - Establish & maintain rules
 - Maintain card settlement networks
 
-![Attachments/Pasted image 20230321135053.png](/img/user/Attachments/Pasted%20image%2020230321135053.png)
+![Payment-2023-04-26-2.png](/img/user/Attachments/Payment-2023-04-26-2.png)
 
 ## VISA
-![Pasted image 20230414181504.png](/img/user/Attachments/Pasted%20image%2020230414181504.png)
+![Payment-2023-04-26-3.png](/img/user/Attachments/Payment-2023-04-26-3.png)
