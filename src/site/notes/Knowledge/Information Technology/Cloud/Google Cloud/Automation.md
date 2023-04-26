@@ -11,6 +11,8 @@
 ## Cloud Source Repository
 - managed Git repository
 - Control access by using IAM
+- Work with Google services
+-  allows Google Cloud diagnostics tools, like Debugger and Error Reporting
 ## Cloud build
 - Google-hosted Docker build service
 - Use CLI to submit a build `gcloud builds submit --tag <tag> .`
