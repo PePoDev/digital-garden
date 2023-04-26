@@ -3,7 +3,7 @@
 ---
 
 
-![Untitled](/img/user/Attachments/Untitled 49.png)
+![Untitled](/img/user/Attachments/MBA-2023-04-26.png)
 
 ## Links
 - [Flexible MBA Program](http://mba.nida.ac.th/th/program/thai/flex)
