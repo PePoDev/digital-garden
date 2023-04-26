@@ -37,7 +37,7 @@
 > [!NOTE]
 >  Total Cost of Owner = Capital Expense + Operational Expense
 
-![Attachments/Pasted image 20230315225212.png](/img/user/Attachments/Pasted%20image%2020230315225212.png)
+![Pasted image 20230315225212.png](/img/user/Attachments/Pasted%20image%2020230315225212.png)
 ### CapEx & OpsEx
 - Capital expenditures (CapEx)
 	- Upfront business expenses put toward fixed assets
@@ -48,7 +48,7 @@
 
 ![Pasted image 20230422185204.png](/img/user/Attachments/Pasted%20image%2020230422185204.png)
 
-![Attachments/Pasted image 20230315230145.png](/img/user/Attachments/Pasted%20image%2020230315230145.png)
+![Pasted image 20230315230145.png](/img/user/Attachments/Pasted%20image%2020230315230145.png)
 ## Migration strategies
 ### Google
 ![Pasted image 20230324010320.png](/img/user/Attachments/Pasted%20image%2020230324010320.png)
@@ -89,10 +89,14 @@
 		- Scans networks & queries VMs without the agent
 		- Deploys in 45 minutes, gives results in <1 week
 		- Provides inventory, TCO projections, right-sizing recommendations, dependency analysis, etc
-### Invent in brownfield
-
-### Invent in greenfield
-
+## Cloud change patterns
+- Move applications first and then change them
+- Change applications before they move
+- Invent in greenfield
+	- building an entirely new infrastructure and applications in the cloud
+- Invent in brownfield
+	- invent a new application in the cloud environment that will replace an existing legacy application that remains on premises
+- Move applications without any changes
 ## NORTH-SOUTH and EAST-WEST
 - NORTH-SOUTH traffic is a server-client traffic
 - EAST-WEST traffic is a server-server traffic
