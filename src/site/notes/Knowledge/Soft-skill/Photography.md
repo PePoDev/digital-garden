@@ -4,7 +4,7 @@
 
 > ถ้าเราปล่อยให้แสงผ่านเข้าไปในช่องเล็กๆในห้องมืด แล้วถือกระดาษสีขวาหลังช่องรับแสงนั้น จะปรากฏภาพจริงหัวกลับแต่เป็นภาพที่ไม่ชัดเจนนัก - อาริสโตเติล 
 
-![Untitled](/img/user/Attachments/Untitled 1 3.png)
+![Untitled](/img/user/Attachments/Photography-2023-04-26.png)
 
 **เนียพซ์ - คิดคันการนำสารเคมีวัตุไวแสงไปล้างแล้วทำให้สีติดอยู่บนกระดาษคงทนถาวร**
 ## Photography
@@ -18,27 +18,27 @@ Phos (แสงสว่าง) + Graphein (การเขียน) = กา�
         - Full frame
         - APSC
 # Tips
-![Untitled](/img/user/Attachments/Untitled 2 3.png)
+![Untitled](/img/user/Attachments/Photography-2023-04-26-1.png)
 
-![Untitled](/img/user/Attachments/Untitled 3 3.png)
+![Untitled](/img/user/Attachments/Photography-2023-04-26-2.png)
 
-![Untitled](/img/user/Attachments/Untitled 4 3.png)
+![Untitled](/img/user/Attachments/Photography-2023-04-26-3.png)
 
-![Untitled](/img/user/Attachments/Untitled 5 3.png)
+![Untitled](/img/user/Attachments/Photography-2023-04-26-4.png)
 
-![Untitled](/img/user/Attachments/Untitled 6 3.png)
+![Untitled](/img/user/Attachments/Photography-2023-04-26-5.png)
 
-![Untitled](/img/user/Attachments/Untitled 7 3.png)
+![Untitled](/img/user/Attachments/Photography-2023-04-26-6.png)
 # Composition
-![Untitled](/img/user/Attachments/Untitled 8 3.png)
+![Untitled](/img/user/Attachments/Photography-2023-04-26-7.png)
 
-![Untitled](/img/user/Attachments/Untitled 9 3.png)
+![Untitled](/img/user/Attachments/Photography-2023-04-26-8.png)
 
-![Untitled](/img/user/Attachments/Untitled 10 3.png)
+![Untitled](/img/user/Attachments/Photography-2023-04-26-9.png)
 
-![Untitled](/img/user/Attachments/Untitled 11 3.png)
+![Untitled](/img/user/Attachments/Photography-2023-04-26-10.png)
 
-![Untitled](/img/user/Attachments/Untitled 12 3.png)
+![Untitled](/img/user/Attachments/Photography-2023-04-26-11.png)
 
 ![Untitled](Untitled%2013%203.png)
 
