@@ -21,11 +21,11 @@
 	2. IC Complex 2 (ผู้แนะนำการลงทุนตราสารซับซ้อนประเภทที่ 2) โดยจะต้องสอบผ่านในหลักสูตร IC P1 และ P2
 	3. IC Complex 3 (ผู้แนะนำการลงทุนตราสารซับซ้อนประเภทที่ 3) โดยจะต้องสอบผ่านในหลักสูตร IC P1 และ P3
 
-![Attachments/Pasted image 20230311142405.png](/img/user/Attachments/Pasted%20image%2020230311142405.png)
+![Insurance-2023-04-26.png](/img/user/Attachments/Insurance-2023-04-26.png)
 
-![Attachments/Pasted image 20230311142457.png](/img/user/Attachments/Pasted%20image%2020230311142457.png)
+![Insurance-2023-04-26-1.png](/img/user/Attachments/Insurance-2023-04-26-1.png)
 ## IP (Investment Planner)
-![Attachments/Pasted image 20230311143129.png](/img/user/Attachments/Pasted%20image%2020230311143129.png)
+![Insurance-2023-04-26-2.png](/img/user/Attachments/Insurance-2023-04-26-2.png)
 ## AFPT ()
 
 ## CFP (Certified Financial Planner)
