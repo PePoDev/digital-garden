@@ -3,5 +3,5 @@
 ---
 
 
-![Attachments/Pasted image 20230312010601.png](/img/user/Attachments/Pasted%20image%2020230312010601.png)
+![CAP Theorem-2023-04-26.png](/img/user/Attachments/CAP%20Theorem-2023-04-26.png)
 
