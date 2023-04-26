@@ -7,7 +7,7 @@
 - [The home of engineering leadership | LeadDev](https://leaddev.com/)
 ## **Get on the** Balcony**.**
 
-![Untitled](/img/user/Attachments/Untitled 47.png)
+![Untitled](/img/user/Attachments/Leadership-2023-04-26.png)
 
 A balcony is a place from which you can step back, even emotionally, a little bit more detached and observe and try to then, in a diagnostic, way make sense of where are we now. What's happened? So that you can then go back onto the dance floor and make your next move.
 
@@ -32,7 +32,7 @@ I used to run emergency rooms in the hospital. And I'd have to coordinate, you k
 > 
 > **Leadership** requires a deep respect for the pains of change.
 
-![Pasted image 20230214222728.png](/img/user/Attachments/Pasted%20image%2020230214222728.png)
+![Leadership-2023-04-26-1.png](/img/user/Attachments/Leadership-2023-04-26-1.png)
 
 # Global Mindset
 
@@ -73,4 +73,4 @@ I used to run emergency rooms in the hospital. And I'd have to coordinate, you k
     - พักผ่อนเพียงพอ ได้ทำสิ่งที่ตัวเองรัก (องค์กรต้องมีสวัสดิการที่เหมาะสม รู้ว่าvอะไรไม่ควรข้าม)
 
 ## 9-Box Talent Grid
-![Pasted image 20230213193859.png](/img/user/Attachments/Pasted%20image%2020230213193859.png)
+![Leadership-2023-04-26-2.png](/img/user/Attachments/Leadership-2023-04-26-2.png)
