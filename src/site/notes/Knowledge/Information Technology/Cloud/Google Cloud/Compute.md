@@ -322,3 +322,5 @@
 - Add Dataflow into flow to enable message deduplication (exactly-once processing)
 ## Decision Tree
 ![Compute-2023-04-24-10.png](/img/user/Attachments/Compute-2023-04-24-10.png)
+## VMWare Engine
+## Bare Metal
