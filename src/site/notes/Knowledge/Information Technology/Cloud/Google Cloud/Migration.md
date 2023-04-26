@@ -65,3 +65,9 @@
 	- Test
 	- Deploy
 ![Migration-2023-04-24-2.png](/img/user/Attachments/Migration-2023-04-24-2.png)
+## Database Migration Service
+- Lift and shift for database service
+## Cloud Datastream
+- Change data capture and replication to synchronize your data across databases, storage systems, and applications
+- Low latency, and won't bog down your source database
+- Integrate with BigQuery, Cloud Spanner, Dataflow, and Data Fusion
