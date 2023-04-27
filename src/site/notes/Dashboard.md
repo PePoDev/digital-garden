@@ -18,6 +18,7 @@ no tags
 ```
 ## Table of Contents
 - [[Attachments/Attachments\|Attachments]]
+- [[Archive/Archive\|Archive]]
 - [[Templates/Templates\|Templates]]
 - 🔒 [[Assets/Assets\|Assets]]
 - [[Travel/Travel\|Travel]]
