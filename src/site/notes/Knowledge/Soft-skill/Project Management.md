@@ -3,8 +3,8 @@
 ---
 
 ## Certificates
-- [ ] PMI
-- [ ] PMP
-- [ ] PMI-ACP
+- [ ] PMI #certificate
+- [ ] PMP #certificate
+- [ ] PMI-ACP #certificate
 ## Links
 - https://www.pmi.org/kickoff
