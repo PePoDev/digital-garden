@@ -8,7 +8,6 @@
 - [NocNoc - Sure-Vision-ขาตั้งจอมอนิเตอร์](https://nocnoc.com/p/Products/Sure-Vision-ขาตั้งจอมอนิเตอร์-13%E2%80%9D--36%E2%80%9D-รุ่น-GSL-36W-(มีไฟ-RGB-สีฟ้า-แบบปรับได้ทุกทิศทาง)/10585167)
 - [เกมเศรษฐี ลงทุนให้รวย ด้วยอสังหาริมทรัพย์](https://m.se-ed.com/Product/Detail/9786160848768)
 - [หลังฉากความสำเร็จ](https://m.se-ed.com/Product/Detail/9786165983716)
-- [Storytel - หนังสือเสียงในมือถือของคุณ](https://www.storytel.com/th/th/c/bookfair2023)
 ## Healthy
 - [ดูแลสุขภาพระดับ DNA | GeneusDNA.com ชุดตรวจยีน](https://www.geneusdna.com/)
 ## Courses
