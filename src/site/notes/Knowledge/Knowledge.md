@@ -5,7 +5,7 @@
 ## Links
 - [MasterClass Online Classes](https://www.masterclass.com/)
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
-
+- https://grow.google/intl/ALL_th/
 ## Backlink
 
 - **[[Knowledge/Business/Business\|Business]]**
