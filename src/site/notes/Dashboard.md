@@ -2,6 +2,10 @@
 {"dg-publish":true,"dg-home":true,"permalink":"/dashboard/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
+## Tasks
+```tasks
+SORT
+```
 ## In-progress
 ```tasks
 status.type is IN_PROGRESS
