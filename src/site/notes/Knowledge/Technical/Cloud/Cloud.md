@@ -2,6 +2,12 @@
 {"dg-publish":true,"sticker":"1f327-fe0f","permalink":"/knowledge/technical/cloud/cloud/","dgPassFrontmatter":true}
 ---
 
+## Cloud Providers
+
+- **[[Knowledge/Technical/Cloud/AWS/AWS\|AWS]]**
+- **[[Knowledge/Technical/Cloud/Azure/Azure\|Azure]]**
+- **[[Knowledge/Technical/Cloud/Google Cloud/Google Cloud\|Google Cloud]]**
+
 ## Links
 - [Cloud Academy](https://cloudacademy.com/dashboard/)
 - [Tutorials Dojo](https://tutorialsdojo.com/)
@@ -100,9 +106,3 @@
 ## NORTH-SOUTH and EAST-WEST
 - NORTH-SOUTH traffic is a server-client traffic
 - EAST-WEST traffic is a server-server traffic
-## Cloud Providers
-
-- **[[Knowledge/Technical/Cloud/AWS/AWS\|AWS]]**
-- **[[Knowledge/Technical/Cloud/Azure/Azure\|Azure]]**
-- **[[Knowledge/Technical/Cloud/Google Cloud/Google Cloud\|Google Cloud]]**
-
