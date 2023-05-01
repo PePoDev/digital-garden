@@ -1,24 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/aws/","dgPassFrontmatter":true}
+{"dg-publish":true,"sticker":"1f325-fe0f","permalink":"/knowledge/technical/cloud/aws/aws/","dgPassFrontmatter":true}
 ---
 
-IAM: Users & Groups
-
-• IAM = Identity and Access Management, Global service  
-• Root account created by default, shouldn’t be used or shared  
-• Users are people within your organization, and can be grouped  
-• Groups only contain users, not other groups  
-• Users don’t have to belong to a group, and user can belong to multiple groupsIAM: Users & Groups
-
-• IAM = Identity and Access Management, Global service  
-• Root account created by default, shouldn’t be used or shared  
-• Users are people within your organization, and can be grouped  
-• Groups only contain users, not other groups  
-• Users don’t have to belong to a group, and user can belong to multiple groups
----
-dg-publish: true
-sticker: 1f325-fe0f
----
 ## Links
 - [AWS Cloud Solutions Architect Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect)
 - [AWS training and certification](https://www.aws.training/Certification)
