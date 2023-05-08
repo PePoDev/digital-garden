@@ -6,6 +6,9 @@
 - [Agile Project Management | Coursera](https://www.coursera.org/learn/agile-project-management)
 ## Certificates
 - [ ] CSP #certificate
+- [ ] [A-CSM](https://www.scrumalliance.org/get-certified/scrum-master-track/advanced-certified-scrummaster) #certificate
+- [ ] [CSM](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster) #certificate
+- [ ] [CSPO](https://www.scrumalliance.org/get-certified/product-owner-track/certified-scrum-product-owner) #certificate
 - [ ] A-CSP #certificate
 - [ ] CSP-SM #certificate
 - [ ] ICP #certificate
