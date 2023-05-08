@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/knowledge/technical/algorithm/algorithm/","dgPassFrontmatter":true}
 ---
 
+## Pages
+
+- [[Knowledge/Technical/Algorithm/Bin packing problem\|Bin packing problem]]
+- [[Knowledge/Technical/Algorithm/CRTD\|CRTD]]
+- [[Knowledge/Technical/Algorithm/OT (operational transformation)\|OT (operational transformation)]]
+
 ## Links
 - [Algorithms | Coursera](https://www.coursera.org/specializations/algorithms)
 ## Overview
@@ -14,9 +20,3 @@ B Tree \\ B+Tree
 Count min sketch
 Consistent Hashing
 Operation Transformation
-## Backlink
-
-- [[Knowledge/Technical/Algorithm/Bin packing problem\|Bin packing problem]]
-- [[Knowledge/Technical/Algorithm/CRTD\|CRTD]]
-- [[Knowledge/Technical/Algorithm/OT (operational transformation)\|OT (operational transformation)]]
-
