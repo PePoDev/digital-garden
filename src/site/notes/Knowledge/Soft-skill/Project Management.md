@@ -7,4 +7,5 @@
 - [ ] PMP #certificate
 - [ ] PMI-ACP #certificate
 ## Links
-- https://www.pmi.org/kickoff
+- [PMI](https://www.pmi.org/kickoff)
+- [Google Project Management: Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/google-project-management)
