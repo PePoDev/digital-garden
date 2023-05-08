@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/knowledge/technical/technical/","dgPassFrontmatter":true}
 ---
 
-## Backlink
+## Pages
 
 - **[[Knowledge/Technical/AI/AI\|AI]]**
 - **[[Knowledge/Technical/Algorithm/Algorithm\|Algorithm]]**
@@ -12,10 +12,12 @@
 - **[[Knowledge/Technical/Database/Database\|Database]]**
 - **[[Knowledge/Technical/DevOps/DevOps\|DevOps]]**
 - **[[Knowledge/Technical/Enterprise Architecture/Enterprise Architecture\|Enterprise Architecture]]**
+- **[[Knowledge/Technical/Game/Game\|Game]]**
 - **[[Knowledge/Technical/Graphic/Graphic\|Graphic]]**
 - **[[Knowledge/Technical/Hashicorp/Hashicorp\|Hashicorp]]**
 - **[[Knowledge/Technical/Kubernetes/Kubernetes\|Kubernetes]]**
 - **[[Knowledge/Technical/Linux/Linux\|Linux]]**
+- **[[Knowledge/Technical/Math/Math\|Math]]**
 - **[[Knowledge/Technical/Network/Network\|Network]]**
 - **[[Knowledge/Technical/Observability/Observability\|Observability]]**
 - **[[Knowledge/Technical/Others/Others\|Others]]**
