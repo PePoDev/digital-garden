@@ -2,6 +2,18 @@
 {"dg-publish":true,"sticker":"1f325-fe0f","permalink":"/knowledge/technical/cloud/aws/aws/","dgPassFrontmatter":true}
 ---
 
+## Pages
+
+- [[Knowledge/Technical/Cloud/AWS/Analytic\|Analytic]]
+- [[Knowledge/Technical/Cloud/AWS/Automation\|Automation]]
+- [[Knowledge/Technical/Cloud/AWS/Compute\|Compute]]
+- [[Knowledge/Technical/Cloud/AWS/IAM\|IAM]]
+- [[Knowledge/Technical/Cloud/AWS/Monitoring\|Monitoring]]
+- [[Knowledge/Technical/Cloud/AWS/Network\|Network]]
+- [[Knowledge/Technical/Cloud/AWS/Security\|Security]]
+- [[Knowledge/Technical/Cloud/AWS/Storage\|Storage]]
+- [[Knowledge/Technical/Cloud/AWS/Well-Architect\|Well-Architect]]
+
 ## Links
 - [AWS Cloud Solutions Architect Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect)
 - [AWS training and certification](https://www.aws.training/Certification)
@@ -29,19 +41,6 @@
 - [ ] AWS Machine Learning Specialist #certificate
 - [ ] AWS Security Specialist #certificate
 - [ ] AWS SAP on AWS Specialist #certificate
-## Backlink
-
-- [[Knowledge/Technical/Cloud/AWS/Analytic\|Analytic]]
-- [[Knowledge/Technical/Cloud/AWS/Automation\|Automation]]
-- [[Knowledge/Technical/Cloud/AWS/Compute\|Compute]]
-- [[Knowledge/Technical/Cloud/AWS/IAM\|IAM]]
-- [[Knowledge/Technical/Cloud/AWS/Monitoring\|Monitoring]]
-- [[Knowledge/Technical/Cloud/AWS/Network\|Network]]
-- [[Knowledge/Technical/Cloud/AWS/Security\|Security]]
-- [[Knowledge/Technical/Cloud/AWS/Storage\|Storage]]
-- [[Knowledge/Technical/Cloud/AWS/Well-Architect\|Well-Architect]]
-
-
 ## AWS Availability Zones
 - Each region has many availability zones (usually 3, min is 3, max is 6). Example: 
 	- ap-southeast-2a
