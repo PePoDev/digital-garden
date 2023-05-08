@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"candidate-id":"","permalink":"/knowledge/technical/cloud/google-cloud/google-cloud/","dgPassFrontmatter":true}
+{"dg-publish":true,"candidate-id":"547c5bbe-4d3b-4dbf-b066-6c60e3770e75","permalink":"/knowledge/technical/cloud/google-cloud/google-cloud/","dgPassFrontmatter":true}
 ---
-
 
 ## Links
 - [Assessment Registration](https://www.webassessor.com/wa.do?page=publicHome&branding=GOOGLECLOUD)
@@ -11,9 +10,9 @@
 - [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator)
 - [Partner Certification Kickstart | Google Cloud](https://inthecloud.withgoogle.com/pck-page/register.html)
 ## Certificates
-- [/] Cloud Digital Leader #certificate 🔼
+- [x] Cloud Digital Leader #certificate 🔼 ✅ 2023-04-20
 - [/] Associate Cloud Engineer #certificate 🔼
-- [x] Professional Cloud Architect #certificate
+- [x] Professional Cloud Architect #certificate ⏫ ✅ 2023-05-05
 - [ ] Professional Cloud Developer #certificate
 - [ ] Professional Cloud DevOps Engineer #certificate
 - [ ] Professional Data Engineer #certificate
@@ -32,6 +31,7 @@
 - [[Knowledge/Technical/Cloud/Google Cloud/Compute\|Compute]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Cost Optimization\|Cost Optimization]]
 - [[Knowledge/Technical/Cloud/Google Cloud/IAM\|IAM]]
+- [[Knowledge/Technical/Cloud/Google Cloud/IoT\|IoT]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Migration\|Migration]]
 - [[Knowledge/Technical/Cloud/Google Cloud/ML\|ML]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Monitoring\|Monitoring]]
@@ -40,6 +40,7 @@
 - [[Knowledge/Technical/Cloud/Google Cloud/Resource Management\|Resource Management]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Security\|Security]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Storage\|Storage]]
+
 
 
 > [!tip]+
