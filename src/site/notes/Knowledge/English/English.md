@@ -2,19 +2,23 @@
 {"dg-publish":true,"permalink":"/knowledge/english/english/","dgPassFrontmatter":true}
 ---
 
+## Pages
+
+- [[Knowledge/English/Conversations\|Conversations]]
+- [[Knowledge/English/Link\|Link]]
+- [[Knowledge/English/Vocabulary\|Vocabulary]]
+
 ## Certificates
 - [ ] IELTS #certificate
 - [ ] TOEIC #certificate
 ## TOEIC Test
 - [CanPacific](http://www.canpacificcollege.com/toeictest/toeictextstart.php)
 - [IELTS Home of the IELTS English Language Test](https://www.ielts.org/)
-## Backlink
-
-- [[Knowledge/English/Conversations\|Conversations]]
-- [[Knowledge/English/Link\|Link]]
-- [[Knowledge/English/Vocabulary\|Vocabulary]]
-
+- [The TOEIC Listening and Reading test- about the Test of English for International Communication](https://www.examenglish.com/TOEIC/toeic_listening_and_reading.htm)
 ## Links
+- [The TOEIC Program | English-language Proficiency Tests](https://www.ets.org/toeic.html)
+- [บุฟเฟ่ต์คอร์สปูพื้นอังกฤษ by Minimal English](https://www.facebook.com/groups/englishbuffetbyminimalenglish/announcements)
+- [BBC Learning English - BBC Learning English - Homepage](https://www.bbc.com/learningenglish/)
 - ภาษาอังกฤษเริ่มต้น ABC - http://www.abcya.com/
 - ฝึกการฟังสำหรับมือใหม่ - https://spotlightenglish.com/
 - ฝึกคำศัพท์ที่จำเป็นต่อชีวิตประจำวัน - https://www.languageguide.org/english/vocabulary/
