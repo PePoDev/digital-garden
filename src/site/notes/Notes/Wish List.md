@@ -16,13 +16,6 @@
 - [Effective Go: Architecture and Design Patterns | Skooldio](https://www.skooldio.com/courses/effective-go)
 - [Digital Business Starter Pack | Skooldio](https://www.skooldio.com/bundles/digital-business-starter-pack)
 - [Effective Software Development | Skooldio](https://www.skooldio.com/bundles/effective-software-development)
-- [The Art of Forming Successful Business](https://page.futureskill.co/superclass-theartofbusiness)
-- [Winning Your Brand With Grit](https://page.futureskill.co/winning-your-brand-with-grit)
-- [Growing a Successful Business Collection](https://page.futureskill.co/collection-business)
-- [เริ่มต้นทำธุรกิจส่วนตัว แบบไม่ต้องลาออกจากงานประจำ](https://page.fskill.co/mbaxx)
-- [สร้างแบรนด์เป็นใน 9 วัน](https://page.fskill.co/course-mb)
-- [Growth Academy - คอร์สออนไลน์สอนโดย CEO ของสตาร์ทอัปยูนิคอร์น เปลี่ยนคุณเป็นนักบริหาร มืออาชีพ](https://page.fskill.co/growth-uc)
-- [Cariber](https://page.cariber.co/secret-offer-golf35)
 ## Coffee
 - [สินค้า HARIO - koffeetools](https://www.koffeetools.com/category/5117/%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2-hario)
 - [Specialty Coffee & Gears – The Summer Coffee Company](https://thesummercoffee.com/)
