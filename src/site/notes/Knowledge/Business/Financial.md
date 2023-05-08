@@ -4,6 +4,7 @@
 
 ## Links
 - [ThaiPFA สถาบันแรกในการจัดอบรมหลักสูตรการวางแผนการเงินCFP,IC,IP](https://www.thaipfa.co.th/home)
+- [Financial Calculators](https://www.fncalculator.com/)
 ## Wealthy
 - Saving
 - Investment
