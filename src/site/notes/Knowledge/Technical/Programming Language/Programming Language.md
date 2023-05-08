@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/knowledge/technical/programming-language/programming-language/","dgPassFrontmatter":true}
 ---
 
-## Backlink
+## Pages
 
 - [[Knowledge/Technical/Programming Language/C-Sharp\|C-Sharp]]
 - [[Knowledge/Technical/Programming Language/C\|C]]
