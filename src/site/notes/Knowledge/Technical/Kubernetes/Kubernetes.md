@@ -50,6 +50,9 @@
 - [Kyma - An easy way to extend enterprise applications on Kubernetes.](https://kyma-project.io/)
 - [KUDO](https://kudo.dev/)
 - [Home | Telepresence](https://www.telepresence.io/)
+- [Kdo: deployless development on Kubernetes | kdo](https://kdo.dev/)
+- [Automate application management on Kubernetes. | OpenKruise](https://openkruise.io/)
+- [kpt - Home](https://kpt.dev/)
 ### Security
 - [Runtime protection for Kubernetes](https://kubearmor.io/)
 ### Distribution
@@ -60,7 +63,7 @@
 - [KEDA | Kubernetes Event-driven Autoscaling](https://keda.sh/)
 - [Karpenter](https://karpenter.sh/)
 ### UI
-- [Kubevious :: Kubernetes Assured](https://kubevious.io/)
+- [Kubevious](https://kubevious.io/)
 - [Kui](https://kui.tools/)
 - [Infra — Modern infrastructure access](https://infrahq.com/)
 - [hjacobs/kube-ops-view: Kubernetes Operational View - read-only system dashboard for multiple K8s clusters - kube-ops-view - Codeberg.org](https://codeberg.org/hjacobs/kube-ops-view)
@@ -77,6 +80,8 @@
 - [GitHub - open-policy-agent/conftest: Write tests against structured configuration data using the Open Policy Agent Rego query language](https://github.com/open-policy-agent/conftest/)
 ### Scan
 - [GitHub - cyberark/KubiScan: A tool to scan Kubernetes cluster for risky permissions](https://github.com/cyberark/KubiScan)
+### Build
+- [Paketo Buildpacks - Paketo Buildpacks](https://paketo.io/)
 ## Certificates
 - [ ] KCNA #certificate
 - [ ] CKAD #certificate
