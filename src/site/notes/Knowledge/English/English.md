@@ -37,8 +37,9 @@
 - ฝึกการฟัง เลือกระดับ level ได้ https://learnenglish.britishcouncil.org/
 - ฝึกทำข้อสอบ IELTS เป็น Section http://mini-ielts.com/
 - ฝึก IELTS และสอบจำลอง https://ieltsonlinetests.com/
-## English Levels
-Current English level: B1+ Intermediate [(Test)](https://test.modulo-education.org/) 
+## CEFR
+- CEFR is the Common European Framework of Reference for Languages
+- Current English level: B1+ Intermediate [(Test here)](https://test.modulo-education.org/) 
 ![Pasted image 20230403175313.png](/img/user/Attachments/Pasted%20image%2020230403175313.png)
 ## How to use A-AN
 ![Untitled](/img/user/Attachments/Untitled 52.png)
