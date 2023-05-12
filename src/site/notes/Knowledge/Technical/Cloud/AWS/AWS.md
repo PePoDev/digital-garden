@@ -35,7 +35,7 @@
 - [ ] AWS Developer Associate #certificate
 - [ ] AWS SysOps Administrator Associate #certificate
 - [/] AWS Solution Architect Professional #certificate
-- [ ] AWS DevOps Engineer Professional #certificate
+- [/] AWS DevOps Engineer Professional #certificate
 - [ ] AWS Advanced Networking Specialist #certificate
 - [ ] AWS Data Analytics Specialist #certificate
 - [ ] AWS Database Specialist #certificate
@@ -43,12 +43,9 @@
 - [ ] AWS Security Specialist #certificate
 - [ ] AWS SAP on AWS Specialist #certificate
 ## AWS Availability Zones
-- Each region has many availability zones (usually 3, min is 3, max is 6). Example: 
-	- ap-southeast-2a
-	- ap-southeast-2b
-	- ap-southeast-2c
+- Each region has many availability zones (usually 3, min is 3, max is 6) 
 - Each availability zone (AZ) is one or more discrete data centers with redundant power, networking, and connectivity
-- They’re separate from each other, so that they’re isolated from disasters
+- They’re separate from each other so that they’re isolated from disasters
 - They’re connected with high bandwidth, ultra-low latency networking
 ## AWS Points of Presence (Edge Locations)
 - Amazon has 216 Points of Presence (205 Edge Locations & 11 Regional Caches) in 84 cities across 42 countries
