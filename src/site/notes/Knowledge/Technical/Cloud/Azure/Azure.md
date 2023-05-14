@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/azure/azure/","dgPassFrontmatter":true}
+{"dg-publish":true,"sticker":"1f328-fe0f","permalink":"/knowledge/technical/cloud/azure/azure/","dgPassFrontmatter":true}
 ---
 
 ## Pages
