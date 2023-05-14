@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"candidate-id":"547c5bbe-4d3b-4dbf-b066-6c60e3770e75","permalink":"/knowledge/technical/cloud/google-cloud/google-cloud/","dgPassFrontmatter":true}
+{"dg-publish":true,"candidate-id":"547c5bbe-4d3b-4dbf-b066-6c60e3770e75","sticker":"1f329-fe0f","permalink":"/knowledge/technical/cloud/google-cloud/google-cloud/","dgPassFrontmatter":true}
 ---
 
 ## Links
