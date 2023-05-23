@@ -7,6 +7,7 @@
 - [[Knowledge/Technical/Kubernetes/Cilium\|Cilium]]
 - [[Knowledge/Technical/Kubernetes/Deployment strategy\|Deployment strategy]]
 - [[Knowledge/Technical/Kubernetes/Docker\|Docker]]
+- [[Knowledge/Technical/Kubernetes/Helm\|Helm]]
 - [[Knowledge/Technical/Kubernetes/OpenShift\|OpenShift]]
 - [[Knowledge/Technical/Kubernetes/Tanzu\|Tanzu]]
 
