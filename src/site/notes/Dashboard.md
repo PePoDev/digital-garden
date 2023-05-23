@@ -19,7 +19,6 @@ status.type is TODO
 ```
 ## Table of Contents
 - [[Attachments/Attachments\|Attachments]]
-- [[Archive\|Archive]]
 - [[Templates/Templates\|Templates]]
 - 🔒 [[Assets/Assets\|Assets]]
 - [[Travel/Travel\|Travel]]
