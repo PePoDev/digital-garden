@@ -2,6 +2,68 @@
 {"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/storage/","dgPassFrontmatter":true}
 ---
 
+## S3
+- Use cases
+	- Backup
+	- Disaster Recovery
+	- Archive
+	- Hybrid Cloud Storage
+	- Application hosting
+	- Media hosting
+	- Data lakes & big data analytics
+	- Software delivery
+	- Static website
+- Globally unique name
+- Looks like a global service but is created in a region
+- Naming
+	- No uppercase, No underscore
+	- 3-63 characters long
+	- Not an IP
+	- Must start with a lowercase letter or number
+	- Must NOT start with the prefix `xn--`
+	- Must NOT start with the suffix `-s3alias`
+- Objects
+	- Key (Prefix + Object name)
+	- There's no concept of the directory within buckets (the UI will trick you think)
+	- Max object size is 5TB
+	- If uploading more than 5GB, must use "multi-part upload"
+- Versioning
+	- Protect against unintended deletes
+	- The same key overwrite will change the version
+	- Enabled at the bucket level
+	- Suspending versioning does not delete the previous version
+- Metadata
+- Tags
+- High durability 99.999999999% (11 9's) of objects across multiple AZ
+- Classes
+	- Standard - General Purpose
+	- Standard-Infrequent Access (IA)
+	- One Zone-Infrequent Access
+	- Glacier Instant Retrieval
+	- Glacier Flexible Retrieval
+	- Glacier Flexible Retrieval
+	- Glacier Deep Archive
+	- Intelligent Tiering
+- Security
+	- User-based
+		- IAM Policies - Allow for a specific user from IAM
+	- Resource-Based
+		- Bucket Policies - Bucket-wide rules from the s3 console (allow cross-account)
+		- Object ACL - finer grain (can be disabled)
+		- Bucket ACL - less common (can be disabled)
+	- IAM can access an s3 object if (The user IAM permissions allow it OR the resource policy allows it) AND there's no explicit deny
+	- Encrypt objects in S3 using KMS
+- Replication
+	- Must enable versioning
+	- Cross-Region Replication (CRR) - Compliance, Lower latency access
+	- Same-Region Replication (SRR) - Log aggregation, Live replication between production and test accounts
+	- The buckets can be in different AWS accounts
+	- Must give proper IAM permission to S3
+	- Only new objects are replicated when enabling replication
+		- Use S3 Batch Replication for existing objects
+		- For DELETE operations will replicate delete markers (need to enable)
+		- Delete with version ID are not replicated (avoid malicious deletes)
+		- There is no "chaining" of replication
 ## EBS
 - Elastic Block Store is a network drive
 - Can mount only one instance at a time
@@ -61,7 +123,115 @@
 - Lifecycle Policy: move files between storage tier
 - File system policy: Control the access permission in EFS
 ## RDS
-- Stands for Relational Database Service
-## Aurora
-
-## ElasticCache
+- Stands for Relational Database Service and It managed by AWS
+- Supports Postgres, MySQL, MariaDB, Oracle, MSSQL, Aurora (AWS Proprietary)
+- Automated provisioning, OS patching
+- Continuous backups and restore to specific timestamps (PTO)
+- Monitoring dashboard
+- Read replicas for improved read performance
+	- Up to 15 Read replicas
+	- Within AZ, Cross AZ, or Cross Region
+	- Replication is Async, So reads are eventually consistent
+	- Can be promoted
+- Multi-AZ setup for DR (disaster Recovery), Sync replication, One DNS name, and automatic app failover to standby
+- Maintenance windows for upgrades
+- Scaling capability (vertical and horizontal)
+- Backup
+	- Automated backup
+		- Daily full backup during the backup window
+		- Transaction logs backup every 5 minutes
+		- 1 - 35 days of retention (set to 0 to disable)
+	- Manual snapshot
+		- Retention as long as you want
+- Storage backed by EBS (gp2 or io1)
+	- Auto-scaling for storage
+- Network cost: Normally network costs when data goes from one AZ to another, but RDS read replicas within the same region are FREE! ![Storage-2023-05-14.png](/img/user/Attachments/Storage-2023-05-14.png)
+- Can't SSH into the instance
+- RDS Custom: Managed Oracle and MSSQL can access the underlying database and OS
+- Restore
+	- from snapshot
+	- from S3 backup by Percona XtraBackup
+	- Clone from existing one
+		- Use copy-on-write protocol
+			- Initial the new DB uses the same data volume (no copying is needed)
+			- When updates are made to the new DB then additional storage is allocated and data is copied to be separated
+		- fast & cost-effective
+		- Useful for creating staging DB from production without impact on production DB
+- Security
+	- At-rest Encryption by KMS
+	- In-flight encryption is enabled by default use with the AWS TLS root certificates client-side
+	- If the master is not encrypted, the replicas can't be encrypted
+	- To encrypt an un-encrypted DB, snapshot and restore as encrypted
+	- Audit logs can be enabled
+- Proxy
+	- Pool and share FB connections established with the database
+	- Improving database efficiency by reducing the stress on database resources and minimizing open connections (and timeouts)
+	- Serverless, Autoscaling, HA (multi AZ)
+	- Reduced RDS & Aurora failover time by up to 66%
+	- No code changes are required for most apps
+	- Enforce IAM Authentication for DB and securely store credentials in AWS Secrets Manager
+	- RDS Proxy is never publicly accessible (must be accessed from VPC)
+### Aurora
+- A proprietary database from AWS supports Postgres and MySQL
+- Aurora is "AWS cloud-optimized" and claims 5x performance improvement over MySQL on RDS, over 3x the performance of Postgres on RDS
+- Storage automatically grows in increments of 10GB up to 128 TB
+- One Aurora Instance tasks write (master)
+- Up to 15 replicas and the replication process is faster than MySQL (sub 10ms replica lag)
+- Failover in Aurora is instantaneous (less than 30 seconds), native HA
+- 6 copies of your data across 3 AZ
+	- 4 copies out of 6 needed for writes
+	- 3 copies out of 6 need for reads
+	- Self-healing with P2P replication
+	- Storage is striped across 100s of volumes![Storage-2023-05-14-2.png](/img/user/Attachments/Storage-2023-05-14-2.png)
+- Support Cross Region Replication
+- Cost more than RDS around 20%
+- Aurora Multi-Master: Immediate failover for write node (HA)![Storage-2023-05-14-6.png](/img/user/Attachments/Storage-2023-05-14-6.png)
+- Serverless
+	- Automated database instantiation and auto-scaling
+	- No capacity planning needed
+	- Pay per second can be more cost-effective![Storage-2023-05-14-5.png](/img/user/Attachments/Storage-2023-05-14-5.png)
+- Global Aurora
+	- Aurora Cross Region Replicas
+		- Useful for DR
+		- Simple to put in place
+	- Aurora Global Database (recommended)
+		- 1 primary region
+		- Up to secondary (RO) regions, replication lag is less than 1 second
+		- Up to 16 Read replicas per secondary region
+		- Help for decreasing latency
+		- Promoting another region (DR) has an RTO of less than 1 minute
+		- Typical cross-region replication takes less than 1 second
+- Aurora Machine Learning
+	- Enable to add ML-based predictions to your applications via SQL
+	- Integration with AWS ML services (AWS SageMaker, AWS Comprehend
+	- Not require ML experience
+	- Use cases: fraud detection, ads targeting, sentiment analysis, product recommendations
+- Backup
+	- Automated backup
+		- 1 - 35 days of retention (can't disable)
+		- point-in-time in that timeframe
+	- Manual snapshot
+		- Retention as long as you want
+- Custom Endpoint
+	- Define a subnet of Aurora Instances as a Custom Endpoint
+	- The default reader endpoint is not used after defining Custom Endpoints
+![Storage-2023-05-14-4.png](/img/user/Attachments/Storage-2023-05-14-4.png)
+## ElastiCache
+- In-memory database managed by AWS supports Redis and Memcached
+- IAM policies on ElastiCache are only used for AWS API-level security
+- Redis
+	- Multi-AZ with Auto-Failover
+	- Read Replicas to scale reads and have HA
+	- Data Durability using AOF persistence
+	- Backup and restore features
+	- Support Sets and Sorted Sets
+	- Support IAM Authentication
+	- Can set a "password/token" with Redis Auth
+	- Support SSL in-flight encryption
+- Memcached
+	- Multi-node for partitioning of data (sharding)
+	- No HA (replication)
+	- No persistent
+	- No backup and restore
+	- Multi-threaded architecture
+	- Support SASL-based authentication (advanced)
