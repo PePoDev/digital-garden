@@ -28,6 +28,7 @@
 - [GitHub - Pluralith/pluralith-cli: A tool for Terraform state visualisation and automated generation of infrastructure documentation](https://github.com/Pluralith/pluralith-cli)
 - [Multi-Cloud Infrastructure made easy | Multy](https://multy.dev/)
 - [GitHub - JamesWoolfenden/pike: Pike is a tool for determining the permissions or policy required for IAC code](https://github.com/jamesWoolfenden/pike)
+- [GitHub - cisco-open/stacks: Stacks, the Terraform code pre-processor](https://github.com/cisco-open/stacks)
 ## Cloud & Alternatives
 - [Home - Why Scalr?](https://www.scalr.com/)
 - [Spacelift: The Most Flexible IaC Management Platform](https://spacelift.io/)
