@@ -6,7 +6,7 @@
 
 - **[[Knowledge/Business/Business\|Business]]**
 - **[[Knowledge/English/English\|English]]**
-- **[[Knowledge/Others/Others\|Knowledge/Others/Others]]**
+- **[[Knowledge/Others/Others\|Others]]**
 - **[[Knowledge/Soft-skill/Soft-skill\|Soft-skill]]**
 - **[[Knowledge/Technical/Technical\|Technical]]**
 
