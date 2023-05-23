@@ -1,0 +1,92 @@
+---
+{"dg-publish":true,"permalink":"/knowledge/english/vocabulary/","dgPassFrontmatter":true}
+---
+
+## How to use A-AN
+- A - Used before words beginning with a consonant sound (a man, a lamp, a cat)
+- AN - Used before words that begin with a vowel sound (an apple, an eraser, an umbrella)
+## Something
+- Comf<u>or</u>table
+- Veg<u>et</u>able
+- Int<u>er</u>esting
+- Fa<u>mi</u>ly
+- Fav<u>or</u>ite
+- Ext<u>ra</u>ordinary
+- E<u>ve</u>ry
+- Cho<u>co</u>late
+- Jew<u>el</u>ry
+- Wed<u>nes</u>day
+- Cam<u>er</u>a
+- Bus<u>i</u>ness
+- As<u>pi</u>rin
+- Av<u>er</u>age
+- Conf<u>er</u>ence
+- Desp<u>er</u>ate
+- Diff<u>er</u>ent
+- His<u>to</u>ry
+- Op<u>er</u>a
+- Me<u>mo</u>ry
+- Se<u>par</u>ate
+- Tem<u>pe</u>rature
+- Basic<u>al</u>ly
+## Vocabulary
+- Dominant - ที่เด่น
+- Ceremony - พิธีการ
+- Towel ผ้าเช็ดตัว
+- Cater - รับจัดเลี้ยง
+- Depart ออกเดินทาง
+- Arrive มาถึง
+- Souvenir ของที่ระลึก
+- Baggage กระเป๋า
+- Luggage กระเป๋า
+- Secretary เลขา
+- Applicant ผู้สมัคร
+- Vacancy ตำแหน่งว่าง
+- Sales representative ตัวแทนขาย
+- Committee คณะกรรมการ
+- Appointment โฆษณา
+- Postpone เลื่อน
+- Compensate ชดเชย, ตอบแทน, จ่ายคืน
+- emerges - โผล่ออกมา
+- emergence - ภาวะฉุกเฉิน
+- radically - รุนแรง
+- superseded - แทนที่
+- Eventually - ท้ายที่สุด 
+- fringe - ขอบ
+- pave - ปู
+- naive - ไร้เดียงสา
+- regulation - ข้อบังคับ
+- narrow - แคบ
+- Spouse - คู่สมรส
+- Offspring - ลูกหลาน
+- Reproductive - เจริญพันธ์ุ
+- Thrive - เจริญเติบโต
+- Haste - รีบ
+- perhaps - บางที
+- angrier (adj) - โกรธ
+- regret - เสียใจ
+- concierge - พนักงานต้อนรับ
+- braid - ถักเปีย
+- immersion - การแช่
+- poetry - บทกวี
+- immerse - ดื่มด่ำ
+- literature - วรรณกรรม
+- energetic - กระฉับกระเฉง
+- enthusiastic - กระตือรือร้น
+- debunked - หัก
+- distinct - แตกต่าง
+- certainly - แน่นอน
+- fare - ค่าโดยสาร
+- alongside - เคียงข้าง
+- intoxication - มึนเมา
+- excessive - มากเกินไป
+- unpleasant - ไม่น่าพึงพอใจ
+- prohibited - ห้าม
+- gradual - ค่อยเป็นค่อยไป
+- manner - มารยาท
+- gradual manner - ลักษณะค่อยเป็นค่อยไป
+- sophisticated - ช่ำชอง
+- tamper - งัดแงะ
+- comprehensive - ครอบคลุม
+- pride - ความภาคภูมิใจ
+- obvious - ชัดเจน
