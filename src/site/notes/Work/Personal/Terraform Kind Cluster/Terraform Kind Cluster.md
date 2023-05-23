@@ -9,4 +9,3 @@
 - [[Work/Personal/Terraform Kind Cluster/Add support for authentication to a private registry\|Add support for authentication to a private registry]]
 - [[Work/Personal/Terraform Kind Cluster/Create a cluster from the configuration file\|Create a cluster from the configuration file]]
 
-
