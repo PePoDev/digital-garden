@@ -20,18 +20,17 @@
 - [AWS Pearson VUE free-retake](https://home.pearsonvue.com/aws/free-retake)
 - [AWS Well-Architected Labs](https://wellarchitectedlabs.com/operational-excellence/100_labs/100_inventory_patch_management/1_intro/)
 - [AWS Control Tower Workshop](https://controltower.aws-management.tools/core/accountfactory/)
-- [AWS Solutions Architect Associate | Udemy](https://opn.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/learn/lecture/13528014?start=15#overview)
 - [AWS Community Builders Content Reporting Tool](https://www.0100000101010111010100110110001101100010.com/#/)
-- [GitHub - bridgecrewio/AirIAM: Least privilege AWS IAM Terraformer](https://github.com/bridgecrewio/AirIAM)
 ## Tools
 - [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
 - [AWS Pricing Calculator](https://calculator.aws/#/)
 - [AWS Outpost Visual 3D](https://apps.kaonadn.net/5181491956940800/AWSOutpost/index.html?lang=en#Catalog)
 - [AWS Edge Cloud Global Visual](https://apps.kaonadn.net/5181491956940800/index.html)
+- [GitHub - bridgecrewio/AirIAM: Least privilege AWS IAM Terraformer](https://github.com/bridgecrewio/AirIAM)
 ## Certificates
 
-- [x] AWS Cloud Practitioner #certificate
-- [/] AWS Solution Architect Associate #certificate 🔼
+- [x] AWS Cloud Practitioner #certificate ✅ 2022-12-24
+- [x] AWS Solution Architect Associate #certificate 🔼 ✅ 2023-05-18
 - [ ] AWS Developer Associate #certificate
 - [ ] AWS SysOps Administrator Associate #certificate
 - [/] AWS Solution Architect Professional #certificate
