@@ -33,7 +33,7 @@
 - [[Knowledge/Technical/Cloud/Google Cloud/IAM\|IAM]]
 - [[Knowledge/Technical/Cloud/Google Cloud/IoT\|IoT]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Migration\|Migration]]
-- [[Knowledge/Technical/Cloud/Google Cloud/ML\|ML]]
+- [[Knowledge/Technical/Cloud/Google Cloud/ML\|Knowledge/Technical/Cloud/Google Cloud/ML]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Monitoring\|Monitoring]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Network\|Network]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Organization\|Organization]]
