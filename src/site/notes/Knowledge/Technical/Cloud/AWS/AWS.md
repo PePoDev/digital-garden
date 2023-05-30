@@ -8,11 +8,14 @@
 - [[Knowledge/Technical/Cloud/AWS/Automation\|Automation]]
 - [[Knowledge/Technical/Cloud/AWS/Compute\|Compute]]
 - [[Knowledge/Technical/Cloud/AWS/IAM\|IAM]]
+- [[Knowledge/Technical/Cloud/AWS/ML\|ML]]
 - [[Knowledge/Technical/Cloud/AWS/Monitoring\|Monitoring]]
 - [[Knowledge/Technical/Cloud/AWS/Network\|Network]]
+- [[Knowledge/Technical/Cloud/AWS/Operations\|Operations]]
 - [[Knowledge/Technical/Cloud/AWS/Security\|Security]]
 - [[Knowledge/Technical/Cloud/AWS/Storage\|Storage]]
 - [[Knowledge/Technical/Cloud/AWS/Well-Architect\|Well-Architect]]
+
 
 ## Links
 - [AWS Cloud Solutions Architect Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect)
@@ -27,12 +30,13 @@
 - [AWS Outpost Visual 3D](https://apps.kaonadn.net/5181491956940800/AWSOutpost/index.html?lang=en#Catalog)
 - [AWS Edge Cloud Global Visual](https://apps.kaonadn.net/5181491956940800/index.html)
 - [GitHub - bridgecrewio/AirIAM: Least privilege AWS IAM Terraformer](https://github.com/bridgecrewio/AirIAM)
+- [GitHub - org-formation/org-formation-cli: Better than landingzones!](https://github.com/org-formation/org-formation-cli)
 ## Certificates
 
 - [x] AWS Cloud Practitioner #certificate ✅ 2022-12-24
 - [x] AWS Solution Architect Associate #certificate 🔼 ✅ 2023-05-18
-- [ ] AWS Developer Associate #certificate
-- [ ] AWS SysOps Administrator Associate #certificate
+- [/] AWS Developer Associate #certificate
+- [/] AWS SysOps Administrator Associate #certificate
 - [/] AWS Solution Architect Professional #certificate
 - [/] AWS DevOps Engineer Professional #certificate
 - [ ] AWS Advanced Networking Specialist #certificate
