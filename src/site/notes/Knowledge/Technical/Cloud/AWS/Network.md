@@ -77,4 +77,45 @@
 
 ![Network-2023-05-15-2.png](/img/user/Attachments/Network-2023-05-15-2.png)
 ## CloudFront
-
+- CDN to improves read performance, content is cached at the edge
+- 216 Point of Presence globally (edge locations)
+- DDoS protection, Integration with Shield, AWS Web Application Firewall
+- Origins
+	- S3 Bucket
+		- For distributing and caching files at the edge
+		- Enhanced security with CloudFront Origin Access Control (OAC)
+		- OAC is replacing Origin Access Identity (OAI)
+		- CloudFront can be used as an ingress (to upload files to S3)
+	- Custom Origin (HTTP)
+		- ALB, EC2, S3 Website, and Any HTTP backend
+		- The endpoint must be public
+- Geo Restriction
+	- Can set `Allowlist` or `Blocklist` by the countries
+	- The `Country` is determined using a 3rd party Geo-IP database
+- Price Classes
+	- Reduce the number of edge locations for cost reduction
+	- Three price classes
+		- All - all regions for best performance
+		- 200 - Most regions, but excludes the most expensive regions
+		- 100 - Only the least expensive regions
+- Cache Invalidations
+	- In case you update the backend origin, CloudFront doesn't know about it and will only get the refreshed content after the TTL has expired
+	- You can force an entire or partial cache refresh (thus bypassing the TTL) by performing a `CloudFront Invalidation` to all files (\*) or a special path (/images/\*)
+## Global Accelerator
+- Unicast IP vs Anycast IP
+	- Unicast IP - One server holds one IP address
+	- Anycast IP - All servers hold the same IP address and the client is routed to the nearest one
+- Leverage the AWS internal network to route the traffic
+	- 2 Anycast IP sends traffic directly to edge locations
+	- The Anycast IP sends traffic directly to edge locations
+	- The edge locations send the traffic to your application
+- Works with Elastic IP, EC2 instances, ALB, NLB, public or private
+- Consistent Performance
+	- Intelligent routing to the lowest latency and fast regional failover
+	- No issue with the client cache (because the IP doesn't change)
+- Health Checks
+	- failover of less than 1 minute for unhealthy
+- Security
+	- only 2 external IP need to be whitelisted
+	- DDoS protection by AWS Shield
+- Wide range of applications over TCP or UDP such as gaming (UDP), IoT (MQTT), or Voice over IP
