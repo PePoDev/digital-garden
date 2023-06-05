@@ -4,7 +4,7 @@
 
 ## Pages
 
-- [[Knowledge/Technical/Cloud/AWS/Analytic\|Analytic]]
+- [[Knowledge/Technical/Cloud/AWS/Analytic &amp; Steaming\|Analytic &amp; Steaming]]
 - [[Knowledge/Technical/Cloud/AWS/Automation\|Automation]]
 - [[Knowledge/Technical/Cloud/AWS/Compute\|Compute]]
 - [[Knowledge/Technical/Cloud/AWS/IAM\|IAM]]
@@ -14,7 +14,6 @@
 - [[Knowledge/Technical/Cloud/AWS/Operations\|Operations]]
 - [[Knowledge/Technical/Cloud/AWS/Security\|Security]]
 - [[Knowledge/Technical/Cloud/AWS/Storage\|Storage]]
-- [[Knowledge/Technical/Cloud/AWS/Well-Architect\|Well-Architect]]
 
 
 ## Links
@@ -67,3 +66,6 @@
 - Beanstalk
 - Lambda
 - Rekognition
+## Well-Architect
+- 6 Pillar
+	- 
