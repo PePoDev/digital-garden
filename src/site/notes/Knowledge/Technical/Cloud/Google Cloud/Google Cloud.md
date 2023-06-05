@@ -11,7 +11,7 @@
 - [Partner Certification Kickstart | Google Cloud](https://inthecloud.withgoogle.com/pck-page/register.html)
 ## Certificates
 - [x] Cloud Digital Leader #certificate 🔼 ✅ 2023-04-20
-- [/] Associate Cloud Engineer #certificate 🔼
+- [/] Associate Cloud Engineer ([T1](https://docs.google.com/forms/d/e/1FAIpQLSfexWKtXT2OSFJ-obA4iT3GmzgiOCGvjrT9OfxilWC1yPtmfQ/viewform), [T2](https://cloudacademy.com/exam/landing/35961/)) #certificate 🔼
 - [x] Professional Cloud Architect #certificate ⏫ ✅ 2023-05-05
 - [ ] Professional Cloud Developer #certificate
 - [ ] Professional Cloud DevOps Engineer #certificate
