@@ -7,6 +7,7 @@
 - [[Knowledge/Technical/Programming/C-Sharp\|C-Sharp]]
 - [[Knowledge/Technical/Programming/C\|C]]
 - [[Knowledge/Technical/Programming/Golang\|Golang]]
+- [[Knowledge/Technical/Programming/Programming Language\|Programming Language]]
 - [[Knowledge/Technical/Programming/Python\|Python]]
 - [[Knowledge/Technical/Programming/Rust\|Rust]]
 - [[Knowledge/Technical/Programming/TypeScript\|TypeScript]]
