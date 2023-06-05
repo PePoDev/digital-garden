@@ -240,9 +240,24 @@
 - Monitor device metrics (storage capacity on Snow Family Devices)
 - Launch compatible AWS services on your devices (EC2 instances, AWS DataSync, NFS)
 ## AWS DataSync
-- 
+- Move large amounts of data between on-premises, other clouds, or AWS
+- Can synchronize to S3, EFS, or FSx
+- Replication tasks can be scheduled hourly, daily, weekly
+- File permissions and metadata are preserved (NFS POSIX, SMB)
+- One agent task can use 10 Gbps, Can setup a bandwidth limit
+
+![Storage-2023-05-30-9.png](/img/user/Attachments/Storage-2023-05-30-9.png)
+
+![Storage-2023-05-30-10.png](/img/user/Attachments/Storage-2023-05-30-10.png)
 ## AWS Transfer Family
-- 
+- File transfers service for S3 or EFS using FTP protocol (FTP, FTPS, SFTP)
+- Managed infrastructure, Scalable, Reliable, Highly Available (Multi-AZ)
+- Pay per provisioned endpoint per hour + data transfers in GB
+- Store and manage users' credentials within the service
+- Integrate with existing authentication systems (Microsoft Active Directory, LDAP, Okta, Amazon Cognito)
+- Usage: Sharing files, Public datasets, CRM, ERP
+
+![Storage-2023-05-30-8.png](/img/user/Attachments/Storage-2023-05-30-8.png)
 ## EBS
 - Elastic Block Store is a network drive
 - Can mount only one instance at a time
