@@ -15,6 +15,7 @@
 - [[Knowledge/Technical/Others/DORA Metrics\|DORA Metrics]]
 - [[Knowledge/Technical/Others/FIDO\|FIDO]]
 - [[Knowledge/Technical/Others/Microservices\|Microservices]]
+- [[Knowledge/Technical/Others/NFRs\|NFRs]]
 - [[Knowledge/Technical/Others/Payment\|Payment]]
 - [[Knowledge/Technical/Others/SQL\|SQL]]
 - [[Knowledge/Technical/Others/Twelve-Factor App\|Twelve-Factor App]]
