@@ -6,9 +6,11 @@
 
 - **[[Knowledge/Business/Business\|Business]]**
 - **[[Knowledge/English/English\|English]]**
+- **[[Knowledge/Investment/Investment\|Investment]]**
 - **[[Knowledge/Others/Others\|Others]]**
 - **[[Knowledge/Soft-skill/Soft-skill\|Soft-skill]]**
 - **[[Knowledge/Technical/Technical\|Technical]]**
+
 
 ## Links
 - [MasterClass Online Classes](https://www.masterclass.com/)
