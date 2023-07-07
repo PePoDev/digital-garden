@@ -64,6 +64,20 @@
 
 ![Financial-2023-05-22-8.png](/img/user/Attachments/Financial-2023-05-22-8.png)
 
+- Cash Flow Management
+	- Emergency Cash (3-6 months)
+	- Debt management
+	- Cash flow
+- Protection
+	- Insurance (Life, Car, Home, Accident)
+- Saving
+	- Short-term (<3 years)
+	- Mid-term (3-7 years)
+	- Long-term (>7 years)
+- Investment
+- Wealth Transfer
+- Taxation on all bases
+
 ![Financial-2023-05-22-9.png](/img/user/Attachments/Financial-2023-05-22-9.png)
 
 ![Financial-2023-05-22-10.png](/img/user/Attachments/Financial-2023-05-22-10.png)
