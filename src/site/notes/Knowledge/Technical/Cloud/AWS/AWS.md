@@ -4,7 +4,7 @@
 
 ## Pages
 
-- [[Knowledge/Technical/Cloud/AWS/Analytic &amp; Steaming\|Analytic &amp; Steaming]]
+- [[Knowledge/Technical/Cloud/AWS/Analytic, Steaming, Queue\|Analytic, Steaming, Queue]]
 - [[Knowledge/Technical/Cloud/AWS/Automation\|Automation]]
 - [[Knowledge/Technical/Cloud/AWS/Compute\|Compute]]
 - [[Knowledge/Technical/Cloud/AWS/IAM\|IAM]]
