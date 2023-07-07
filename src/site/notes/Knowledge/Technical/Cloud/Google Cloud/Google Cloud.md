@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"candidate-id":"547c5bbe-4d3b-4dbf-b066-6c60e3770e75","sticker":"1f329-fe0f","permalink":"/knowledge/technical/cloud/google-cloud/google-cloud/","dgPassFrontmatter":true}
+{"sticker":"1f329-fe0f","dg-publish":true,"candidate-id":"","permalink":"/knowledge/technical/cloud/google-cloud/google-cloud/","dgPassFrontmatter":true}
 ---
 
 ## Links
@@ -10,9 +10,9 @@
 - [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator)
 - [Partner Certification Kickstart | Google Cloud](https://inthecloud.withgoogle.com/pck-page/register.html)
 ## Certificates
-- [x] Cloud Digital Leader #certificate 🔼 ✅ 2023-04-20
-- [/] Associate Cloud Engineer ([T1](https://docs.google.com/forms/d/e/1FAIpQLSfexWKtXT2OSFJ-obA4iT3GmzgiOCGvjrT9OfxilWC1yPtmfQ/viewform), [T2](https://cloudacademy.com/exam/landing/35961/)) #certificate 🔼
-- [x] Professional Cloud Architect #certificate ⏫ ✅ 2023-05-05
+- [x] Cloud Digital Leader #certificate ✅ 2023-04-20
+- [/] Associate Cloud Engineer ([T1](https://docs.google.com/forms/d/e/1FAIpQLSfexWKtXT2OSFJ-obA4iT3GmzgiOCGvjrT9OfxilWC1yPtmfQ/viewform), [T2](https://cloudacademy.com/exam/landing/35961/)) #certificate
+- [x] Professional Cloud Architect #certificate ✅ 2023-05-05
 - [ ] Professional Cloud Developer #certificate
 - [ ] Professional Cloud DevOps Engineer #certificate
 - [ ] Professional Data Engineer #certificate
@@ -26,6 +26,7 @@
 
 - [[Knowledge/Technical/Cloud/Google Cloud/Analytics\|Analytics]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Anthos\|Anthos]]
+- [[Knowledge/Technical/Cloud/Google Cloud/Architecture Design\|Architecture Design]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Automation\|Automation]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Compliance\|Compliance]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Compute\|Compute]]
@@ -33,7 +34,7 @@
 - [[Knowledge/Technical/Cloud/Google Cloud/IAM\|IAM]]
 - [[Knowledge/Technical/Cloud/Google Cloud/IoT\|IoT]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Migration\|Migration]]
-- [[Knowledge/Technical/Cloud/Google Cloud/ML\|Knowledge/Technical/Cloud/Google Cloud/ML]]
+- [[Knowledge/Technical/Cloud/Google Cloud/ML\|ML]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Monitoring\|Monitoring]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Network\|Network]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Organization\|Organization]]
