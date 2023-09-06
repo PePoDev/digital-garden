@@ -6,6 +6,8 @@
 
 
 
+## Link
+- [Locations Archive - Fun-D](https://www.fun-d.net/locations/?provinces=bangkok)
 ## List
 - [10 ที่เที่ยวเกาะเสม็ด จุดเช็คอิน พิกัดชิล ที่ซัมเมอร์นี้ต้องห้ามพลาด!](https://travel.trueid.net/detail/O2kazymKZNMx)
 - [วิธีการเดินทางจากกรุงเทพไปเกาะเสม็ด - เริ่มต้นที่ 330 บาท](https://travelfoot.com/t/bangkok-pai-koh-samet/#bangkok-to-koh-samet-by-bus-and-ferry)
