@@ -23,6 +23,7 @@
 - [AWS Well-Architected Labs](https://wellarchitectedlabs.com/operational-excellence/100_labs/100_inventory_patch_management/1_intro/)
 - [AWS Control Tower Workshop](https://controltower.aws-management.tools/core/accountfactory/)
 - [AWS Community Builders Content Reporting Tool](https://www.0100000101010111010100110110001101100010.com/#/)
+- [AWS Workshops](https://workshops.aws/)
 ## Tools
 - [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
 - [AWS Pricing Calculator](https://calculator.aws/#/)
