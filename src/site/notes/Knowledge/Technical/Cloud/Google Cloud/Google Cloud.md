@@ -1,5 +1,5 @@
 ---
-{"sticker":"1f329-fe0f","dg-publish":true,"candidate-id":"","permalink":"/knowledge/technical/cloud/google-cloud/google-cloud/","dgPassFrontmatter":true}
+{"sticker":"1f329-fe0f","dg-publish":true,"candidate-id":"547c5bbe-4d3b-4dbf-b066-6c60e3770e75","permalink":"/knowledge/technical/cloud/google-cloud/google-cloud/","dgPassFrontmatter":true}
 ---
 
 ## Links
@@ -11,14 +11,14 @@
 - [Partner Certification Kickstart | Google Cloud](https://inthecloud.withgoogle.com/pck-page/register.html)
 ## Certificates
 - [x] Cloud Digital Leader #certificate ✅ 2023-04-20
-- [/] Associate Cloud Engineer ([T1](https://docs.google.com/forms/d/e/1FAIpQLSfexWKtXT2OSFJ-obA4iT3GmzgiOCGvjrT9OfxilWC1yPtmfQ/viewform), [T2](https://cloudacademy.com/exam/landing/35961/)) #certificate
+- [x] Associate Cloud Engineer #certificate ✅ 2023-07-21
 - [x] Professional Cloud Architect #certificate ✅ 2023-05-05
-- [ ] Professional Cloud Developer #certificate
-- [ ] Professional Cloud DevOps Engineer #certificate
+- [/] Professional Cloud Developer #certificate
+- [/] Professional Cloud DevOps Engineer #certificate
 - [ ] Professional Data Engineer #certificate
-- [ ] Professional Cloud Security Engineer #certificate
+- [/] Professional Cloud Security Engineer #certificate
 - [ ] Professional Cloud Network Engineer #certificate
-- [ ] Professional Collaboration Engineer #certificate
+- [/] Professional Collaboration Engineer #certificate
 - [ ] Professional Machine Learning Engineer #certificate
 - [ ] Professional Cloud Database Engineer #certificate
 - [ ] Google Workspace Administrator #certificate
