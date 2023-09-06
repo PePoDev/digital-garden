@@ -23,6 +23,8 @@
 	- Vertex AI
 - Custom model tooling
 	- Vertex AI
+## Big Query ML
+![ML-2023-07-16-1.png](/img/user/Attachments/ML-2023-07-16-1.png)
 ## Vertex AI
 - Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case
 - Support MLOps practices
