@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/notes/","dgPassFrontmatter":true}
+{"dg-publish":true,"sticker":"emoji//1f4d3","permalink":"/notes/notes/","dgPassFrontmatter":true}
 ---
 
 ## Pages
@@ -8,7 +8,3 @@
 - [[Notes/Wish List\|Wish List]]
 
 
-
-- Fix GitHub Workflow
-- RabbitMQ web console
-- RabbitMQ Dashboard data not found
