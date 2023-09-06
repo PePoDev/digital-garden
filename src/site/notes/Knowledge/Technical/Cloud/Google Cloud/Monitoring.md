@@ -62,6 +62,7 @@
 	- Chef/Jenkins/Puppet
 	- Cassandra/MongoDB/MySQL
 - Based on fluentd log data collector (can add own fluentd configuration files)
+![Monitoring-2023-07-16.png](/img/user/Attachments/Monitoring-2023-07-16.png)
 ## Monitoring pyramid
 ![Monitoring-2023-04-24-5.png](/img/user/Attachments/Monitoring-2023-04-24-5.png)
 ### Workspace
