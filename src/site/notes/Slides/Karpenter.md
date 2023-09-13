@@ -2,7 +2,7 @@
 {"aliases":["Karpenter"],"dg-publish":true,"alias":"Karpenter","permalink":"/slides/karpenter/","dgPassFrontmatter":true}
 ---
 
-## Karpenter
+## What is Karpenter
 What is Karpenter?
 
 ---
