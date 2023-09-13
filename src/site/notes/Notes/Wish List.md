@@ -4,8 +4,10 @@
 
 ## To buy
 - [เราเตอร์ Asus ROG Rapture GT-AX11000 Tri-band WiFi 6 (802.11ax) Gaming Router](https://www.bnn.in.th/th/p/asus-gt-ax11000-tri-band-wi-fi-6-80211ax-gaming-router-v2-4718017064781-3_zopj7r)
-- [Synology DiskStation DS920 4-bay](https://smartsolutioncomputer.com/TH/product-detail/Synology-DiskStation-DS920%2B-4-bay-NAS-DS920%2B)
-- [Raspberry Pi](https://th.cytron.io/c-raspberry-pi-4/p-raspberry-pi-4-model-b-8-gb-and-kits)
+- [NAS Synology (DS723+, Without HDD.)](https://www.advice.co.th/product/network-storage-nas-/1-2-bay/nas-synology-ds723plus-without-hdd-)
+- [Beelink Mini Desktop Home Page](https://www.bee-link.com/)
+- [MINI PC (มินิพีซี) INTEL NUC 13 PRO KIT NUC13ANHI7 | Speed Com | สินค้าไอทีและเกมมิ่งเกียร์ ครบแล้วที่นี่ พร้อมจัดส่งทั่วประเทศไทย](https://speedcom.co.th/product/detail/PD/PFB/PDKKCC/rnuc13anhi7000)
+- 
 ## Courses
 - [New Ways of Working: Agile & OKRs | Skooldio](https://www.skooldio.com/bundles/new-ways-of-working-agile-okrs)
 - [OOP The Right Way | Skooldio](https://www.skooldio.com/courses/oop-the-right-way)
