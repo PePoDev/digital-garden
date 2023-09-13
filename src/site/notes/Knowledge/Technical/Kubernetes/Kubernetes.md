@@ -13,9 +13,9 @@
 
 
 ## Links
-- [Udemy KillerShell](https://www.udemy.com/course/certified-kubernetes-security-specialist/learn/lecture/23033430#overview)
-- [Kubernetes Ingress Controllers - Google ชีต](https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/edit#gid=907731238)
-- [Service meshes - Google ชีต](https://docs.google.com/spreadsheets/d/1Bxf8VW9n-YyHeBiKdXt6zytOgw2cQlsDnK1gLUvsZ4A/edit#gid=907731238)
+- [Kubernetes Ingress Controllers Comparisons](https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/edit#gid=907731238)
+- [Service meshes Comparisons](https://docs.google.com/spreadsheets/d/1Bxf8VW9n-YyHeBiKdXt6zytOgw2cQlsDnK1gLUvsZ4A/edit#gid=907731238)
+- [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
 ## Resources
 - [VMware Tanzu Developer Center | VMware Tanzu Developer Center](https://tanzu.vmware.com/developer/)
 - [GitHub - FairwindsOps/polaris: Validation of best practices in your Kubernetes clusters](https://github.com/FairwindsOps/polaris)
@@ -89,7 +89,3 @@
 - [x] CKA #certificate
 - [/] CKS #certificate
 - [ ] Red Hat Certified Specialist in OpenShift Administration #certificate
-### CKS Mistake
-- Supply Chain Security
-- Monitoring, Logging, and Runtime Security
-- cluster hardening
