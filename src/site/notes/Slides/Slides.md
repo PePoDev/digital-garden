@@ -8,6 +8,6 @@
 - [Deep dive into Terraform](https://docs.google.com/presentation/d/1DpdJJD0y-NV0qr9ilOAFHhFgcuOmlWtGiHGjWF7ZYzo/edit?usp=sharing)
 - [Provision a production-ready EKS under 20 minutes with Terraform](https://docs.google.com/presentation/d/1-Euot36ZsFmtSmcPVDLmBmotOdHkvD5oLTCL_7PbtWQ/edit?usp=sharing)
 
-- [[Slides/Karpenter\|Karpenter]]
+
 
 
