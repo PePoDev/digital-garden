@@ -9,6 +9,7 @@
 - [Google Cloud Partner Technical Training](https://rsvp.withgoogle.com/events/partner-learning/google-cloud-certifications)
 - [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator)
 - [Partner Certification Kickstart | Google Cloud](https://inthecloud.withgoogle.com/pck-page/register.html)
+- [CertMetrics](https://cp.certmetrics.com/google/en/home/dashboard)
 ## Certificates
 - [x] Cloud Digital Leader #certificate ✅ 2023-04-20
 - [x] Associate Cloud Engineer #certificate ✅ 2023-07-21
