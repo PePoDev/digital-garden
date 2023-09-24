@@ -7,7 +7,14 @@
 - [NAS Synology (DS723+, Without HDD.)](https://www.advice.co.th/product/network-storage-nas-/1-2-bay/nas-synology-ds723plus-without-hdd-)
 - [Beelink Mini Desktop Home Page](https://www.bee-link.com/)
 - [MINI PC (มินิพีซี) INTEL NUC 13 PRO KIT NUC13ANHI7 | Speed Com | สินค้าไอทีและเกมมิ่งเกียร์ ครบแล้วที่นี่ พร้อมจัดส่งทั่วประเทศไทย](https://speedcom.co.th/product/detail/PD/PFB/PDKKCC/rnuc13anhi7000)
-- 
+![Wish List-2023-09-22.png](/img/user/Attachments/Wish%20List-2023-09-22.png)
+### Monitors
+- [จอคอม Dell UltraSharp U2723QE จอมอนิเตอร์ Dell สีสันสมจริง](https://www.mercular.com/dell-ultrasharp-u2723qe-27-inch-ips-4k-monitor-60hz)
+- [49" มอนิเตอร์ Odyssey OLED G9 Gaming Monitor LS49CG934SEXXT | ซัมซุงประเทศไทย](https://www.samsung.com/th/monitors/gaming/odyssey-oled-g9-g93sc-49-inch-240hz-curved-dual-qhd-ls49cg934sexxt/)
+- [จอมอนิเตอร์ Odyssey Ark Gaming Monitor |Samsung Thailand](https://www.samsung.com/th/monitors/gaming/odyssey-ark--g97nb-55-inch-165hz-1ms-curved-uhd-4k-ls55bg970nexxt/)
+### Chairs
+- [เก้าอี้สุขภาพ Ergotrend Beyond นั่งสบายทุกท่าเพียงก้านปรับ 1 ก้าน](https://www.mercular.com/ergotrend-beyond-ergonomic-chair)
+- [เก้าอี้สุขภาพ Steelcase Gesture Nylon Fiber Glass Ergonomic Chair](https://www.mercular.com/steelcase-gesture-nylon-fiber-glass-ergonomic-chair?sku=2219009000002&utm_source=google&utm_medium=gg_shopping&utm_content=&utm_term=_&utm_campaign=th_gsa_smart-shopping_awo_conversion)
 ## Courses
 - [New Ways of Working: Agile & OKRs | Skooldio](https://www.skooldio.com/bundles/new-ways-of-working-agile-okrs)
 - [OOP The Right Way | Skooldio](https://www.skooldio.com/courses/oop-the-right-way)
