@@ -15,7 +15,7 @@
 - [Terrascan](https://runterrascan.io/)
 - [Overview | terraform-compliance](https://terraform-compliance.com/)
 - [ValidIaC | Validate, Secure, Clean & Map Your Infrastructure-as-Code](https://www.validiac.com/)
-- [GitHub - keilerkonzept/terraform-module-versions: CLI tool that checks Terraform code for module updates. Single binary, no dependencies. linux, osx, windows. #golang #cli #terraform](https://github.com/keilerkonzept/terraform-module-versions)
+- [GitHub - keilerkonzept/terraform-module-versions: CLI tool that checks Terraform code for module updates. Single binary, no dependencies. linux, osx, windows](https://github.com/keilerkonzept/terraform-module-versions)
 - [GitHub - snyk/driftctl: Detect, track and alert on infrastructure drift](https://github.com/snyk/driftctl)
 - [GitHub - iann0036/former2: Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.](https://github.com/iann0036/former2)
 - [GitHub - Checkmarx/kics: Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.](https://github.com/Checkmarx/kics)
