@@ -14,6 +14,7 @@
 - [[Knowledge/Technical/Others/Domain Driven Design\|Domain Driven Design]]
 - [[Knowledge/Technical/Others/DORA Metrics\|DORA Metrics]]
 - [[Knowledge/Technical/Others/FIDO\|FIDO]]
+- [[Knowledge/Technical/Others/Firebase\|Firebase]]
 - [[Knowledge/Technical/Others/Microservices\|Microservices]]
 - [[Knowledge/Technical/Others/NFRs\|NFRs]]
 - [[Knowledge/Technical/Others/Payment\|Payment]]
