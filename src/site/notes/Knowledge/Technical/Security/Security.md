@@ -31,6 +31,8 @@
 - [ ] [Cisco Certified DevNet Expert](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/devnet-expert.html) #certificate
 - [ ] CCNA #certificate
 - [ ] CISA #certificate
+- [ ] CISM - Certified information security manager #certificate 
+- [ ] Certified Ethical Hacker #certificate 
 ## Certificate Security
 - CAA
 ## Email Security
