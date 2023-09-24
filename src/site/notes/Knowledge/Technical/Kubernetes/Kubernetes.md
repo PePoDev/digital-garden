@@ -1,5 +1,5 @@
 ---
-{"tag":"hard-skill","dg-publish":true,"permalink":"/knowledge/technical/kubernetes/kubernetes/","dgPassFrontmatter":true}
+{"dg-publish":true,"sticker":"emoji//1f4a3","permalink":"/knowledge/technical/kubernetes/kubernetes/","dgPassFrontmatter":true}
 ---
 
 ## Pages
