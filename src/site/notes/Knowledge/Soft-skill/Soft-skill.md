@@ -10,7 +10,7 @@
 - [[Knowledge/Soft-skill/Design Thinking\|Design Thinking]]
 - [[Knowledge/Soft-skill/Emotional intelligence\|Emotional intelligence]]
 - [[Knowledge/Soft-skill/General in Life\|General in Life]]
-- [[Knowledge/Soft-skill/Google Sheet\|Google Sheet]]
+- [[Knowledge/Soft-skill/Google Sheet\|Knowledge/Soft-skill/Google Sheet]]
 - [[Knowledge/Soft-skill/How to Learn\|How to Learn]]
 - [[Knowledge/Soft-skill/Ikigai\|Ikigai]]
 - [[Knowledge/Soft-skill/Negotiation\|Negotiation]]
