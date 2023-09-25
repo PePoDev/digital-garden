@@ -25,7 +25,6 @@
 - [Kiali](https://kiali.io/)
 - [KubeMQ: Kubernetes Message Queue Broker Platform](https://kubemq.io/)
 - [Skooner](https://skooner.io/)
-- [GitHub - projectsveltos/addon-controller: Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built-in support for multi-tenancy.](https://github.com/projectsveltos/addon-controller)
 - [GitHub - weaveworks/scope: Monitoring, visualisation & management for Docker & Kubernetes](https://github.com/weaveworks/scope)
 - [Network Policy Editor for Kubernetes](https://editor.networkpolicy.io/)
 - [Welcome to Kubernetes Goat | Kubernetes Goat](https://madhuakula.com/kubernetes-goat/)
@@ -53,6 +52,9 @@
 - [Automate application management on Kubernetes. | OpenKruise](https://openkruise.io/)
 - [kpt - Home](https://kpt.dev/)
 - [GitHub - kubernetes/node-problem-detector: This is a place for various problem detectors running on the Kubernetes nodes.](https://github.com/kubernetes/node-problem-detector)
+### Game
+- [GitHub - PlayFab/thundernetes: Thundernetes makes it easy to run your game servers on Kubernetes](https://github.com/PlayFab/thundernetes)
+- [Agones](https://agones.dev/site/)
 ### Security
 - [Runtime protection for Kubernetes](https://kubearmor.io/)
 - [GitHub - bitnami-labs/sealed-secrets: A Kubernetes controller and tool for one-way encrypted Secrets](https://github.com/bitnami-labs/sealed-secrets)
@@ -71,6 +73,9 @@
 - [Kubeshark — API Traffic Analyzer for Kubernetes](https://kubeshark.co/)
 - [Plural | Deploy, maintain, and scale the open-source applications you love](https://www.plural.sh/)
 - [Enterprise Kubernetes Management | Rancher](https://www.rancher.com/)
+### Cluster Management
+- [Sveltos - Kubernetes Add-on Controller | Manage and Deploy Add-ons - Projectsveltos Documentation](https://projectsveltos.github.io/sveltos/)
+- [Open Cluster Management](https://open-cluster-management.io/)
 ### Storage
 - [Longhorn](https://longhorn.io/)
 ### Policy
