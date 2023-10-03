@@ -4,10 +4,11 @@
 
 ## Pages
 
+- [[Knowledge/Technical/Kubernetes/Cilium 2\|Cilium 2]]
 - [[Knowledge/Technical/Kubernetes/Cilium\|Cilium]]
-- [[Knowledge/Technical/Kubernetes/Deployment strategy\|Deployment strategy]]
 - [[Knowledge/Technical/Kubernetes/Docker\|Docker]]
 - [[Knowledge/Technical/Kubernetes/Helm\|Helm]]
+- [[Knowledge/Technical/Kubernetes/Istio\|Istio]]
 - [[Knowledge/Technical/Kubernetes/OpenShift\|OpenShift]]
 - [[Knowledge/Technical/Kubernetes/Tanzu\|Tanzu]]
 
@@ -76,6 +77,7 @@
 ### Cluster Management
 - [Sveltos - Kubernetes Add-on Controller | Manage and Deploy Add-ons - Projectsveltos Documentation](https://projectsveltos.github.io/sveltos/)
 - [Open Cluster Management](https://open-cluster-management.io/)
+- [GitHub - kubernetes-sigs/cluster-api-addon-provider-helm: Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts.](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm)
 ### Storage
 - [Longhorn](https://longhorn.io/)
 ### Policy
