@@ -5,8 +5,8 @@
 ## Pages
 
 - [[Knowledge/Technical/Database/MySQL\|MySQL]]
+- [[Knowledge/Technical/Database/PostgreSQL 2\|PostgreSQL 2]]
 - [[Knowledge/Technical/Database/PostgreSQL\|PostgreSQL]]
-- [[Knowledge/Technical/Database/SQL\|SQL]]
 
 
 ## Links
