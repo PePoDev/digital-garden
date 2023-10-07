@@ -1,7 +1,8 @@
 ---
-{"sticker":"emoji//1f5d2-fe0f","dg-home":true,"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"sticker":"emoji//1f5d2-fe0f","dg-publish":true,"dg-home":true,"permalink":"/readme/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
+# Obsidian Vault
 ## Table of Contents
 - [[Attachments/Attachments\|Attachments]]
 - [[Templates/Templates\|Templates]]
