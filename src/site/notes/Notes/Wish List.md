@@ -29,3 +29,8 @@
 ## Coffee
 - [สินค้า HARIO - koffeetools](https://www.koffeetools.com/category/5117/%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2-hario)
 - [Specialty Coffee & Gears – The Summer Coffee Company](https://thesummercoffee.com/)
+## Car
+- NMAX
+- [Vespa](https://www.vespa.co.th/)
+- [PCX 160](https://www.thaihonda.co.th/honda/motorcycle/automatic/new-pcx-160)
+![Private Notes-2023-09-29.png](/img/user/Attachments/Private%20Notes-2023-09-29.png)
