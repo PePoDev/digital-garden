@@ -4,19 +4,13 @@
 
 ## Virtual Private Cloud
 A secure, individual, private cloud-computing model hosted within a public cloud. 
-
 > Networks are global and subnets are regional.
-
 ![Network-2023-04-24.png](/img/user/Attachments/Network-2023-04-24.png)
-
 - Support to expand subnet without recreating instance
 - Can expand but not shrink
 - can convert from auto to custom mode
-
 ![Network-2023-04-24-1.png](/img/user/Attachments/Network-2023-04-24-1.png)
-
 ![Network-2023-04-24-2.png](/img/user/Attachments/Network-2023-04-24-2.png)
-
 #### Cloud External IP Addresses
 #### Cloud Router
 - lets other networks and Google VPC, exchange route information over the VPN using the Border Gateway Protocol
