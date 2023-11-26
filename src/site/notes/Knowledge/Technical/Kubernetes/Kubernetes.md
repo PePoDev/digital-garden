@@ -4,10 +4,9 @@
 
 ## Pages
 
-- [[Knowledge/Technical/Kubernetes/Cilium 2\|Cilium 2]]
 - [[Knowledge/Technical/Kubernetes/Cilium\|Cilium]]
+- [[Knowledge/Technical/Kubernetes/CKS\|CKS]]
 - [[Knowledge/Technical/Kubernetes/Docker\|Docker]]
-- [[Knowledge/Technical/Kubernetes/Helm\|Helm]]
 - [[Knowledge/Technical/Kubernetes/Istio\|Istio]]
 - [[Knowledge/Technical/Kubernetes/OpenShift\|OpenShift]]
 - [[Knowledge/Technical/Kubernetes/Tanzu\|Tanzu]]
@@ -85,6 +84,10 @@
 - [Otterize](https://otterize.com/)
 - [GitHub - open-policy-agent/gatekeeper: Gatekeeper - Policy Controller for Kubernetes](https://github.com/open-policy-agent/gatekeeper)
 - [GitHub - open-policy-agent/conftest: Write tests against structured configuration data using the Open Policy Agent Rego query language](https://github.com/open-policy-agent/conftest/)
+- [Tetragon](https://tetragon.io/)
+- [Cilium - Cloud Native, eBPF-based Networking, Observability, and Security](https://cilium.io/)
+### Multi Tenent
+- [Multi-tenancy | Kubernetes](https://kubernetes.io/docs/concepts/security/multi-tenancy/)
 ### Scan
 - [GitHub - cyberark/KubiScan: A tool to scan Kubernetes cluster for risky permissions](https://github.com/cyberark/KubiScan)
 ### Build
