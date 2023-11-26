@@ -6,5 +6,6 @@
 
 - [[Knowledge/Technical/Blockchain/Web3\|Web3]]
 
+
 ## Links
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
