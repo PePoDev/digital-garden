@@ -4,20 +4,17 @@
 
 # Obsidian Vault
 ## Table of Contents
-- [[Attachments/Attachments\|Attachments]]
-- [[Templates/Templates\|Templates]]
 - 🔒 [[Assets/Assets\|Assets]]
+- [[Templates/Templates\|Templates]]
 - [[Travel/Travel\|Travel]]
+- [[Blog/Blog\|Blog]]
 - [[Books/Books\|Books]]
 - [[Home/Home\|Home]]
 - 🔒 [[Documents/Documents\|Documents]]
-- [[Slides/Slides\|Slides]]
-- [[Health/Health\|Health]]
-- 🔒 [[Financials/Financials\|Financials]]
+- [[Documents/Health/Health\|Health]]
 - [[Knowledge/Knowledge\|Knowledge]]
 - [[Work/Work\|Work]]
 - [[Notes/Notes\|Notes]]
-
 ## In-progress
 ```tasks
 status.type is IN_PROGRESS
