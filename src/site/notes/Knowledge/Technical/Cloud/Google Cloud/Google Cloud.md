@@ -16,10 +16,10 @@
 - [x] Professional Cloud Architect #certificate ✅ 2023-05-05
 - [/] Professional Cloud Developer #certificate
 - [/] Professional Cloud DevOps Engineer #certificate
-- [ ] Professional Data Engineer #certificate
 - [/] Professional Cloud Security Engineer #certificate
+- [ ] Professional Data Engineer #certificate
 - [ ] Professional Cloud Network Engineer #certificate
-- [/] Professional Collaboration Engineer #certificate
+- [ ] Professional Collaboration Engineer #certificate
 - [ ] Professional Machine Learning Engineer #certificate
 - [ ] Professional Cloud Database Engineer #certificate
 - [ ] Google Workspace Administrator #certificate
