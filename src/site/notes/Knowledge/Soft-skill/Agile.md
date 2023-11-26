@@ -8,6 +8,7 @@
 - [ ] CSP #certificate
 - [ ] [A-CSM](https://www.scrumalliance.org/get-certified/scrum-master-track/advanced-certified-scrummaster) #certificate
 - [ ] [CSM](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster) #certificate
+- [ ] PSM (Professional Scrum Master)
 - [ ] [CSPO](https://www.scrumalliance.org/get-certified/product-owner-track/certified-scrum-product-owner) #certificate
 - [ ] A-CSP #certificate
 - [ ] CSP-SM #certificate
@@ -45,6 +46,7 @@
 - [ ] ACP-600 #certificate
 - [ ] ACP-610 #certificate
 - [ ] ACP-620 #certificate
+![Agile-2023-10-24.png](/img/user/Attachments/Agile-2023-10-24.png)
 ## Introduction
 agile เป็นกระบวนการส่งมอบงานเพื่อให้ได้รับ feedback อย่างต่อเนื่อง ปรับเปลื่ยนให้เข้ากับการแข่งขันได้ตลอดเวลา สิ่งที่ agile focus เลยคือการ feedback ,collaboration และ value
 ## Agile four values
