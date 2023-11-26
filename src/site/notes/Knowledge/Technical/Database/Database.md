@@ -30,6 +30,8 @@
 - [Home - FerretDB](https://www.ferretdb.io/)
 - [EdgeDB | The post-SQL era has arrived](https://www.edgedb.com/)
 - [Typesense | Fast, typo-tolerant open source search engine](https://typesense.org/)
+## Overview
+![Database-2023-10-23-1.png](/img/user/Attachments/Database-2023-10-23-1.png)
 ## RDBMS
 ### Online Transaction Processing (OLTP)
 - Row Storage
@@ -42,5 +44,4 @@
 - Store petabytes of data efficiently
 - Execute a single query across multiple nodes
 ## NoSQL
-
 
