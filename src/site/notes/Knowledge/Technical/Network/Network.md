@@ -14,7 +14,6 @@
 - [What is a protocol? | Network protocol definition | Cloudflare](https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/)
 - [BGP คืออะไร ? ทำไมทำให้ Facebook ล่มไปได้ถึงเกือบ 7 ชั่วโมง ? - Arnondora](https://arnondora.in.th/what-is-bgp/)
 ## Overview
-
 ![Pasted image 20230416162640.png](/img/user/Attachments/Pasted%20image%2020230416162640.png)
 ## IANA Protocol Numbers
 - The global coordination of the DNS Root, IP addressing, and other Internet protocol resources is performed as the Internet Assigned Numbers Authority (IANA) functions
@@ -29,3 +28,6 @@
 ## Routing Protocols
 ![Network-2023-07-21.png](/img/user/Attachments/Network-2023-07-21.png)
 ### BGP (Border gateway protocol)
+![Network-2023-11-23-1.png](/img/user/Attachments/Network-2023-11-23-1.png)
+### Anycast
+![Network-2023-11-23.png](/img/user/Attachments/Network-2023-11-23.png)
