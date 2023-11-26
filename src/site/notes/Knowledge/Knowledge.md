@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/knowledge/","dgPassFrontmatter":true}
+{"dg-publish":true,"sticker":"emoji//1f393","permalink":"/knowledge/knowledge/","dgPassFrontmatter":true}
 ---
 
 ## Pages
@@ -17,3 +17,4 @@
 - [MasterClass Online Classes](https://www.masterclass.com/)
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
 - [Grow with Google: เรียนรู้ทักษะที่ใช่เพื่อเข้าถึงโอกาสใหม่ๆ](https://grow.google/intl/ALL_th/)
+- [All Topics : Google](https://skillshop.exceedlms.com/student/catalog/browse)
