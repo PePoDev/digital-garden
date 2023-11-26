@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/travel/travel/","dgPassFrontmatter":true}
+{"dg-publish":true,"sticker":"emoji//2708-fe0f","permalink":"/travel/travel/","dgPassFrontmatter":true}
 ---
 
 ## Pages
 
+- [[Travel/มาเหนือออออ\|มาเหนือออออ]]
 
 
 ## Link
