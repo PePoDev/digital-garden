@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/knowledge/technical/math/math/","dgPassFrontmatter":true}
 ---
 
-## Basic
-
 ## BODMAS
 - Brackets
 - Order
