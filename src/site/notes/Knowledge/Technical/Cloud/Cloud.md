@@ -8,6 +8,7 @@
 - **[[Knowledge/Technical/Cloud/Azure/Azure\|Azure]]**
 - **[[Knowledge/Technical/Cloud/Google Cloud/Google Cloud\|Google Cloud]]**
 
+
 ## Links
 - [Cloud Academy](https://cloudacademy.com/dashboard/)
 - [Tutorials Dojo](https://tutorialsdojo.com/)
