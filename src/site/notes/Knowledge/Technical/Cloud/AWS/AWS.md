@@ -7,6 +7,7 @@
 - [[Knowledge/Technical/Cloud/AWS/Analytic, Steaming, Queue\|Analytic, Steaming, Queue]]
 - [[Knowledge/Technical/Cloud/AWS/Automation\|Automation]]
 - [[Knowledge/Technical/Cloud/AWS/Compute\|Compute]]
+- [[Knowledge/Technical/Cloud/AWS/EKS Security\|EKS Security]]
 - [[Knowledge/Technical/Cloud/AWS/IAM\|IAM]]
 - [[Knowledge/Technical/Cloud/AWS/ML\|ML]]
 - [[Knowledge/Technical/Cloud/AWS/Monitoring\|Monitoring]]
