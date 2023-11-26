@@ -10,3 +10,4 @@
 - [GitHub - prymitive/karma: Alert dashboard for Prometheus Alertmanager](https://github.com/prymitive/karma)
 - [GitHub - pyrra-dev/pyrra: Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!](https://github.com/pyrra-dev/pyrra)
 - [Autometrics - Developer-first Observability Framework](https://autometrics.dev/)
+- [VictoriaMetrics: Simple & Reliable Monitoring for Everyone](https://victoriametrics.com/)
