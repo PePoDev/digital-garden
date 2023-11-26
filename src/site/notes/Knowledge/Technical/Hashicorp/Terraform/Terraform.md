@@ -31,5 +31,10 @@
 - [Bridgecrew | Developer-First Security | Code Security for Developers](https://bridgecrew.io/)
 - [The best Terraform experience on GitHub. – Terrateam](https://terrateam.io/)
 - [Firefly - Manage multi-cloud complexity](https://www.gofirefly.io/)
+## Courses and Exam
+- [HashiCorp Terraform Associate Certification Course (003) - Pass the Exam! - YouTube](https://www.youtube.com/watch?v=SPcwo0Gq9T8)
+- [HashiCorp Terraform Associate (003) | Real Exam Questions & Answers -2023 | 100% Pass | Free PDF - YouTube](https://www.youtube.com/watch?v=-RXtOzs1Gog)
+- [Infrastructure Automation | HashiCorp Developer](https://developer.hashicorp.com/certifications/infrastructure-automation)
 ## Overview
+- Infrastructure as Code (IaC) that is declarative and cloud agnostic
 ![Terraform-2023-05-03.png](/img/user/Attachments/Terraform-2023-05-03.png)
