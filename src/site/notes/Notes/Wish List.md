@@ -28,5 +28,3 @@
 ## Coffee
 - [สินค้า HARIO - koffeetools](https://www.koffeetools.com/category/5117/%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2-hario)
 - [Specialty Coffee & Gears – The Summer Coffee Company](https://thesummercoffee.com/)
-
-![Wish List-2023-11-14.png](/img/user/Attachments/Wish%20List-2023-11-14.png)
