@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/domain-driven-design/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/domain-driven-design/","noteIcon":""}
 ---
 
 # Problem Space vs Solution Space
