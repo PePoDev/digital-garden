@@ -1,10 +1,10 @@
 ---
-{"sticker":"emoji//1f5d2-fe0f","dg-publish":true,"dg-home":true,"permalink":"/readme/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # Obsidian Vault
 ## Table of Contents
-- 🔒 [[Assets/Assets\|Assets]]
+- 🔒 [[Documents/Assets/Assets\|Assets]]
 - [[Books/Books\|Books]]
 - [[Blog/Blog\|Blog]]
 - [[Travel/Travel\|Travel]]
