@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/security/security/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/security/security/","noteIcon":""}
 ---
 
 ## Pages
