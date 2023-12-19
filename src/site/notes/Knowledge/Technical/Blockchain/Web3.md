@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/blockchain/web3/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/blockchain/web3/","noteIcon":""}
 ---
 
 ## Links
