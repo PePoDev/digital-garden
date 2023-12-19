@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/hashicorp/terraform/terraform/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/hashicorp/terraform/terraform/","noteIcon":""}
 ---
 
 ## Certificates
@@ -24,6 +24,8 @@
 - [GitHub - Pluralith/pluralith-cli: A tool for Terraform state visualisation and automated generation of infrastructure documentation](https://github.com/Pluralith/pluralith-cli)
 - [Multi-Cloud Infrastructure made easy | Multy](https://multy.dev/)
 - [GitHub - JamesWoolfenden/pike: Pike is a tool for determining the permissions or policy required for IAC code](https://github.com/jamesWoolfenden/pike)
+- [GitHub - dragondrop-cloud/cloud-concierge: Codify resources outside of Terraform control, detect drift, estimate cloud costs, identify security risks, and more. "Terraform best practices as a Pull Request."](https://github.com/dragondrop-cloud/cloud-concierge)
+- [Digger](https://www.digger.dev/)
 ## Cloud & Alternatives
 - [Home - Why Scalr?](https://www.scalr.com/)
 - [Spacelift: The Most Flexible IaC Management Platform](https://spacelift.io/)
@@ -31,6 +33,7 @@
 - [Bridgecrew | Developer-First Security | Code Security for Developers](https://bridgecrew.io/)
 - [The best Terraform experience on GitHub. – Terrateam](https://terrateam.io/)
 - [Firefly - Manage multi-cloud complexity](https://www.gofirefly.io/)
+- [GitHub - MatthewJohn/terrareg: Open source Terraform module registry with UI, optional Git integration and deep analysis](https://github.com/MatthewJohn/terrareg)
 ## Courses and Exam
 - [HashiCorp Terraform Associate Certification Course (003) - Pass the Exam! - YouTube](https://www.youtube.com/watch?v=SPcwo0Gq9T8)
 - [HashiCorp Terraform Associate (003) | Real Exam Questions & Answers -2023 | 100% Pass | Free PDF - YouTube](https://www.youtube.com/watch?v=-RXtOzs1Gog)
