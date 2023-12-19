@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/hashicorp/vault/vault/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/hashicorp/vault/vault/","noteIcon":""}
 ---
 
 ## Certificates
