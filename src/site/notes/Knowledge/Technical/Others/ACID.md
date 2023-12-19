@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/acid/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/acid/","noteIcon":""}
 ---
 
 - Atomicity
