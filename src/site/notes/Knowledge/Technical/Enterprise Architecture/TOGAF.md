@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/enterprise-architecture/togaf/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/enterprise-architecture/togaf/","noteIcon":""}
 ---
 
 ## The Open Group Architecture Framework (TOGAF)
