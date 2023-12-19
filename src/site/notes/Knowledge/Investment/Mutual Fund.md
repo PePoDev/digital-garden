@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/investment/mutual-fund/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/investment/mutual-fund/","noteIcon":""}
 ---
 
