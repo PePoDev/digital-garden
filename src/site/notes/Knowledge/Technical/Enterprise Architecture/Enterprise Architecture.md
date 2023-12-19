@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/enterprise-architecture/enterprise-architecture/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/enterprise-architecture/enterprise-architecture/","noteIcon":""}
 ---
 
 ## Pages
