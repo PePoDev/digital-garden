@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/network/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/network/","noteIcon":""}
 ---
 
 ## VPC
