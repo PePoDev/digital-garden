@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/data-analytics/data-analytics/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/data-analytics/data-analytics/","noteIcon":""}
 ---
 
 ## Pages
