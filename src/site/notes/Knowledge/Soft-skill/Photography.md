@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/soft-skill/photography/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/soft-skill/photography/","noteIcon":""}
 ---
 
 > ถ้าเราปล่อยให้แสงผ่านเข้าไปในช่องเล็กๆในห้องมืด แล้วถือกระดาษสีขวาหลังช่องรับแสงนั้น จะปรากฏภาพจริงหัวกลับแต่เป็นภาพที่ไม่ชัดเจนนัก - อาริสโตเติล 
