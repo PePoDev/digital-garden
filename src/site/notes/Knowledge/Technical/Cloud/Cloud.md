@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"sticker":"1f327-fe0f","permalink":"/knowledge/technical/cloud/cloud/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/cloud/","noteIcon":""}
 ---
 
 ## Cloud Providers
