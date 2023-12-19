@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/programming/rust/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/programming/rust/","noteIcon":""}
 ---
 
 ## Links
