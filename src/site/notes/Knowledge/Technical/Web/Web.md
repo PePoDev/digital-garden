@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/web/web/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/web/web/","noteIcon":""}
 ---
 
 ## Pages
@@ -44,9 +44,16 @@
 - [Driver](https://kamranahmed.info/driver.js/)
 - [ElectricSQL - Sync for modern apps](https://electric-sql.com/)
 - [Dev toolkit for building collaborative editors – Tiptap](https://tiptap.dev/)
+- [Urami | Image optimization for all!](https://urami.dev/)
+- [Puck - The open-source visual editor for React](https://puckeditor.com/)
+- [Zdog · Round, flat, designer-friendly pseudo-3D engine for canvas and SVG](https://zzz.dog/)
+- [GitHub - xyflow/xyflow: React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.](https://github.com/xyflow/xyflow)
+- [GitHub - novuhq/novu: 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀](https://github.com/novuhq/novu)
 ## UI
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Melt UI](https://www.melt-ui.com/)
+- [Radix UI](https://www.radix-ui.com/)
+- [Horizon UI Landing Sections Kit - Trendiest UI Landing Sections Kit Tailwind CSS, HTML & Figma](https://horizon-ui.com/landing-kit/)
 ## Decision Tree
 ![Attachments/Pasted image 20230311203858.png](/img/user/Attachments/Pasted%20image%2020230311203858.png)
 ## Framework
