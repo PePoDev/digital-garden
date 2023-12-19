@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/twelve-factor-app/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/twelve-factor-app/","noteIcon":""}
 ---
 
 1. Codebase
