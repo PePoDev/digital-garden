@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/graphic/graphic/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/graphic/graphic/","noteIcon":""}
 ---
 
 ## Pages
