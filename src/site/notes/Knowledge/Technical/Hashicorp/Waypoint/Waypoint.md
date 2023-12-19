@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/hashicorp/waypoint/waypoint/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/hashicorp/waypoint/waypoint/","noteIcon":""}
 ---
 
