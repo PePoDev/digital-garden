@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/soft-skill/sleep/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/soft-skill/sleep/","noteIcon":""}
 ---
 
 ## ข้อดีของการนอน
