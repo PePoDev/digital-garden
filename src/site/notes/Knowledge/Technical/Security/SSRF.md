@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/security/ssrf/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/security/ssrf/","noteIcon":""}
 ---
 
