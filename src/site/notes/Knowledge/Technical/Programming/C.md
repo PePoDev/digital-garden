@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/programming/c/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/programming/c/","noteIcon":""}
 ---
 
