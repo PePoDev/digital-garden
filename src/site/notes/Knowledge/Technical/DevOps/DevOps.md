@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/dev-ops/dev-ops/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/dev-ops/dev-ops/","noteIcon":""}
 ---
 
 ## Pages
