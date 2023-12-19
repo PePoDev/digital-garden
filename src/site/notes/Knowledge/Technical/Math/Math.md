@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/math/math/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/math/math/","noteIcon":""}
 ---
 
 ## BODMAS
