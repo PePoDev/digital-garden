@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/english/english/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/english/english/","noteIcon":""}
 ---
 
 ## Pages
