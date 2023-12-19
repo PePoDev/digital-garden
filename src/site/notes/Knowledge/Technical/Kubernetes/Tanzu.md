@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/kubernetes/tanzu/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/kubernetes/tanzu/","noteIcon":""}
 ---
 
 ## Links
