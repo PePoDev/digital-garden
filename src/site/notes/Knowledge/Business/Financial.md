@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/business/financial/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/business/financial/","noteIcon":""}
 ---
 
 ## Links
