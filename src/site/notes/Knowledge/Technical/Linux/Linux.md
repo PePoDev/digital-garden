@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/linux/linux/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/linux/linux/","noteIcon":""}
 ---
 
 ## Pages
@@ -9,7 +9,6 @@
 
 ## Certificates
 - [ ] LFCA #certificate
-- [ ] LFCE #certificate
 - [ ] LFCT #certificate
 - [ ] LFCS #certificate
 - [ ] RHCHA #certificate
