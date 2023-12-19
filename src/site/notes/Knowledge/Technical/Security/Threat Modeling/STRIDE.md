@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/security/threat-modeling/stride/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/security/threat-modeling/stride/","noteIcon":""}
 ---
 
 
