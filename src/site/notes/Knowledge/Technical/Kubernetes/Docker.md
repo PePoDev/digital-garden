@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/kubernetes/docker/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/kubernetes/docker/","noteIcon":""}
 ---
 
 ## Certificates
