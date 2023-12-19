@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/database/my-sql/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/database/my-sql/","noteIcon":""}
 ---
 
 ## Pages
