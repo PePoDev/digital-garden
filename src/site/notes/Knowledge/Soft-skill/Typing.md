@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/soft-skill/typing/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/soft-skill/typing/","noteIcon":""}
 ---
 
 ## Links
