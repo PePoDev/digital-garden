@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/english/link/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/english/link/","noteIcon":""}
 ---
 
 20 Websites เรียนภาษา เริ่มตั้งแต่ ABC จนถึงสอบ IELTS
