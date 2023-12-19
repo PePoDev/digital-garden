@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/version-control-system/git/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/version-control-system/git/","noteIcon":""}
 ---
 
 ## Features
