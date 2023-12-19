@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/security/threat-modeling/trike/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/security/threat-modeling/trike/","noteIcon":""}
 ---
 
