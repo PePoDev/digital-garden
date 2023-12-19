@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/others/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/others/","noteIcon":""}
 ---
 
 ## Pages
