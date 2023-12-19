@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/soft-skill/design-thinking/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/soft-skill/design-thinking/","noteIcon":""}
 ---
 
 ![Untitled](/img/user/Attachments/Untitled 14.png)
