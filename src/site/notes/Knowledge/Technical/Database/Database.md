@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/database/database/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/database/database/","noteIcon":""}
 ---
 
 ## Pages
 
+- [[Knowledge/Technical/Database/MongoDB\|MongoDB]]
 - [[Knowledge/Technical/Database/MySQL\|MySQL]]
-- [[Knowledge/Technical/Database/PostgreSQL 2\|PostgreSQL 2]]
-- [[Knowledge/Technical/Database/PostgreSQL\|PostgreSQL]]
+- [[Knowledge/Technical/Database/Postgres\|Postgres]]
+- [[Knowledge/Technical/Database/Redis\|Redis]]
 
 
 ## Links
