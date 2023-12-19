@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"sticker":"emoji//1f30f","permalink":"/knowledge/technical/network/network/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/network/network/","noteIcon":""}
 ---
 
 ## Pages
