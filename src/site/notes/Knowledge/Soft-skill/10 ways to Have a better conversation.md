@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/soft-skill/10-ways-to-have-a-better-conversation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/soft-skill/10-ways-to-have-a-better-conversation/","noteIcon":""}
 ---
 
 ## Summary
