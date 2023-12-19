@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/game/game/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/game/game/","noteIcon":""}
 ---
 
 ## Links
