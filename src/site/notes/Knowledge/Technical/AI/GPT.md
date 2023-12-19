@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/ai/gpt/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/ai/gpt/","noteIcon":""}
 ---
 
 ## Links
