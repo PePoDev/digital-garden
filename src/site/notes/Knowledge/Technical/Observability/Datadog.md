@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/observability/datadog/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/observability/datadog/","noteIcon":""}
 ---
 
 
