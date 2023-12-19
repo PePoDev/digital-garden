@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"sticker":"emoji//1f4a3","permalink":"/knowledge/technical/kubernetes/kubernetes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/kubernetes/kubernetes/","noteIcon":""}
 ---
 
 ## Pages
 
+- [[Knowledge/Technical/Kubernetes/ArgoCD\|ArgoCD]]
+- [[Knowledge/Technical/Kubernetes/Calico\|Calico]]
 - [[Knowledge/Technical/Kubernetes/Cilium\|Cilium]]
 - [[Knowledge/Technical/Kubernetes/CKS\|CKS]]
 - [[Knowledge/Technical/Kubernetes/Docker\|Docker]]
@@ -12,6 +14,13 @@
 - [[Knowledge/Technical/Kubernetes/Tanzu\|Tanzu]]
 
 
+## Certificates
+- [ ] KCNA #certificate
+- [ ] Kubernetes and Cloud Native Security Associate (KCSA) #certificate
+- [ ] CKAD #certificate
+- [x] CKA #certificate
+- [/] CKS #certificate
+- [ ] Red Hat Certified Specialist in OpenShift Administration #certificate
 ## Links
 - [Kubernetes Ingress Controllers Comparisons](https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/edit#gid=907731238)
 - [Service meshes Comparisons](https://docs.google.com/spreadsheets/d/1Bxf8VW9n-YyHeBiKdXt6zytOgw2cQlsDnK1gLUvsZ4A/edit#gid=907731238)
@@ -52,6 +61,9 @@
 - [Automate application management on Kubernetes. | OpenKruise](https://openkruise.io/)
 - [kpt - Home](https://kpt.dev/)
 - [GitHub - kubernetes/node-problem-detector: This is a place for various problem detectors running on the Kubernetes nodes.](https://github.com/kubernetes/node-problem-detector)
+- [GitHub - didil/paperlb: A kubernetes network load balancer implementation](https://github.com/didil/paperlb)
+- [GitHub - glasskube/operator: Glasskube Kubernetes Operator - Fully automated deployments for open source tools](https://github.com/glasskube/operator)
+- [Developer friendly Kubernetes | Cyclops](https://cyclops-ui.com/)
 ### Game
 - [GitHub - PlayFab/thundernetes: Thundernetes makes it easy to run your game servers on Kubernetes](https://github.com/PlayFab/thundernetes)
 - [Agones](https://agones.dev/site/)
@@ -88,14 +100,10 @@
 - [Cilium - Cloud Native, eBPF-based Networking, Observability, and Security](https://cilium.io/)
 ### Multi Tenent
 - [Multi-tenancy | Kubernetes](https://kubernetes.io/docs/concepts/security/multi-tenancy/)
+- [GitHub - projectcapsule/capsule: Multi-tenancy and policy-based framework for Kubernetes.](https://github.com/projectcapsule/capsule)
 ### Scan
 - [GitHub - cyberark/KubiScan: A tool to scan Kubernetes cluster for risky permissions](https://github.com/cyberark/KubiScan)
+- [GitHub - devtron-labs/silver-surfer: Kubernetes objects api-version compatibility checker and provides migration path for K8s objects and prepare it for cluster upgrades](https://github.com/devtron-labs/silver-surfer)
 ### Build
 - [Paketo Buildpacks - Paketo Buildpacks](https://paketo.io/)
 - [Introduction - Kubernetes Gateway API](https://gateway-api.sigs.k8s.io/)
-## Certificates
-- [ ] KCNA #certificate
-- [ ] CKAD #certificate
-- [x] CKA #certificate
-- [/] CKS #certificate
-- [ ] Red Hat Certified Specialist in OpenShift Administration #certificate
