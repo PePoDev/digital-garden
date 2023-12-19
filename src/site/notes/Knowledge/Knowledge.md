@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"sticker":"emoji//1f393","permalink":"/knowledge/knowledge/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/knowledge/","noteIcon":""}
 ---
 
 ## Pages
