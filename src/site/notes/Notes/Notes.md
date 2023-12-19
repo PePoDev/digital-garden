@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"sticker":"emoji//1f4d3","_filters":[],"_contexts":[],"_links":["Notes/Joke.md"],"_sort":{"field":"rank","asc":false,"group":false},"permalink":"/notes/notes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/notes/notes/","noteIcon":""}
 ---
 
 ## Pages
