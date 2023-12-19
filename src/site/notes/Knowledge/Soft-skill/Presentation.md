@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/soft-skill/presentation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/soft-skill/presentation/","noteIcon":""}
 ---
 
 ![Presentation+Course+Handouts_sm-01.jpg](/img/user/Attachments/PresentationCourseHandouts_sm-01.jpg)
