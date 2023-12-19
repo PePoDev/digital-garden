@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/english/conversations/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/english/conversations/","noteIcon":""}
 ---
 
 ## **การเดินทางโดยเท้า (On foot)**
