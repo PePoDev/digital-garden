@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/software-architecture/scale/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/software-architecture/scale/","noteIcon":""}
 ---
 
 - [From 0 to Millions: A Guide to Scaling Your App - Part 1](https://blog.bytebytego.com/p/from-0-to-millions-a-guide-to-scaling)
