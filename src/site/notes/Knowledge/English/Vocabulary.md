@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/english/vocabulary/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/english/vocabulary/","noteIcon":""}
 ---
 
 ## How to use A-AN
