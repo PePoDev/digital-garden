@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/organization/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/organization/","noteIcon":""}
 ---
 
 Created when a Google Workspace or Cloud Identity account creates a Google Cloud Project
