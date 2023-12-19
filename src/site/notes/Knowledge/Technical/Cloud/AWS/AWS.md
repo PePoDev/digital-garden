@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"sticker":"1f325-fe0f","permalink":"/knowledge/technical/cloud/aws/aws/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/aws/","noteIcon":""}
 ---
 
 ## Pages
