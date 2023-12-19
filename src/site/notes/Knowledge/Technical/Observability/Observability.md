@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/observability/observability/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/observability/observability/","noteIcon":""}
 ---
 
 ## Pages
