@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/security/threat-modeling/threat-modeling/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/security/threat-modeling/threat-modeling/","noteIcon":""}
 ---
 
 https://www.cyfence.com/article/12-way-to-build-threat-modeling/
