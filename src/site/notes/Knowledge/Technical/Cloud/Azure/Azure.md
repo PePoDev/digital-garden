@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"sticker":"1f328-fe0f","permalink":"/knowledge/technical/cloud/azure/azure/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/azure/azure/","noteIcon":""}
 ---
 
 ## Pages
@@ -23,3 +23,5 @@
 - [ ] DA-100 (Azure Data Analyst) #certificate 
 ## Overview
 ![Pasted image 20230824115019.png](/img/user/Attachments/Pasted%20image%2020230824115019.png)
+## Courses
+- [AZ-900 Episode 1 | Cloud Computing and Vocabulary | Microsoft Azure Fundamentals Full Course - YouTube](https://www.youtube.com/watch?v=Pt9LelJ0fL0&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&index=2)
