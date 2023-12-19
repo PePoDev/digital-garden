@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/soft-skill/project-management/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/soft-skill/project-management/","noteIcon":""}
 ---
 
 ## Certificates
