@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/software-architecture/c4-model/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/software-architecture/c4-model/","noteIcon":""}
 ---
 
 ## Links
