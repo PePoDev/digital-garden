@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/others/vincent-van-gogh/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/others/vincent-van-gogh/","noteIcon":""}
 ---
 
 ## Details
