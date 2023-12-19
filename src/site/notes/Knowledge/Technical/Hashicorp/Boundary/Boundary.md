@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/hashicorp/boundary/boundary/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/hashicorp/boundary/boundary/","noteIcon":""}
 ---
 
 ## Links
