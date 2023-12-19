@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/hashicorp/consul/consul/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/hashicorp/consul/consul/","noteIcon":""}
 ---
 
 ## Certificates
