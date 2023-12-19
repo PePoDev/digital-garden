@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/fido/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/fido/","noteIcon":""}
 ---
 
 
