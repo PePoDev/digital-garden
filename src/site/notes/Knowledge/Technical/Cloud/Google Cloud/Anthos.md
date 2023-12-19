@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/anthos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/anthos/","noteIcon":""}
 ---
 
 - Application management platform
