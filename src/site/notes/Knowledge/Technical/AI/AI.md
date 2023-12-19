@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/ai/ai/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/ai/ai/","noteIcon":""}
 ---
 
 ## Links
