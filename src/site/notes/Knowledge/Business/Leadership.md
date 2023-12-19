@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/business/leadership/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/business/leadership/","noteIcon":""}
 ---
 
 ## Links
