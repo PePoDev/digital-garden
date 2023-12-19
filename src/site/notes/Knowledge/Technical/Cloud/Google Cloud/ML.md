@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/ml/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/ml/","noteIcon":""}
 ---
 
 ![ML-2023-04-24-1.png](/img/user/Attachments/ML-2023-04-24-1.png)
