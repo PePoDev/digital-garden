@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/wish-list/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/notes/wish-list/","noteIcon":""}
 ---
 
 ## Things
@@ -7,6 +7,7 @@
 - [49" มอนิเตอร์ Odyssey OLED G9 Gaming Monitor LS49CG934SEXXT | ซัมซุงประเทศไทย](https://www.samsung.com/th/monitors/gaming/odyssey-oled-g9-g93sc-49-inch-240hz-curved-dual-qhd-ls49cg934sexxt/)
 - [จอมอนิเตอร์ Odyssey Ark Gaming Monitor |Samsung Thailand](https://www.samsung.com/th/monitors/gaming/odyssey-ark--g97nb-55-inch-165hz-1ms-curved-uhd-4k-ls55bg970nexxt/)
 - [เมาส์เกมมิ่งไร้สาย G502 X | Logitech G](https://www.logitechg.com/th-th/products/gaming-mice/g502-x-wireless-lightforce.910-006182.html)
+- [NocNoc - ตลาดออนไลน์วัสดุและของแต่งบ้าน พร้อมติดตั้งครบวงจร](https://nocnoc.com/p/Stereo/Audioengine-A2-Wireless-Speake/10198353?area=pdp-variant)
 ## Chairs
 - [เก้าอี้สุขภาพ Ergotrend Beyond นั่งสบายทุกท่าเพียงก้านปรับ 1 ก้าน](https://www.mercular.com/ergotrend-beyond-ergonomic-chair)
 - [เก้าอี้สุขภาพ Steelcase Gesture Nylon Fiber Glass Ergonomic Chair](https://www.mercular.com/steelcase-gesture-nylon-fiber-glass-ergonomic-chair?sku=2219009000002&utm_source=google&utm_medium=gg_shopping&utm_content=&utm_term=_&utm_campaign=th_gsa_smart-shopping_awo_conversion)
@@ -25,6 +26,12 @@
 - [Cariber | คอร์สออนไลน์พัฒนาตัวเอง สอนโดยผู้นำของทุกวงการ](https://www.cariber.co/)
 - [Intro to Product Management | คอร์สเรียนออนไลน์ | Skooldio](https://www.skooldio.com/courses/intro-to-product-management)
 - [Shark Academy - คอร์สออนไลน์สอนโดยผู้มีประสบการณ์ตรงในวงการธุรกิจชั้นนำระดับประเทศ](https://page.fskill.co/shark-academy-fe)
+- [Shark Academy - คอร์สออนไลน์สอนโดยผู้มีประสบการณ์ตรงในวงการธุรกิจชั้นนำระดับประเทศ](https://page.fskill.co/shark-academy-bp)
 ## Coffee
 - [สินค้า HARIO - koffeetools](https://www.koffeetools.com/category/5117/%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2-hario)
 - [Specialty Coffee & Gears – The Summer Coffee Company](https://thesummercoffee.com/)
+## Tesla
+- ฟิล์มกรองแสง 3M Crystalline
+- โช๊ค
+	- Tein EnduraPro
+	- Profender
