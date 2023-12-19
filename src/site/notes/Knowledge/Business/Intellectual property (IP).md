@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/business/intellectual-property-ip/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/business/intellectual-property-ip/","noteIcon":""}
 ---
 
 ## 4 types of IP
