@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/software-architecture/software-architecture/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/software-architecture/software-architecture/","noteIcon":""}
 ---
 
 ## Pages
