@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/network/comp-tia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/network/comp-tia/","noteIcon":""}
 ---
 
 ## Certificates
