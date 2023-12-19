@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/graphic/blender/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/graphic/blender/","noteIcon":""}
 ---
 
 ## Courses
