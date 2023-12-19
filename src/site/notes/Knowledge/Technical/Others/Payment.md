@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/payment/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/payment/","noteIcon":""}
 ---
 
 ## History of payments
