@@ -5,10 +5,10 @@
 ## Links
 - https://learn.microsoft.com/en-us/training/modules/rust-create-program/3-basic-data-types
 - [Rust Atomics and Locks — Foreword by Paul E. McKenney](https://marabos.nl/atomics/foreword.html)
+- [Loco | Loco](https://loco.rs/)
 ## Highlight
 - System Programming
 - Safer Parallel Programming
-- 
 ## Ownership & Borrowing
 ### Ownership
 ![Attachments/Pasted image 20230315175038.png](/img/user/Attachments/Pasted%20image%2020230315175038.png)
