@@ -8,6 +8,7 @@
 - [[Books/Books\|Books]]
 - [[Blog/Blog\|Blog]]
 - [[Travel/Travel\|Travel]]
+- 🔒 [[Templates/Templates\|Templates]]
 - [[Health/Health\|Health]]
 - 🔒 [[Documents/Documents\|Documents]]
 - [[Home/Home\|Home]]
