@@ -9,6 +9,7 @@
 - [[Knowledge/Technical/Others/CAB\|CAB]]
 - [[Knowledge/Technical/Others/Cache\|Cache]]
 - [[Knowledge/Technical/Others/CAP Theorem\|CAP Theorem]]
+- [[Knowledge/Technical/Others/Cloudflare Zero Trust\|Cloudflare Zero Trust]]
 - [[Knowledge/Technical/Others/Compliance\|Compliance]]
 - [[Knowledge/Technical/Others/Disaster Recovery\|Disaster Recovery]]
 - [[Knowledge/Technical/Others/Domain Driven Design\|Domain Driven Design]]
@@ -19,5 +20,6 @@
 - [[Knowledge/Technical/Others/NFRs\|NFRs]]
 - [[Knowledge/Technical/Others/Payment\|Payment]]
 - [[Knowledge/Technical/Others/SQL\|SQL]]
+- [[Knowledge/Technical/Others/SSL\|SSL]]
 - [[Knowledge/Technical/Others/Twelve-Factor App\|Twelve-Factor App]]
 
