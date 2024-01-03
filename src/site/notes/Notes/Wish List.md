@@ -27,8 +27,12 @@
 - [PowerBI + Tableau + Excel ครบเครื่องเรื่องวิเคราะห์ข้อมูล โดย FutureSkill](https://page.futureskill.co/pbtbex1)
 - [Cariber | คอร์สออนไลน์พัฒนาตัวเอง สอนโดยผู้นำของทุกวงการ](https://www.cariber.co/)
 - [Intro to Product Management | คอร์สเรียนออนไลน์ | Skooldio](https://www.skooldio.com/courses/intro-to-product-management)
+- [Tactical Domain Driven Design | คอร์สเรียนออนไลน์ | Skooldio](https://www.skooldio.com/courses/tactical-domain-driven-design)
 - [Shark Academy - คอร์สออนไลน์สอนโดยผู้มีประสบการณ์ตรงในวงการธุรกิจชั้นนำระดับประเทศ](https://page.fskill.co/shark-academy-fe)
 - [Shark Academy - คอร์สออนไลน์สอนโดยผู้มีประสบการณ์ตรงในวงการธุรกิจชั้นนำระดับประเทศ](https://page.fskill.co/shark-academy-bp)
 ## Coffee
 - [สินค้า HARIO - koffeetools](https://www.koffeetools.com/category/5117/%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2-hario)
 - [Specialty Coffee & Gears – The Summer Coffee Company](https://thesummercoffee.com/)
+## Big thing
+- [Abstracts Phahonyothin Park / 1 Bedroom (SALE), แอ็บสแตร็กส์ พหลโยธิน พาร์ค / 1 ห้องนอน (ขาย) MEAW381 | Livinginsider](https://www.livinginsider.com/livingdetail/1978722/Abstracts-Phahonyothin-Park-1-Bedroom-SALE-%E0%B9%81%E0%B8%AD%E0%B9%87%E0%B8%9A%E0%B8%AA%E0%B9%81%E0%B8%95%E0%B8%A3%E0%B9%87%E0%B8%81%E0%B8%AA%E0%B9%8C-%E0%B8%9E%E0%B8%AB%E0%B8%A5%E0%B9%82%E0%B8%A2%E0%B8%98%E0%B8%B4%E0%B8%99-%E0%B8%9E%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%84-1-%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%AD%E0%B8%99-%E0%B8%82%E0%B8%B2%E0%B8%A2-MEAW38.html)
+- [Model Y | Tesla Thailand](https://www.tesla.com/en_th/modely)
