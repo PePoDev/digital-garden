@@ -25,3 +25,5 @@
 - [ทัวร์ล่องแก่ง แก่งกึ๊ด บ้านแม่ตะมาน แม่แตง เชียงใหม่【อัพเดท 2022】](https://www.yimwantour.com/tours/white-water-rafting-chiangmai/)
 - [klook.com](https://www.klook.com/th/experiences/list/chiang-mai-rafting/c5-cate125/)
 - [ล่องแก่งท่านละ300บาท แม่แตงเชียงใหม่ ธนาแอดเวนเจอร์ | Mae Taeng](https://www.facebook.com/armmenakrb/?locale=th_TH)
+## ภูกะดึง
+- https://travel.trueid.net/detail/VGd18Ww08Wo9
