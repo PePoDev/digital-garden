@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/knowledge/technical/kubernetes/cks/","noteIcon":""}
 ---
 
+
 ## Courses
 - [CKS – Challenges | KodeKloud](https://kodekloud.com/courses/cks-challenges/)
 - [Certified Kubernetes Security Specialist (CKS) | KodeKloud](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks/)
@@ -22,3 +23,10 @@
 	- RAM
 	- Disk
 	- CPU
+### CIS Benchmarks
+- The Center for Internet Security (CIS) provides a standardized set of security benchmarks to identify and refine effective security measures for a specific set of tools and technologies
+- Example of COS Rules
+	- Avoid the use of "root" account
+	- Ensure CloudTrail log file validation is enabled
+	- Ensure VPC flow logging is enabled in all VPCs
+	
