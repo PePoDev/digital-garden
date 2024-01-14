@@ -64,6 +64,7 @@
 - [GitHub - didil/paperlb: A kubernetes network load balancer implementation](https://github.com/didil/paperlb)
 - [GitHub - glasskube/operator: Glasskube Kubernetes Operator - Fully automated deployments for open source tools](https://github.com/glasskube/operator)
 - [Developer friendly Kubernetes | Cyclops](https://cyclops-ui.com/)
+- [K8sGPT](https://k8sgpt.ai/)
 ### Game
 - [GitHub - PlayFab/thundernetes: Thundernetes makes it easy to run your game servers on Kubernetes](https://github.com/PlayFab/thundernetes)
 - [Agones](https://agones.dev/site/)
