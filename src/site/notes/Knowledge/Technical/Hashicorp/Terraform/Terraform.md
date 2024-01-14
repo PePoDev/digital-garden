@@ -25,7 +25,6 @@
 - [Multi-Cloud Infrastructure made easy | Multy](https://multy.dev/)
 - [GitHub - JamesWoolfenden/pike: Pike is a tool for determining the permissions or policy required for IAC code](https://github.com/jamesWoolfenden/pike)
 - [GitHub - dragondrop-cloud/cloud-concierge: Codify resources outside of Terraform control, detect drift, estimate cloud costs, identify security risks, and more. "Terraform best practices as a Pull Request."](https://github.com/dragondrop-cloud/cloud-concierge)
-- [Digger](https://www.digger.dev/)
 ## Cloud & Alternatives
 - [Home - Why Scalr?](https://www.scalr.com/)
 - [Spacelift: The Most Flexible IaC Management Platform](https://spacelift.io/)
