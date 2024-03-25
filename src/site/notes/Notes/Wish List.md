@@ -5,10 +5,10 @@
 ## Things
 - [จอคอม Dell UltraSharp U2723QE จอมอนิเตอร์ Dell สีสันสมจริง](https://www.mercular.com/dell-ultrasharp-u2723qe-27-inch-ips-4k-monitor-60hz)
 - [49" มอนิเตอร์ Odyssey OLED G9 Gaming Monitor LS49CG934SEXXT | ซัมซุงประเทศไทย](https://www.samsung.com/th/monitors/gaming/odyssey-oled-g9-g93sc-49-inch-240hz-curved-dual-qhd-ls49cg934sexxt/)
-- [เมาส์เกมมิ่งไร้สาย G502 X | Logitech G](https://www.logitechg.com/th-th/products/gaming-mice/g502-x-wireless-lightforce.910-006182.html)
-- [NocNoc - ตลาดออนไลน์วัสดุและของแต่งบ้าน พร้อมติดตั้งครบวงจร](https://nocnoc.com/p/Stereo/Audioengine-A2-Wireless-Speake/10198353?area=pdp-variant)
 - [Raspberry Pi 5](https://th.cytron.io/c-raspberry-pi-main-board/p-raspberry-pi-5)
 - [DiskStation DS723+ | Synology Inc.](https://www.synology.com/th-th/products/DS723+#specs)
+- Logitech MX Master 3s
+- Keychron K3
 ## Chairs
 - [เก้าอี้สุขภาพ Ergotrend Beyond นั่งสบายทุกท่าเพียงก้านปรับ 1 ก้าน](https://www.mercular.com/ergotrend-beyond-ergonomic-chair)
 - [เก้าอี้สุขภาพ Steelcase Gesture Nylon Fiber Glass Ergonomic Chair](https://www.mercular.com/steelcase-gesture-nylon-fiber-glass-ergonomic-chair?sku=2219009000002&utm_source=google&utm_medium=gg_shopping&utm_content=&utm_term=_&utm_campaign=th_gsa_smart-shopping_awo_conversion)
@@ -39,9 +39,3 @@
 - [FutureSkill | แพลตฟอร์มการเรียนออนไลน์สำหรับทักษะแห่งอนาคต](https://futureskill.co/course/detail/305)
 ### Cariber
 - [Cariber | คอร์สออนไลน์พัฒนาตัวเอง สอนโดยผู้นำของทุกวงการ](https://www.cariber.co/)
-## Coffee
-- [สินค้า HARIO - koffeetools](https://www.koffeetools.com/category/5117/%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2-hario)
-- [Specialty Coffee & Gears – The Summer Coffee Company](https://thesummercoffee.com/)
-## Big thing
-- [Abstracts Phahonyothin Park / 1 Bedroom (SALE), แอ็บสแตร็กส์ พหลโยธิน พาร์ค / 1 ห้องนอน (ขาย) MEAW381 | Livinginsider](https://www.livinginsider.com/livingdetail/1978722/Abstracts-Phahonyothin-Park-1-Bedroom-SALE-%E0%B9%81%E0%B8%AD%E0%B9%87%E0%B8%9A%E0%B8%AA%E0%B9%81%E0%B8%95%E0%B8%A3%E0%B9%87%E0%B8%81%E0%B8%AA%E0%B9%8C-%E0%B8%9E%E0%B8%AB%E0%B8%A5%E0%B9%82%E0%B8%A2%E0%B8%98%E0%B8%B4%E0%B8%99-%E0%B8%9E%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%84-1-%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%AD%E0%B8%99-%E0%B8%82%E0%B8%B2%E0%B8%A2-MEAW38.html)
-- [Model Y | Tesla Thailand](https://www.tesla.com/en_th/modely)
