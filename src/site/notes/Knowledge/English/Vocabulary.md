@@ -32,23 +32,15 @@
 ## Vocabulary
 - Dominant - ที่เด่น
 - Ceremony - พิธีการ
-- Towel ผ้าเช็ดตัว
 - Cater - รับจัดเลี้ยง
-- Depart ออกเดินทาง
-- Arrive มาถึง
 - Souvenir ของที่ระลึก
-- Baggage กระเป๋า
-- Luggage กระเป๋า
-- Secretary เลขา
 - Applicant ผู้สมัคร
 - Vacancy ตำแหน่งว่าง
 - Sales representative ตัวแทนขาย
 - Committee คณะกรรมการ
 - Appointment โฆษณา
-- Postpone เลื่อน
 - Compensate ชดเชย, ตอบแทน, จ่ายคืน
 - emerges - โผล่ออกมา
-- emergence - ภาวะฉุกเฉิน
 - radically - รุนแรง
 - superseded - แทนที่
 - Eventually - ท้ายที่สุด 
@@ -75,8 +67,6 @@
 - enthusiastic - กระตือรือร้น
 - debunked - หัก
 - distinct - แตกต่าง
-- certainly - แน่นอน
-- fare - ค่าโดยสาร
 - alongside - เคียงข้าง
 - intoxication - มึนเมา
 - excessive - มากเกินไป
@@ -90,3 +80,14 @@
 - comprehensive - ครอบคลุม
 - pride - ความภาคภูมิใจ
 - obvious - ชัดเจน
+- embark - เริ่มดำเนินการ
+- fidelity - ความจงรักภักดี
+- presence - การมีอยู่
+- traction - แรงฉุด
+- jurisdictions - เขตอำนาจศาล
+- stifle - ยับยั้ง
+- cadence - จังหวะ
+- Indeed - อย่างแท้จริง
+- hence - เพราะฉะนั้น
+- decent - เหมาะสม
+- time to time - เป็นครั้งคราว
