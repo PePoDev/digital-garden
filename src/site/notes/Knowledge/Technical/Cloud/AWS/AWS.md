@@ -5,8 +5,8 @@
 ## Pages
 
 - [[Knowledge/Technical/Cloud/AWS/Analytic, Steaming, Queue\|Analytic, Steaming, Queue]]
-- [[Knowledge/Technical/Cloud/AWS/Automation\|Automation]]
-- [[Knowledge/Technical/Cloud/AWS/Compute\|Compute]]
+- [[Knowledge/Technical/Cloud/AWS/Compute and Container\|Compute and Container]]
+- [[Knowledge/Technical/Cloud/AWS/Developer Experience\|Developer Experience]]
 - [[Knowledge/Technical/Cloud/AWS/EKS Security\|EKS Security]]
 - [[Knowledge/Technical/Cloud/AWS/IAM\|IAM]]
 - [[Knowledge/Technical/Cloud/AWS/ML\|ML]]
@@ -36,11 +36,11 @@
 ## Certificates
 
 - [x] AWS Cloud Practitioner #certificate ✅ 2022-12-24
-- [x] AWS Solution Architect Associate #certificate 🔼 ✅ 2023-05-18
-- [/] AWS Developer Associate #certificate
-- [/] AWS SysOps Administrator Associate #certificate
+- [x] AWS Solution Architect Associate #certificate ✅ 2023-05-18
+- [ ] AWS Developer Associate #certificate
+- [ ] AWS SysOps Administrator Associate #certificate
 - [/] AWS Solution Architect Professional #certificate
-- [/] AWS DevOps Engineer Professional #certificate
+- [ ] AWS DevOps Engineer Professional #certificate
 - [ ] AWS Advanced Networking Specialist #certificate
 - [ ] AWS Data Analytics Specialist #certificate
 - [ ] AWS Database Specialist #certificate
@@ -70,5 +70,10 @@
 - Lambda
 - Rekognition
 ## Well-Architect
-- 6 Pillar
-	- 
+- 6 Pillars
+	- Operational Excellence
+	- Security
+	- Reliability
+	- Performance Efficiency
+	- Cost Optimization
+	- Sustainability
