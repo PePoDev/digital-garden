@@ -86,10 +86,13 @@
 - [Kubeshark — API Traffic Analyzer for Kubernetes](https://kubeshark.co/)
 - [Plural | Deploy, maintain, and scale the open-source applications you love](https://www.plural.sh/)
 - [Enterprise Kubernetes Management | Rancher](https://www.rancher.com/)
+- [kubik](https://kubik-group.com/)
+- [k8Studio](https://k8studio.io/)
 ### Cluster Management
 - [Sveltos - Kubernetes Add-on Controller | Manage and Deploy Add-ons - Projectsveltos Documentation](https://projectsveltos.github.io/sveltos/)
 - [Open Cluster Management](https://open-cluster-management.io/)
 - [GitHub - kubernetes-sigs/cluster-api-addon-provider-helm: Cluster API Add-on Provider for Helm is a extends the functionality of Cluster API by providing a solution for managing the installation, configuration, upgrade, and deletion of Cluster add-ons using Helm charts.](https://github.com/kubernetes-sigs/cluster-api-addon-provider-helm)
+- [GitHub - helm/helm-mapkubeapis: This is a Helm plugin which map deprecated or removed Kubernetes APIs in a release to supported APIs](https://github.com/helm/helm-mapkubeapis)
 ### Storage
 - [Longhorn](https://longhorn.io/)
 ### Policy
