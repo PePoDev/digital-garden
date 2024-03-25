@@ -4,9 +4,9 @@
 
 ## Cloud Providers
 
-- **[[Knowledge/Technical/Cloud/AWS/AWS\|AWS]]**
-- **[[Knowledge/Technical/Cloud/Azure/Azure\|Azure]]**
-- **[[Knowledge/Technical/Cloud/Google Cloud/Google Cloud\|Google Cloud]]**
+- **[AWS](./AWS/AWS.md)**
+- **[Azure](./Azure/Azure.md)**
+- **[Google Cloud](./Google%20Cloud/Google%20Cloud.md)**
 
 
 ## Links
