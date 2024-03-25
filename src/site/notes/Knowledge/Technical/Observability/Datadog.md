@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/knowledge/technical/observability/datadog/","noteIcon":""}
 ---
 
-
 ## Certificates
 - [ ] [Datadog](https://www.datadoghq.com/certification/overview/) #certificate
 ## Links
