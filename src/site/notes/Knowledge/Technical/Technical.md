@@ -4,28 +4,28 @@
 
 ## Pages
 
-- **[[Knowledge/Technical/AI/AI\|AI]]**
-- **[[Knowledge/Technical/Algorithm/Algorithm\|Algorithm]]**
-- **[[Knowledge/Technical/Blockchain/Blockchain\|Blockchain]]**
-- **[[Knowledge/Technical/Cloud/Cloud\|Cloud]]**
-- **[[Knowledge/Technical/Data Analytics/Data Analytics\|Data Analytics]]**
-- **[[Knowledge/Technical/Database/Database\|Database]]**
-- **[[Knowledge/Technical/DevOps/DevOps\|DevOps]]**
-- **[[Knowledge/Technical/Enterprise Architecture/Enterprise Architecture\|Enterprise Architecture]]**
-- **[[Knowledge/Technical/Game/Game\|Game]]**
-- **[[Knowledge/Technical/Graphic/Graphic\|Graphic]]**
-- **[[Knowledge/Technical/Hashicorp/Hashicorp\|Hashicorp]]**
-- **[[Knowledge/Technical/Kubernetes/Kubernetes\|Kubernetes]]**
-- **[[Knowledge/Technical/Linux/Linux\|Linux]]**
-- **[[Knowledge/Technical/Math/Math\|Math]]**
-- **[[Knowledge/Technical/Network/Network\|Network]]**
-- **[[Knowledge/Technical/Observability/Observability\|Observability]]**
-- **[[Knowledge/Technical/Others/Others\|Others]]**
-- **[[Knowledge/Technical/Programming/Programming\|Programming]]**
-- **[[Knowledge/Technical/Security/Security\|Security]]**
-- **[[Knowledge/Technical/Software Architecture/Software Architecture\|Software Architecture]]**
-- **[[Knowledge/Technical/Version Control System/Version Control System\|Version Control System]]**
-- **[[Knowledge/Technical/Web/Web\|Web]]**
+- **[AI](./AI/AI.md)**
+- **[Algorithm](./Algorithm/Algorithm.md)**
+- **[Blockchain](./Blockchain/Blockchain.md)**
+- **[Cloud](./Cloud/Cloud.md)**
+- **[Data Analytics](./Data%20Analytics/Data%20Analytics.md)**
+- **[Database](./Database/Database.md)**
+- **[DevOps](./DevOps/DevOps.md)**
+- **[Enterprise Architecture](./Enterprise%20Architecture/Enterprise%20Architecture.md)**
+- **[Game](./Game/Game.md)**
+- **[Graphic](./Graphic/Graphic.md)**
+- **[Hashicorp](./Hashicorp/Hashicorp.md)**
+- **[Kubernetes](./Kubernetes/Kubernetes.md)**
+- **[Linux](./Linux/Linux.md)**
+- **[Math](./Math/Math.md)**
+- **[Network](./Network/Network.md)**
+- **[Observability](./Observability/Observability.md)**
+- **[Others](./Others/Others.md)**
+- **[Programming](./Programming/Programming.md)**
+- **[Security](./Security/Security.md)**
+- **[Software Architecture](./Software%20Architecture/Software%20Architecture.md)**
+- **[Version Control System](./Version%20Control%20System/Version%20Control%20System.md)**
+- **[Web](./Web/Web.md)**
 
 
 ## Links
