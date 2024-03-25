@@ -4,19 +4,16 @@
 
 ## Links
 - [Assessment Registration](https://www.webassessor.com/wa.do?page=publicHome&branding=GOOGLECLOUD)
-- [Google Cloud Skills Boost for Partners](https://partner.cloudskillsboost.google)
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/profile/paths)
-- [Google Cloud Partner Technical Training](https://rsvp.withgoogle.com/events/partner-learning/google-cloud-certifications)
 - [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator)
-- [Partner Certification Kickstart | Google Cloud](https://inthecloud.withgoogle.com/pck-page/register.html)
 - [CertMetrics](https://cp.certmetrics.com/google/en/home/dashboard)
 ## Certificates
 - [x] Cloud Digital Leader #certificate ✅ 2023-04-20
 - [x] Associate Cloud Engineer #certificate ✅ 2023-07-21
 - [x] Professional Cloud Architect #certificate ✅ 2023-05-05
-- [/] Professional Cloud Developer #certificate
-- [/] Professional Cloud DevOps Engineer #certificate
-- [/] Professional Cloud Security Engineer #certificate
+- [ ] Professional Cloud Developer #certificate
+- [ ] Professional Cloud DevOps Engineer #certificate
+- [ ] Professional Cloud Security Engineer #certificate
 - [ ] Professional Data Engineer #certificate
 - [ ] Professional Cloud Network Engineer #certificate
 - [ ] Professional Collaboration Engineer #certificate
@@ -36,7 +33,7 @@
 - [[Knowledge/Technical/Cloud/Google Cloud/IoT\|IoT]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Migration\|Migration]]
 - [[Knowledge/Technical/Cloud/Google Cloud/ML\|ML]]
-- [[Knowledge/Technical/Cloud/Google Cloud/Monitoring\|Monitoring]]
+- [[Knowledge/Technical/Cloud/Google Cloud/Monitoring\|Knowledge/Technical/Cloud/Google Cloud/Monitoring]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Network\|Network]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Organization\|Organization]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Resource Management\|Resource Management]]
