@@ -7,7 +7,7 @@
 - 🔒 [[Documents/Assets/Assets\|Assets]]
 - [[Books/Books\|Books]]
 - [[Blog/Blog\|Blog]]
-- [[Travel/Travel\|Travel]]
+- [[Travel\|Travel]]
 - 🔒 [[Templates/Templates\|Templates]]
 - [[Health/Health\|Health]]
 - 🔒 [[Documents/Documents\|Documents]]
