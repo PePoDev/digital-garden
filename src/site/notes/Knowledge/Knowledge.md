@@ -4,12 +4,12 @@
 
 ## Pages
 
-- **[[Knowledge/Business/Business\|Business]]**
-- **[[Knowledge/English/English\|English]]**
-- **[[Knowledge/Investment/Investment\|Investment]]**
-- **[[Knowledge/Others/Others\|Others]]**
-- **[[Knowledge/Soft-skill/Soft-skill\|Soft-skill]]**
-- **[[Knowledge/Technical/Technical\|Technical]]**
+- **[Business](./Business/Business.md)**
+- **[English](./English/English.md)**
+- **[Investment](./Investment/Investment.md)**
+- **[Others](./Others/Others.md)**
+- **[Soft-skill](./Soft-skill/Soft-skill.md)**
+- **[Technical](./Technical/Technical.md)**
 
 
 ## Links
