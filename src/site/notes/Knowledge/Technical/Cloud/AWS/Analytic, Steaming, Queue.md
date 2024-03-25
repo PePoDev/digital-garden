@@ -3,7 +3,53 @@
 ---
 
 ## Kinesis
-- 
+- Collect, Process, and analyze streaming data in real-time
+- Ingest real-time data such as Application logs, Metrics, Website clickstreams, IoT telemetry data, IoT telemetry data
+- Services
+	- Kinesis Data Streams ![Analytic, Steaming, Queue-2024-03-16-1.png](/img/user/Attachments/Analytic,%20Steaming,%20Queue-2024-03-16-1.png)
+		- Capture, process, and store data stream
+		- Retention between 1 day to 365 days
+		- Ability to reprocess (replay) data
+		- Once data is inserted in Kinesis, it can't be deleted (immutability)
+		- Data that share the same partition foes to the same shard (ordering)
+		- Producers: AWS SDK, Kinesis Producer Library (KPL), Kinesis Agent
+		- Consumers:
+			- Write your own: Kinesis Client Library (KCL), AWS SDK
+			- Managed: AWS Lambda, Kinesis Data Firehose, Kinesis Data Analytics
+		- Capacity
+			- Provisioned Mode
+				- Choose the number of shards, scale manually
+				- Each shard gets 1MB/s in (or 1000 records per second)
+				- Each shard gets 2MB/s out (classic or enhanced fan-out consumer)
+				- Pay per shard provisioned per hour
+			- On-demand mode
+				- Default 4 MB/s in or 4000 records per second
+				- Scales automatically based on observed throughput peaks during the last 30 days
+				- Pay per stream per hour & data in/out per GB
+		- Security
+			- Control access/authorization using IAM policies
+			- Encryption in flight using HTTPS endpoints
+			- Encryption at rest using KMS
+			- You can implement encryption/decryption of data on the client side (harder)
+			- VPC Endpoints are available for Kinesis to access within VPC
+			- Monitor API calls using CloudTrail  
+	- Kinesis Data Firehose ![Analytic, Steaming, Queue-2024-03-16-3.png](/img/user/Attachments/Analytic,%20Steaming,%20Queue-2024-03-16-3.png)
+		- Load data streams into AWS data stores
+		- Fully managed service, No administration, automatic scaling, serverless
+		- Destination
+			- AWS: Redshift, S3, OpenSearch
+			- 3rd party partners: Splunk, MongoDB, Datadog, NewRelic
+			- Custom: HTTP Endpoint
+		- Pay for data going  through Firehose
+		- Near Real Time (Buffer internal 0 seconds to 900 seconds, Buffer size minimum 1MB)
+		- Support many data formats, Conversions, Transformations, Compression
+		- Supports custom data transformations using AWS Lambda
+		- Can send failed or all data to a backup S3 bucket
+	- Kinesis Data Analytics
+		- Analyze data streams with SQL or Apache Flink
+	- Kinesis Video Streams
+		- Capture, process, and store video streams
+![Analytic, Steaming, Queue-2024-03-16.png](/img/user/Attachments/Analytic,%20Steaming,%20Queue-2024-03-16.png)
 ## SQS
 - Type of service communication
 ![Analytic, Steaming, Queue-2023-11-23.png](/img/user/Attachments/Analytic,%20Steaming,%20Queue-2023-11-23.png)
@@ -23,6 +69,9 @@
 		- Limitation of 256KB per message sent
 		- Can have duplicate messages (at least once delivery, occasionally)
 		- Can have out-of-order messages (best-effort ordering)
+	- FIFO Queue
+		- Limited throughput 300 msg/s without batching, 300 msg/s with batching
+		- Exactly-once-send capability (by removing duplicates)  ![Analytic, Steaming, Queue-2024-03-16-4.png](/img/user/Attachments/Analytic,%20Steaming,%20Queue-2024-03-16-4.png)
 - Use-cases
 	- Use as buffer to database writes ![Analytic, Steaming, Queue-2023-11-29.png](/img/user/Attachments/Analytic,%20Steaming,%20Queue-2023-11-29.png)
 	- Decouple between application tiers
@@ -30,21 +79,18 @@
 ![Analytic, Steaming, Queue-2023-11-23-2.png](/img/user/Attachments/Analytic,%20Steaming,%20Queue-2023-11-23-2.png)
 - Features
 	- Message Visibility Timeout
-		- After a message is polled by a consumer, It becomes invisible to other consumers
+		- After a consumer polls a message, It becomes invisible to other consumers
 		- The default is 30 seconds
 		- If a message is not processed within the visibility timeout, It will be processed twice
 		- A consumer could call the ChangeMessageVisibility API to get more time
 		- If visibility timeout is high (hours), and the consumer crashes, re-processing will take time
-		- If visibility timeout is too low (seconds), may get duplicates
+		- If visibility timeout is too low (seconds), you may get duplicates
 	- Long polling
 		- When a consumer requests messages from the queue, it can optionally `wait` for messages to arrive if there are none in the queue
 		- LongPolling decreases the number of API calls made to SQS while increasing the efficiency and latency of your application
 		- The wait time can be between 1 sec to 20 sec
 		- Long polling is preferable to short polling
 		- Long polling can be enabled at the queue level or at the API level using `WaitTimeSeconds`
-	- FIFO Queue
-		- Limited throughput 300 msg/s without batching, 300 msg/s with batching
-		- Exactly-once send capability (by removing duplicates)
 - Security
 	- In-flight encryption using HTTPS API
 	- At-rest encryption using KMS keys
@@ -87,17 +133,44 @@
 	- SNS Access Policies (Similar to S3 bucket policies)
 		- Useful for cross-account access to SNS topics
 		- Useful for allowing other services to write to an SNS topic
-- FIFO
-	- Ordering by Message Group ID (All message in the same group are ordered)
-	- Deduplication using a Deduplication ID or Content Based Deduplication
-	- Same throughput as SQS FIFO
+- Type
+	- FIFO
+		- Ordering by Message Group ID (All messages in the same group are ordered)
+		- Deduplication using a Deduplication ID or Content-Based Deduplication
+		- Strictly-preserved message ordering
+		- Exactly once message delivery
+		- Highest throughput, up to 300 publishes/second
+		- Subscription protocols: SQS 
+	- Standard
+		- Best effort message ordering
+		- At least once message delivery
+		- Highest throughput in publishes/second
+		- Subscription protocols: SQS, Lambda, HTTP, SMS, email, mobile application endpoints
 - Message Filtering
-	- JSON policy used to filter message sent to SNS topic's subscriptions
+	- JSON policy used to filter messages sent to SNS topic's subscriptions
 	- If a subscription doesn't have a filter policy, It receives every message![Analytic, Steaming, Queue-2023-11-29-3.png](/img/user/Attachments/Analytic,%20Steaming,%20Queue-2023-11-29-3.png)
 ## SNS + SQS: Fan Out Pattern
 ![Analytic, Steaming, Queue-2023-11-29-2.png](/img/user/Attachments/Analytic,%20Steaming,%20Queue-2023-11-29-2.png)
 - Push once in SNS, Receive in all SQS queues
 - Fully decoupled, No data loss
 - Ability to add more SQS subscribers over time
+## Kinesis vs SQS ordering
+- For example, 100 trucks, 5 Kinesis shards, 1 SQS FIFO
+- Kinesis Data Streams
+	- On average you will have 20 trucks per shard
+	- Trucks will have their data ordered within each shard
+	- The maximum amount of consumers in parallel we can have is 5
+	- Can receive up to 5 MB/s of data
+- SQS FIFO
+	- 1 SQS FIFO queue
+	- 100 Group ID
+	- Can have up to 100 consumers (due to the 100 Group ID)
+	- Can have up to 300 messages per second (or 3000 if using batching)
 ## Amazon MQ
-- 
+- Managed message broker service for RabbitMQ, ActiveMQ
+- It doesn't scale as much as SQS/SNS
+- runs on servers, Can run in Multi-AZ with failover
+- Has both queue feature (SQS) and topic features (SNS)
+- High Availability ![Analytic, Steaming, Queue-2024-03-16-6.png](/img/user/Attachments/Analytic,%20Steaming,%20Queue-2024-03-16-6.png)
+## Others
+![Analytic, Steaming, Queue-2024-03-16-5.png](/img/user/Attachments/Analytic,%20Steaming,%20Queue-2024-03-16-5.png)
