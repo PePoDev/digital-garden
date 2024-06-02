@@ -4,15 +4,9 @@
 
 ## Pages
 
-- [[Knowledge/Technical/Network/Cisco\|Cisco]]
-- [[Knowledge/Technical/Network/CompTIA\|CompTIA]]
 
 
-## Links
-- [Cisco Skills For All](https://skillsforall.com/dashboard)
-- [Internet Users and Statistics in Thailand](http://internet.nectec.or.th/webstats/internetmap.current.iir?Sec=internetmap_current&ref=arnondora.in.th)
-- [What is a protocol? | Network protocol definition | Cloudflare](https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/)
-- [BGP คืออะไร ? ทำไมทำให้ Facebook ล่มไปได้ถึงเกือบ 7 ชั่วโมง ? - Arnondora](https://arnondora.in.th/what-is-bgp/)
+
 ## Overview
 ![Pasted image 20230416162640.png](/img/user/Attachments/Pasted%20image%2020230416162640.png)
 ## IANA Protocol Numbers

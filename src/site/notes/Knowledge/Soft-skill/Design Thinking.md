@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/knowledge/soft-skill/design-thinking/","noteIcon":""}
 ---
 
+
 ![Untitled](/img/user/Attachments/Untitled 14.png)
 
 ![Untitled](/img/user/Attachments/Untitled 1 2.png)

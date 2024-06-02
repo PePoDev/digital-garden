@@ -9,10 +9,6 @@
 - **[Google Cloud](./Google%20Cloud/Google%20Cloud.md)**
 
 
-## Links
-- [Cloud Academy](https://cloudacademy.com/dashboard/)
-- [Tutorials Dojo](https://tutorialsdojo.com/)
-- [Whizlabs](https://www.whizlabs.com/)
 ## Why Cloud?
 - Refresh cycle (buy new hardware every 3 years?)
 - Flexibility (on-demand capacity, cost optimization)

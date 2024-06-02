@@ -2,51 +2,6 @@
 {"dg-publish":true,"permalink":"/knowledge/soft-skill/agile/","noteIcon":""}
 ---
 
-## Links
-- [Agile Project Management | Coursera](https://www.coursera.org/learn/agile-project-management)
-## Certificates
-- [ ] CSP #certificate
-- [ ] [A-CSM](https://www.scrumalliance.org/get-certified/scrum-master-track/advanced-certified-scrummaster) #certificate
-- [ ] [CSM](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster) #certificate
-- [ ] PSM (Professional Scrum Master)
-- [ ] [CSPO](https://www.scrumalliance.org/get-certified/product-owner-track/certified-scrum-product-owner) #certificate
-- [ ] A-CSP #certificate
-- [ ] CSP-SM #certificate
-- [ ] ICP #certificate
-- [ ] ICP-FDO #certificate
-- [ ] ICP-IDO #certificate
-- [ ] ICP-TST #certificate
-- [ ] ICP-ATA #certificate
-- [ ] ICP-APM #certificate
-- [ ] ICP-DAS #certificate
-- [ ] ICP-ATF #certificate
-- [ ] ICP-ACC #certificate
-- [ ] ICP-AC #certificate
-- [ ] ICP-APO #certificate
-- [ ] ICP-PDM #certificate
-- [ ] ICP-PRG #certificate
-- [ ] ICP-ASD #certificate
-- [ ] ICP-BAF #certificate
-- [ ] ICP-LEA #certificate
-- [ ] ICP-PDV #certificate
-- [ ] ICP-AL #certificate
-- [ ] ICP-AHR #certificate
-- [ ] ICP-ORG #certificate
-- [ ] ICP-FIN #certificate
-- [ ] ICP-MKG #certificate
-- [ ] ICP-STR #certificate
-- [ ] ICP-ENT #certificate
-- [ ] ICP-CAT #certificate
-- [ ] ICP-EC #certificate
-- [ ] ICP-SYS #certificate
-- [ ] ICP-LPM #certificate
-- [ ] ACP-100 #certificate
-- [ ] ACP-120 #certificate
-- [ ] ACP-420 #certificate
-- [ ] ACP-600 #certificate
-- [ ] ACP-610 #certificate
-- [ ] ACP-620 #certificate
-![Agile-2023-10-24.png](/img/user/Attachments/Agile-2023-10-24.png)
 ## Introduction
 agile เป็นกระบวนการส่งมอบงานเพื่อให้ได้รับ feedback อย่างต่อเนื่อง ปรับเปลื่ยนให้เข้ากับการแข่งขันได้ตลอดเวลา สิ่งที่ agile focus เลยคือการ feedback ,collaboration และ value
 ## Agile four values

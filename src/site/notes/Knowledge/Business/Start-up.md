@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/knowledge/business/start-up/","noteIcon":""}
 ---
 
+
 ![Untitled](/img/user/Attachments/Start-up-2023-04-26.png)
 
 หา Early Adopters อย่างมีกลยุทธ์ด้วย Beachhead Market  Prof. Bill Aulet จาก MIT Innovation ซึ่งเป็นนักเขียนและอาจารย์ชื่อดังด้านการสร้างบริษัทนวัตกรรมได้สอนเรื่อง Beachhead Market ไว้เพื่อช่วยให้สตาร์ทอัพหา Early Adopters    โดย Aulet ได้สอนไว้ว่าBeachhead Market ที่ดีต้องมีคุณสมบัติ 7 ประการ

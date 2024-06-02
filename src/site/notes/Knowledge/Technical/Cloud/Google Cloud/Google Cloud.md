@@ -4,22 +4,7 @@
 
 ## Links
 - [Assessment Registration](https://www.webassessor.com/wa.do?page=publicHome&branding=GOOGLECLOUD)
-- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/profile/paths)
-- [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator)
 - [CertMetrics](https://cp.certmetrics.com/google/en/home/dashboard)
-## Certificates
-- [x] Cloud Digital Leader #certificate ✅ 2023-04-20
-- [x] Associate Cloud Engineer #certificate ✅ 2023-07-21
-- [x] Professional Cloud Architect #certificate ✅ 2023-05-05
-- [ ] Professional Cloud Developer #certificate
-- [ ] Professional Cloud DevOps Engineer #certificate
-- [ ] Professional Cloud Security Engineer #certificate
-- [ ] Professional Data Engineer #certificate
-- [ ] Professional Cloud Network Engineer #certificate
-- [ ] Professional Collaboration Engineer #certificate
-- [ ] Professional Machine Learning Engineer #certificate
-- [ ] Professional Cloud Database Engineer #certificate
-- [ ] Google Workspace Administrator #certificate
 ## Contents
 
 - [[Knowledge/Technical/Cloud/Google Cloud/Analytics\|Analytics]]

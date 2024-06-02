@@ -3,7 +3,6 @@
 ---
 
 ## 4 types of IP
-
 - **Patent**
     - registration required
     - Type of patent

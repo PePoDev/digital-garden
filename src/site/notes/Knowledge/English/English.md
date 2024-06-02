@@ -4,46 +4,9 @@
 
 ## Pages
 
-- [[Knowledge/English/Conversations\|Conversations]]
-- [[Knowledge/English/Link\|Link]]
 - [[Knowledge/English/Vocabulary\|Vocabulary]]
 
 
-## Certificates
-- [ ] IELTS #certificate
-- [ ] TOEIC #certificate
-## TOEIC Test
-- [CanPacific](http://www.canpacificcollege.com/toeictest/toeictextstart.php)
-- [IELTS Home of the IELTS English Language Test](https://www.ielts.org/)
-- [The TOEIC Listening and Reading test- about the Test of English for International Communication](https://www.examenglish.com/TOEIC/toeic_listening_and_reading.htm)
-## Links
-- [Inspire English](https://www.inspire-english.in.th/)
-- [Engoo](https://engoo.co.th/)
-- [The TOEIC Program | English-language Proficiency Tests](https://www.ets.org/toeic.html)
-- [บุฟเฟ่ต์คอร์สปูพื้นอังกฤษ by Minimal English](https://www.facebook.com/groups/englishbuffetbyminimalenglish/announcements)
-- [BBC Learning English - BBC Learning English - Homepage](https://www.bbc.com/learningenglish/)
-- [English Course](https://english-improve.com/p/c51207c1-684a-4131-b5ba-fe14a27ae53e/21170e90-da17-4822-8278-a67885e10851)
-- ภาษาอังกฤษเริ่มต้น ABC http://www.abcya.com/
-- ฝึกการฟังสำหรับมือใหม่ https://spotlightenglish.com/
-- ฝึกคำศัพท์ที่จำเป็นต่อชีวิตประจำวัน https://www.languageguide.org/english/vocabulary/
-- เรียนรู้ภาษาจากเรื่องสั้น http://www.cdlponline.org/
-- ฝึกแกรมม่าทุกระดับ http://a4esl.org/
-- ฝึกแกรมม่า, การออกเสียง, การอ่าน และคำศัพท์ มีภาพให้ดู และออกเสียงให้ฟัง http://easyworldofenglish.com
-- ฝึกการฟัง https://www.spellingcity.com/
-- แบบฝึกหัดการฟัง มี 7 ระดับ https://breakingnewsenglish.com/
-- เรียนรู้ภาษาอังกฤษจากเกมส์ http://www.eslcafe.com/
-- ฝึกการฟัง และมี Quiz เพื่อทดสอบว่าความเข้าใจ www.esl-lab.com
-- ฝึกการฟังและพูดตาม http://www.manythings.org/
-- เรียนรู้การอ่าน, การเขียน และคำศัพท์ http://www.tv411.org/
-- ฝึกสำเนียงอังกฤษ จากเรื่องที่น่าสนใจ ทันสมัย ได้ความรู้ http://www.bbc.co.uk/learningenglish/
-- เรียนรู้คำศัพท์ใหม่ๆ www.ted.com
-- ฝึกการฟัง เลือกระดับ level ได้ https://learnenglish.britishcouncil.org/
-- ฝึกทำข้อสอบ IELTS เป็น Section http://mini-ielts.com/
-- ฝึก IELTS และสอบจำลอง https://ieltsonlinetests.com/
-## CEFR
-- CEFR is the Common European Framework of Reference for Languages
-- Current English level: B1+ Intermediate [(Test here)](https://test.modulo-education.org/) 
-![Pasted image 20230403175313.png](/img/user/Attachments/Pasted%20image%2020230403175313.png)
 ## How to use A-AN
 ![Untitled](/img/user/Attachments/Untitled 52.png)
 ## Abbreviation

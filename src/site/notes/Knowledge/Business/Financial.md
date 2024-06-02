@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/knowledge/business/financial/","noteIcon":""}
 ---
 
-## Links
-- [ThaiPFA สถาบันแรกในการจัดอบรมหลักสูตรการวางแผนการเงินCFP,IC,IP](https://www.thaipfa.co.th/home)
-- [Financial Calculators](https://www.fncalculator.com/)
 ## Net worth
 - Asset
 	- Balance, Saving

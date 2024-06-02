@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/knowledge/technical/dev-ops/sre/","noteIcon":""}
 ---
 
-## Links
-- https://sre.google/sre-book/table-of-contents/
-- https://sre.google/workbook/table-of-contents/
-## SRE
+## Overview
 ![Attachments/Pasted image 20230307225538.png](/img/user/Attachments/Pasted%20image%2020230307225538.png)
 
 ![Attachments/Pasted image 20230308005725.png](/img/user/Attachments/Pasted%20image%2020230308005725.png)

@@ -2,11 +2,7 @@
 {"dg-publish":true,"permalink":"/knowledge/technical/dev-ops/fin-ops/","noteIcon":""}
 ---
 
-## Links
-- https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS175x+3T2022/home
-- https://training.linuxfoundation.org/certification/certified-finops/
 ## History
-
 Trailblazers like Adobe and Intuit, early scalers in public cloud, gave us our first glimpse into what would become FinOps around 2012 in San Francisco. A couple years later, we saw forward-looking enterprises in Australia, like Qantas and Tabcorp, begin a similar practice. In the UK, we saw enterprises like BP and Sainsbury’s as they developed this new approach across their cultures. FinOps came into being, slowly, all over the world as the financial and accountability challenges of cloud presented themselves at scale in each territory.
 
 "FinOps" is a term that has come late to the party. In the early days, companies were simply calling the practice "cloud cost management." Later, "cloud cost optimization" began to take hold, although it didn’t speak to the allocation challenges of cloud. AWS and other cloud providers began using the phrase "cloud financial management," a catch-all title that was eventually replaced by "FinOps." Choosing this compound term, which purposely echoes DevOps, brings the vital cross-functional and agile aspect of the movement to the forefront.

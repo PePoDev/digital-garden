@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/knowledge/technical/others/sql/","noteIcon":""}
 ---
 
-
 ## Data Definition Language (DDL)
 - CREATE TABLE
 - ALTER INDEX

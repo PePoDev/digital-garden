@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/knowledge/technical/others/twelve-factor-app/","noteIcon":""}
 ---
 
+## Rules
 1. Codebase
 2. Dependencies
 3. Config
