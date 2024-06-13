@@ -13,6 +13,7 @@
 - [[Knowledge/Technical/Others/Firebase\|Firebase]]
 - [[Knowledge/Technical/Others/Microservices\|Microservices]]
 - [[Knowledge/Technical/Others/NFRs\|NFRs]]
+- [[Knowledge/Technical/Others/OAuth\|OAuth]]
 - [[Knowledge/Technical/Others/Payment\|Payment]]
 - [[Knowledge/Technical/Others/SQL\|SQL]]
 - [[Knowledge/Technical/Others/SSL\|SSL]]

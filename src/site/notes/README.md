@@ -14,3 +14,5 @@
 - [[Knowledge/Knowledge\|Knowledge]]
 - [[Documents/Work/Work\|Work]]
 - [[Works/Works\|Works]]
+- [[Financials/Financials\|Financials]]
+- [[Vault\|Vault]]
