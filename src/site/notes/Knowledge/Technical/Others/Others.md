@@ -4,7 +4,7 @@
 
 ## Pages
 
-- [[Knowledge/Technical/Others/Bash\|Bash]]
+- [[Knowledge/Technical/Others/Bash & Shell\|Bash & Shell]]
 - [[Knowledge/Technical/Others/Business Continuity Plan\|Business Continuity Plan]]
 - [[Knowledge/Technical/Others/CAP Theorem\|CAP Theorem]]
 - [[Knowledge/Technical/Others/Cloudflare Zero Trust\|Cloudflare Zero Trust]]
