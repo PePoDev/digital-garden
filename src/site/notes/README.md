@@ -9,6 +9,5 @@
 - 🔒 [[Documents/Documents\|Documents]]
 - [[Health/Health\|Health]]
 - [[Home/Home\|Home]]
-- [[Financials/Financials\|Financials]]
 - [[Knowledge/Knowledge\|Knowledge]]
 - [[Works/Works\|Works]]

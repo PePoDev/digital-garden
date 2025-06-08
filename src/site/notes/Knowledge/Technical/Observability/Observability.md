@@ -5,13 +5,16 @@
 ## Pages
 
 - [[Knowledge/Technical/Observability/Datadog\|Datadog]]
+- [[Knowledge/Technical/Observability/LGTM Stack\|LGTM Stack]]
+- [[Knowledge/Technical/Observability/OpenTelemetry\|OpenTelemetry]]
 
 
 ## Monitoring vs Observability
-- Monitoring
+- Monitoring-
 	- Monitoring is the process of gathering data to understand what's going on inside of your infrastructure
 - Observability
 	- Observability is taking the same data that you've collected and moving beyond "What is happening?" to "Why is it happening?"
+![Observability-2024-11-05.png](/img/user/Attachments/Observability-2024-11-05.png)
 ## 3 Pillar of observability
 ![Observability-2024-06-13.png](/img/user/Attachments/Observability-2024-06-13.png)
 ### Metrics

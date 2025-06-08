@@ -7,6 +7,49 @@
 - [[Knowledge/English/Vocabulary\|Vocabulary]]
 
 
+## Prompts with AI
+### Conversation
+```
+Hi! My name is Pepo. Can we be friends?
+
+I'm looking to practice my English speaking skills. Can we have a friendly chat where you ask me questions and keep the conversation going?
+```
+### Vocabulary
+```
+I'm a beginner at the English language.
+
+I want you to quiz me on English vocabulary that I will get to use in the office
+
+Give me the definition and I will guess what it means
+```
+### Speaking
+```
+I want you to be my English-speaking coach and help me improve my English pronunciation and fluency.
+
+I want you to generate one English sentence at a time and wait for me to repeat after you. 
+
+The sentence should be random about everyday life and include some useful English expressions.
+
+ And after that, you can rate me on a scale of 1-10. How well do I do?
+```
+### Scenario (Stranger)
+```
+Please act as a talkative stranger and ask me some general questions to get to know each other. So you can start by saying hi to me and then just go on with the conversation.
+
+Do not use fancy words and keep your reply short, okay?
+```
+### Scenario (Interview)
+```
+Now, I want you to act as my job interviewer and ask me some of the most common interview questions about my qualifications and experience as a site reliability engineer.
+```
+### Deep Talk
+```
+I want to have a deep conversation or deep talk with you.
+
+So I want to ask you about religion and I have heard someone talk about them being atheists
+
+Can you tell me what that means exactly?
+```
 ## How to use A-AN
 ![Untitled](/img/user/Attachments/Untitled 52.png)
 ## Abbreviation

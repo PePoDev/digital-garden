@@ -8,10 +8,12 @@
 - **[[Knowledge/Technical/Algorithm/Algorithm\|Algorithm]]**
 - **[[Knowledge/Technical/Blockchain/Blockchain\|Blockchain]]**
 - **[[Knowledge/Technical/Cloud/Cloud\|Cloud]]**
+- **[[Knowledge/Technical/Data Steaming/Data Steaming\|Data Steaming]]**
 - **[[Knowledge/Technical/Database/Database\|Database]]**
 - **[[Knowledge/Technical/DevOps/DevOps\|DevOps]]**
 - **[[Knowledge/Technical/Hashicorp/Hashicorp\|Hashicorp]]**
 - **[[Knowledge/Technical/Kubernetes/Kubernetes\|Kubernetes]]**
+- **[[Knowledge/Technical/Mobile/Mobile\|Mobile]]**
 - **[[Knowledge/Technical/Network/Network\|Network]]**
 - **[[Knowledge/Technical/Observability/Observability\|Observability]]**
 - **[[Knowledge/Technical/Others/Others\|Others]]**
