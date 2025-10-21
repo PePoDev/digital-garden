@@ -199,3 +199,8 @@
 ![Pasted image 20230415214314.png](/img/user/Attachments/Pasted%20image%2020230415214314.png)
 ## Design
 ![Pasted image 20230415210545.png](/img/user/Attachments/Pasted%20image%2020230415210545.png)
+
+
+> [!NOTE] Quote
+> "Hope is not a strategy" - Traditional SRE saying
+

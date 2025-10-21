@@ -7,7 +7,7 @@
 - [[Blog/Blog\|Blog]]
 - 🔒 [[Templates/Templates\|Templates]]
 - 🔒 [[Documents/Documents\|Documents]]
-- [[Health/Health\|Health]]
+- [[Documents/Health/Health\|Health]]
 - [[Home/Home\|Home]]
 - [[Knowledge/Knowledge\|Knowledge]]
 - [[Works/Works\|Works]]
