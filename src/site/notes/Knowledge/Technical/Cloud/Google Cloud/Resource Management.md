@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/resource-management/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/resource-management/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Resource Manager

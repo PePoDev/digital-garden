@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/compliance/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/compliance/","noteIcon":"","dg-note-properties":{}}
 ---
 
 - Health Insurance Portability and Accountability Act (HIPAA)

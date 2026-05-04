@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/observability/open-telemetry/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/observability/open-telemetry/","noteIcon":"","dg-note-properties":{}}
 ---
 
 Collection of tools, APIs, and SDKs. Use it to instrument, generate, collect, and export telemetry data (metrics, logs, and traces) to analyze software performance and behavior

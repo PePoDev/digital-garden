@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/payment/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/payment/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## History of payments

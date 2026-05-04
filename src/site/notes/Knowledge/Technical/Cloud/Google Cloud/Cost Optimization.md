@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/cost-optimization/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/cost-optimization/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## GKE

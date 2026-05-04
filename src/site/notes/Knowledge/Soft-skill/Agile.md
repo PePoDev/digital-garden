@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/soft-skill/agile/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/soft-skill/agile/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Introduction

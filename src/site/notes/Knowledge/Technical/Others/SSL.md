@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/ssl/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/ssl/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Overview

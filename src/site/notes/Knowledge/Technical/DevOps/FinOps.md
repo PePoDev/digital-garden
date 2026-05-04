@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/dev-ops/fin-ops/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/dev-ops/fin-ops/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## History
@@ -12,12 +12,12 @@ And now, FinOps is being adopted worldwide. Recently, Nike posted a director-lev
 > In short: **FinOps ensures you get the most value out of every dollar you spend in the cloud**. It is the practice of bringing financial accountability to the variable spend model of cloud, enabling distributed teams to make business trade-offs between speed, cost, and quality.
 > 
 
-![Untitled](/img/user/Attachments/Untitled 54.png)
+![Untitled](/img/user/Attachments/Untitled%2054.png)
 
 No longer is a siloed procurement team identifying costs and signing off on them. Instead, a cross-functional FinOps team adopts a definitive series of procurement best practices, enabling them to pull together technology, business, and finance in order to optimize cloud vendor management, rate, and discounting.
 With FinOps, each operational team (workload, service, product owner) can access the near-real-time data they need to influence their spend and help them make intelligent decisions that ultimately result in efficient cloud costs balanced against the speed/performance and quality/availability of services.
 
-![Untitled](/img/user/Attachments/Untitled 1 8.png)
+![Untitled](/img/user/Attachments/Untitled%201%208.png)
 
 Much of the focus of companies adopting cloud is on Cost Optimization, but while Cost Optimization is indeed a key part of what FinOps focuses on, it is only a part of the picture.
 
@@ -56,7 +56,7 @@ A successful FinOps practice will focus on building a culture of accountability 
 
 ## ****The Rise of the Cloud Economy****
 
-![Untitled](/img/user/Attachments/Untitled 2 7.png)
+![Untitled](/img/user/Attachments/Untitled%202%207.png)
 
 Cloud spend has begun to hit a tipping point. This [Gartner forecast](https://www.gartner.com/en/newsroom/press-releases/2019-04-02-gartner-forecasts-worldwide-public-cloud-revenue-to-g) puts it at $360B by 2022. The actual number may end up even higher. In our experience, organizations underestimate their cloud spend and industry forecasts are regularly revised upward. Cloud spend is becoming a material part of organizational budgets, impacting both the bottom and top lines for enterprise P&Ls.
 
@@ -69,7 +69,7 @@ And with all that growth, the time-honored silos between tech, finance, and proc
 
 ## ****Addressing Cloud Challenges****
 
-![Untitled](/img/user/Attachments/Untitled 3 5.png)
+![Untitled](/img/user/Attachments/Untitled%203%205.png)
 
 Mastering the Cloud is not just a technology problem or a business problem or a system problem. It is very multi-faceted, involving people, process and technology, and ultimately affecting the culture of the organization as a whole.
 

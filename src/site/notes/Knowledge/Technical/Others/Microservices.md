@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/microservices/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/microservices/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Keys

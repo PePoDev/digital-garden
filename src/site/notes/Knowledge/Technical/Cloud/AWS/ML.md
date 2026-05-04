@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/ml/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/ml/","noteIcon":"","dg-note-properties":{}}
 ---
 

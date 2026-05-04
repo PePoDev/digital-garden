@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/soft-skill/emotional-intelligence/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/soft-skill/emotional-intelligence/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## What’s EQ?

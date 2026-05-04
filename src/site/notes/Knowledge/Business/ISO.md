@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/business/iso/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/business/iso/","noteIcon":"","dg-note-properties":{}}
 ---
 
 1. **มาตรฐาน** **ISO 9000 มาตรฐานระบบบริหารงานคุณภาพ**

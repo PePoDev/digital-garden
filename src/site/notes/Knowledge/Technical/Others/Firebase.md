@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/firebase/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/firebase/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Optimize

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/soft-skill/project-management/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/soft-skill/project-management/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Contents

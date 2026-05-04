@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/investment/mutual-fund/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/investment/mutual-fund/","noteIcon":"","dg-note-properties":{}}
 ---
 

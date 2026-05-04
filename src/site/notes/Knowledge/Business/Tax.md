@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/business/tax/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/business/tax/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## ฐานภาษี

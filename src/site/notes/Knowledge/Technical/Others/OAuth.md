@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/o-auth/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/o-auth/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Grant types

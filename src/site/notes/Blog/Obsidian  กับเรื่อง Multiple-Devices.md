@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/obsidian-multiple-devices/","noteIcon":""}
+{"dg-publish":true,"permalink":"/blog/obsidian-multiple-devices/","noteIcon":"","dg-note-properties":{"url-slug":"obsidian-multiple-device","sub-title":"การเซ็ทอัพ Obsidian ให้ใช้งานได้ในหลายๆอุปกรณ์","cover-picture":"https://cdn.hashnode.com/res/hashnode/image/upload/v1689139558133/9e007e52-cd05-4c5b-aeb7-00727329ff44.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp","publish":true}}
 ---
 
 ## เกริ่นนำกันซักนิด

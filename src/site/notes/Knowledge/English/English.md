@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/english/english/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/english/english/","noteIcon":"","dg-note-properties":{}}
 ---
 
+- https://www.efset.org/
 ## Pages
 
-- [[Knowledge/English/Vocabulary\|Vocabulary]]
+
 
 
 ## Prompts with AI
@@ -51,7 +52,7 @@ So I want to ask you about religion and I have heard someone talk about them bei
 Can you tell me what that means exactly?
 ```
 ## How to use A-AN
-![Untitled](/img/user/Attachments/Untitled 52.png)
+![Untitled](/img/user/Attachments/Untitled%2052.png)
 ## Abbreviation
 - WTF - What the fuck (freak/fudge)
 - LOL - Laugh of loud
@@ -124,4 +125,4 @@ Can you tell me what that means exactly?
 - Really
 - I don’t know
 
-![Untitled](/img/user/Attachments/Untitled 1 6.png)
+![Untitled](/img/user/Attachments/Untitled%201%206.png)

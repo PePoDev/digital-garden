@@ -1,34 +1,34 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/soft-skill/data-informed-design/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/soft-skill/data-informed-design/","noteIcon":"","dg-note-properties":{}}
 ---
 
 
-![Untitled](/img/user/Attachments/Untitled 2 2.png)
+![Untitled](/img/user/Attachments/Untitled%202%202.png)
 
-![Untitled](/img/user/Attachments/Untitled 4.png)
+![Untitled](/img/user/Attachments/Untitled%204.png)
 
-![Untitled](/img/user/Attachments/Untitled 1 1.png)
+![Untitled](/img/user/Attachments/Untitled%201%201.png)
 
-![Untitled](/img/user/Attachments/Untitled 2 1.png)
+![Untitled](/img/user/Attachments/Untitled%202%201.png)
 
-![Untitled](/img/user/Attachments/Untitled 3 1.png)
+![Untitled](/img/user/Attachments/Untitled%203%201.png)
 
-![Untitled](/img/user/Attachments/Untitled 4 1.png)
+![Untitled](/img/user/Attachments/Untitled%204%201.png)
 
-![Untitled](/img/user/Attachments/Untitled 5.png)
+![Untitled](/img/user/Attachments/Untitled%205.png)
 
-![Untitled](/img/user/Attachments/Untitled 6.png)
+![Untitled](/img/user/Attachments/Untitled%206.png)
 
-![Untitled](/img/user/Attachments/Untitled 7.png)
+![Untitled](/img/user/Attachments/Untitled%207.png)
 
-![Untitled](/img/user/Attachments/Untitled 8.png)
+![Untitled](/img/user/Attachments/Untitled%208.png)
 
-![Untitled](/img/user/Attachments/Untitled 9.png)
+![Untitled](/img/user/Attachments/Untitled%209.png)
 
-![Untitled](/img/user/Attachments/Untitled 10.png)
+![Untitled](/img/user/Attachments/Untitled%2010.png)
 
-![Untitled](/img/user/Attachments/Untitled 11.png)
+![Untitled](/img/user/Attachments/Untitled%2011.png)
 
-![Untitled](/img/user/Attachments/Untitled 12.png)
+![Untitled](/img/user/Attachments/Untitled%2012.png)
 
-![Untitled](/img/user/Attachments/Untitled 13.png)
+![Untitled](/img/user/Attachments/Untitled%2013.png)

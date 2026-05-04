@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/soft-skill/ikigai/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/soft-skill/ikigai/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Overview

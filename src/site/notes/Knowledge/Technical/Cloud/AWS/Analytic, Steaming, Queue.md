@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/analytic-steaming-queue/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/analytic-steaming-queue/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Kinesis

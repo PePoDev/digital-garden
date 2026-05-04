@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/dev-ops/sre/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/dev-ops/sre/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Overview

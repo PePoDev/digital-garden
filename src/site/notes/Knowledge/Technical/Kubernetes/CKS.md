@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/kubernetes/cks/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/kubernetes/cks/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Courses

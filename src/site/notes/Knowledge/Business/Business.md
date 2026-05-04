@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/business/business/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/business/business/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Pages
@@ -10,6 +10,6 @@
 - [[Knowledge/Business/Leadership\|Leadership]]
 - [[Knowledge/Business/MBA\|MBA]]
 - [[Knowledge/Business/Start-up\|Start-up]]
-- [[Knowledge/Business/Tax\|Tax]]
+- [[Knowledge/Business/Tax\|Knowledge/Business/Tax]]
 
 

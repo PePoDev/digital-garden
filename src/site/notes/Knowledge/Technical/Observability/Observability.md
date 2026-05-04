@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/observability/observability/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/observability/observability/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Pages

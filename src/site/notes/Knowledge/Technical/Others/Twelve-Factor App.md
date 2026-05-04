@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/twelve-factor-app/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/twelve-factor-app/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Rules

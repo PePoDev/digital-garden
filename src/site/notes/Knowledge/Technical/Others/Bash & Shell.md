@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/bash-and-shell/","noteIcon":""}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/bash-and-shell/","noteIcon":"","dg-note-properties":{}}
 ---
 
 ## Variables
