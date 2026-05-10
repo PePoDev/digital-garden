@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/blog/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/blog/blog/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Articles

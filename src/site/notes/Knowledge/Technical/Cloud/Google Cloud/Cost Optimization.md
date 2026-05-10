@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/cost-optimization/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/cost-optimization/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## GKE

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/security/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/security/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Cloud KMS

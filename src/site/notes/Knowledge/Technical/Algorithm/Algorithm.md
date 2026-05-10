@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/algorithm/algorithm/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/algorithm/algorithm/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Pages

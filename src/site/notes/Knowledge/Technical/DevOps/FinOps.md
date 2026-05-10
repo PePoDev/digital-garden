@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/dev-ops/fin-ops/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/dev-ops/fin-ops/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## History

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/do-the-fun-chaos-engineering-with-gamification/","dg-note-properties":{"url-slug":"do-the-fun-chaos-engineering-with-gamification","sub-title":"Is Chaos Engineering fun? Nani!!","cover-picture":"https://cdn.hashnode.com/res/hashnode/image/upload/v1651863348760/tEoT2O2Ce.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp","publish":true}}
+{"url-slug":"do-the-fun-chaos-engineering-with-gamification","sub-title":"Is Chaos Engineering fun? Nani!!","cover-picture":"https://cdn.hashnode.com/res/hashnode/image/upload/v1651863348760/tEoT2O2Ce.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp","publish":true,"dg-publish":true,"permalink":"/blog/do-the-fun-chaos-engineering-with-gamification/","dgPassFrontmatter":true,"dg-note-properties":{"url-slug":"do-the-fun-chaos-engineering-with-gamification","sub-title":"Is Chaos Engineering fun? Nani!!","cover-picture":"https://cdn.hashnode.com/res/hashnode/image/upload/v1651863348760/tEoT2O2Ce.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp","publish":true}}
 ---
 
 > _disclaimer: This post focuses on how fun chaos engineering can be. This does not cover the principal and real practicalities of chaos engineering._

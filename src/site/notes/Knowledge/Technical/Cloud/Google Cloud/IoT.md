@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/io-t/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/io-t/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## IoT Core

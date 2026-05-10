@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/english/english/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/english/english/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 - https://www.efset.org/

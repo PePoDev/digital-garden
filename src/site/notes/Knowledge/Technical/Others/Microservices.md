@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/microservices/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/microservices/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Keys

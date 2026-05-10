@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/investment/investment/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/investment/investment/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

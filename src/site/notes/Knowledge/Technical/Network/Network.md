@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/network/network/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/network/network/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Pages

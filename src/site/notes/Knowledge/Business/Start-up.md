@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/business/start-up/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/business/start-up/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

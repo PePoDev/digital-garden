@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/mobile/flutter/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/mobile/flutter/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 

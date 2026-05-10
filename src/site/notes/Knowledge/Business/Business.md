@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/business/business/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/business/business/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Pages

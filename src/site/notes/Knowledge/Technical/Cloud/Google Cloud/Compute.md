@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/compute/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/compute/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/data-steaming/kafka/kafka/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/data-steaming/kafka/kafka/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Introduction

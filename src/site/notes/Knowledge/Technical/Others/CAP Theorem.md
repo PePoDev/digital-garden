@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/cap-theorem/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/cap-theorem/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

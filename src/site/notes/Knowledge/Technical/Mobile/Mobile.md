@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/mobile/mobile/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/mobile/mobile/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Pages

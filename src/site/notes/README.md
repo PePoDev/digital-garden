@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"title":null,"dg-publish":true,"dg-home":true,"dg-hide":"false","dg-show-inline-title":false,"dg-show-file-tree":false,"dg-show-local-graph":false,"dg-hide-in-graph":false,"permalink":"/readme/","hide":"false","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"title":null}}
 ---
 
 ## 🌱 Welcome to My Digital Garden

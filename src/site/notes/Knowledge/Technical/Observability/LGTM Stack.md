@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/observability/lgtm-stack/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/observability/lgtm-stack/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Components

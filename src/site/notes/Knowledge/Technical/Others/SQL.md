@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/sql/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/sql/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Data Definition Language (DDL)

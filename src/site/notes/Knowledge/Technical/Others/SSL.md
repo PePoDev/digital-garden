@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/ssl/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/ssl/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Overview

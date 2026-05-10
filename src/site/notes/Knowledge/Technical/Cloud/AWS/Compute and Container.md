@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/compute-and-container/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/compute-and-container/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## EC2

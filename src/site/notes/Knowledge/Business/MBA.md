@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/business/mba/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/business/mba/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

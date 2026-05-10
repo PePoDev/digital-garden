@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/storage/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/storage/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## S3

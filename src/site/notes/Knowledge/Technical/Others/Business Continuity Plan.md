@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/business-continuity-plan/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/business-continuity-plan/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Overview

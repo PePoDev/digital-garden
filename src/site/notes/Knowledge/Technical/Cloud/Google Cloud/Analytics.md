@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/analytics/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/analytics/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## BigQuery

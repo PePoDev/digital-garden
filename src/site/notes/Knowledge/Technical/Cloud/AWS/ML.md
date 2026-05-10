@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/ml/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/ml/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/monitoring/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/monitoring/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Google Cloud Operations suite

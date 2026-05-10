@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/english/vocabulary/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/english/vocabulary/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## ควบคำ

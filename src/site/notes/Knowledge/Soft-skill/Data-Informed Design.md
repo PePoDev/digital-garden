@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/soft-skill/data-informed-design/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/soft-skill/data-informed-design/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

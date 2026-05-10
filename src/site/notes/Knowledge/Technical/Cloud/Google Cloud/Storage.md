@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/storage/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/storage/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Storage Services

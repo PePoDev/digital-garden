@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/business/financial/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/business/financial/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Net worth

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/migration/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/migration/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Migrate for Compute Engine (MFCE)

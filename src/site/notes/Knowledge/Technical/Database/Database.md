@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/database/database/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/database/database/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Pages

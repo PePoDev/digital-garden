@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/soft-skill/soft-skill/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/soft-skill/soft-skill/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Pages
