@@ -1,5 +1,5 @@
 ---
-{"title":"PePo Garden","dg-publish":true,"dg-home":true,"dg-hide":"false","dg-show-inline-title":"false","dg-show-file-tree":"false","dg-show-local-graph":"false","dg-hide-in-graph":"false","permalink":"/readme/","hide":"false","hideInGraph":"false","tags":["gardenEntry"],"dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgPassFrontmatter":true,"dg-note-properties":{"title":"PePo Garden"}}
+{"title":"PePo Garden","dg-publish":true,"dg-home":true,"dg-hide":"false","dg-show-inline-title":"false","dg-show-file-tree":"true","dg-show-local-graph":"true","dg-hide-in-graph":"false","permalink":"/readme/","hide":"false","hideInGraph":"false","tags":["gardenEntry"],"dgShowLocalGraph":"true","dgShowInlineTitle":"false","dgShowFileTree":"true","dgPassFrontmatter":true,"dg-note-properties":{"title":"PePo Garden"}}
 ---
 
 ## 🌱 Welcome to My Digital Garden
