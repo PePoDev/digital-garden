@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/iam/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/aws/iam/","dg-note-properties":{}}
 ---
 
 ## IAM: Users & Groups

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/business/leadership/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/business/leadership/","dg-note-properties":{}}
 ---
 
 ## Links

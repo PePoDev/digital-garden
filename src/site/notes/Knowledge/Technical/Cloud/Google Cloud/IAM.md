@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/iam/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/iam/","dg-note-properties":{}}
 ---
 
 ## Overview

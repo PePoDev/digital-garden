@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/arch-linux-wsl/","noteIcon":"","dg-note-properties":{"url-slug":"arch-linux-wsl","sub-title":"วิธีการติดตั้ง Linux distro ใดๆก็ตามที่เราต้องการลงบน WSL","cover-picture":"https://cdn.hashnode.com/res/hashnode/image/upload/v1703266246115/f52421dd-89d5-4f42-a460-5e971498c57f.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp","publish":true}}
+{"dg-publish":true,"permalink":"/blog/arch-linux-wsl/","dg-note-properties":{"url-slug":"arch-linux-wsl","sub-title":"วิธีการติดตั้ง Linux distro ใดๆก็ตามที่เราต้องการลงบน WSL","cover-picture":"https://cdn.hashnode.com/res/hashnode/image/upload/v1703266246115/f52421dd-89d5-4f42-a460-5e971498c57f.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp","publish":true}}
 ---
 
 ## เกริ่นนำ

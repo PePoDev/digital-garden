@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/soft-skill/productivity/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/soft-skill/productivity/","dg-note-properties":{}}
 ---
 
 ## Chronotype

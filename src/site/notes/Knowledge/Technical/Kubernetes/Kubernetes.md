@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/kubernetes/kubernetes/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/kubernetes/kubernetes/","dg-note-properties":{}}
 ---
 
 ## Pages

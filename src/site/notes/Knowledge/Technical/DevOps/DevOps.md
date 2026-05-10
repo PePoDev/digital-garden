@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/dev-ops/dev-ops/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/dev-ops/dev-ops/","dg-note-properties":{}}
 ---
 
 ## Pages

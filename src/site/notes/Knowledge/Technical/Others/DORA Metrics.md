@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/dora-metrics/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/dora-metrics/","dg-note-properties":{}}
 ---
 
 ## DORA

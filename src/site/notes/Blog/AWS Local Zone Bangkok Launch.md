@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/aws-local-zone-bangkok-launch/","noteIcon":"","dg-note-properties":{"url-slug":"aws-local-zone-bangkok-launch","sub-title":"Local zone คืออะไรและเมื่อไหร่ถึงควรใช้กันนะ?","cover-picture":"https://cdn.hashnode.com/res/hashnode/image/upload/v1676303064089/130dd7b7-8617-40a4-8334-0e406a19f70d.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp","publish":true}}
+{"dg-publish":true,"permalink":"/blog/aws-local-zone-bangkok-launch/","dg-note-properties":{"url-slug":"aws-local-zone-bangkok-launch","sub-title":"Local zone คืออะไรและเมื่อไหร่ถึงควรใช้กันนะ?","cover-picture":"https://cdn.hashnode.com/res/hashnode/image/upload/v1676303064089/130dd7b7-8617-40a4-8334-0e406a19f70d.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp","publish":true}}
 ---
 
 พอดีได้มีโอกาสไปร่วมงานเปิดตัว AWS Bangkok Local zone ที่โรงแรม Anantara Siam Bangkok Hotel เมื่อวันที่ 31 มกราที่ผ่านมา เลยลองสรุปสาระสำคัญจากงานมาฝากครับ

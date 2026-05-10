@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/knowledge/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/knowledge/","dg-note-properties":{}}
 ---
 
 ## Pages

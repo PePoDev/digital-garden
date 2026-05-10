@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/english/english/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/english/english/","dg-note-properties":{}}
 ---
 
 - https://www.efset.org/
 ## Pages
 
-
+- [[Knowledge/English/Vocabulary\|Vocabulary]]
 
 
 ## Prompts with AI

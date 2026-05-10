@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/google-cloud/","noteIcon":"","dg-note-properties":{"candidate-id":"547c5bbe-4d3b-4dbf-b066-6c60e3770e75"}}
+{"dg-publish":true,"permalink":"/knowledge/technical/cloud/google-cloud/google-cloud/","dg-note-properties":{"candidate-id":"547c5bbe-4d3b-4dbf-b066-6c60e3770e75"}}
 ---
 
 ## Links
@@ -10,15 +10,11 @@
 - [[Knowledge/Technical/Cloud/Google Cloud/Analytics\|Analytics]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Anthos\|Anthos]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Architecture Design\|Architecture Design]]
-- [[Knowledge/Technical/Cloud/Google Cloud/Automation\|Automation]]
-- [[Knowledge/Technical/Cloud/Google Cloud/Compliance\|Compliance]]
-- [[Knowledge/Technical/Cloud/Google Cloud/Compute\|Compute]]
-- [[Knowledge/Technical/Cloud/Google Cloud/Cost Optimization\|Cost Optimization]]
 - [[Knowledge/Technical/Cloud/Google Cloud/IAM\|IAM]]
 - [[Knowledge/Technical/Cloud/Google Cloud/IoT\|IoT]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Migration\|Migration]]
 - [[Knowledge/Technical/Cloud/Google Cloud/ML\|ML]]
-- [[Knowledge/Technical/Cloud/Google Cloud/Monitoring\|Knowledge/Technical/Cloud/Google Cloud/Monitoring]]
+- [[Knowledge/Technical/Cloud/Google Cloud/Monitoring\|Monitoring]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Network\|Network]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Organization\|Organization]]
 - [[Knowledge/Technical/Cloud/Google Cloud/Resource Management\|Resource Management]]

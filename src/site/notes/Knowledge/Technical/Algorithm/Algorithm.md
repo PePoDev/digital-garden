@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/algorithm/algorithm/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/algorithm/algorithm/","dg-note-properties":{}}
 ---
 
 ## Pages

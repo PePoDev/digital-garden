@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/software-architecture/c4-model/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/software-architecture/c4-model/","dg-note-properties":{}}
 ---
 
 ## Introduction

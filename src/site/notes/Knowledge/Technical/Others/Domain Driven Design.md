@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/others/domain-driven-design/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/others/domain-driven-design/","dg-note-properties":{}}
 ---
 
 # Problem Space vs Solution Space

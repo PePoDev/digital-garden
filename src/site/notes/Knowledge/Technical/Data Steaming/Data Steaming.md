@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge/technical/data-steaming/data-steaming/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/knowledge/technical/data-steaming/data-steaming/","dg-note-properties":{}}
 ---
 
 ## Pages
