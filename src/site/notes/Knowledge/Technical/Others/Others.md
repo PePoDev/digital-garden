@@ -19,5 +19,6 @@
 - [[Knowledge/Technical/Others/SQL\|SQL]]
 - [[Knowledge/Technical/Others/SSL\|SSL]]
 - [[Knowledge/Technical/Others/Twelve-Factor App\|Twelve-Factor App]]
+- [[Knowledge/Technical/Others/Vault Storage Management\|Vault Storage Management]]
 
 

@@ -5,18 +5,29 @@
 ## Pages
 
 - [[Knowledge/Technical/Cloud/AWS/Analytic, Steaming, Queue\|Analytic, Steaming, Queue]]
+- [[Knowledge/Technical/Cloud/AWS/AWS Billing Conductor\|AWS Billing Conductor]]
 - [[Knowledge/Technical/Cloud/AWS/Compute and Container\|Compute and Container]]
 - [[Knowledge/Technical/Cloud/AWS/Developer Experience\|Developer Experience]]
 - [[Knowledge/Technical/Cloud/AWS/EKS Security\|EKS Security]]
 - [[Knowledge/Technical/Cloud/AWS/IAM\|IAM]]
+- [[Leapp and AWS CLI Profile Management\|Leapp and AWS CLI Profile Management]]
 - [[Knowledge/Technical/Cloud/AWS/ML\|ML]]
 - [[Knowledge/Technical/Cloud/AWS/Monitoring\|Monitoring]]
 - [[Knowledge/Technical/Cloud/AWS/Network\|Network]]
 - [[Knowledge/Technical/Cloud/AWS/Operations\|Operations]]
+- [[Knowledge/Technical/Cloud/AWS/Proportional RI and Savings Plans Chargeback\|Proportional RI and Savings Plans Chargeback]]
 - [[Knowledge/Technical/Cloud/AWS/Security\|Security]]
 - [[Knowledge/Technical/Cloud/AWS/Serverless\|Serverless]]
 - [[Knowledge/Technical/Cloud/AWS/Storage\|Storage]]
 
+
+## Profile Management
+- [[Leapp and AWS CLI Profile Management\|Leapp and AWS CLI Profile Management]] — session management, credential storage and how both tools share AWS profiles.
+
+## Financial Management
+- [[Knowledge/Technical/Cloud/AWS/AWS Billing Conductor\|AWS Billing Conductor]] — model pro forma showback and chargeback costs.
+- [[Knowledge/Technical/Cloud/AWS/Proportional RI and Savings Plans Chargeback\|Proportional RI and Savings Plans Chargeback]] — allocate management-held commitment savings from CUR 2.0; includes sample implementation review items.
+- [[Knowledge/Technical/DevOps/FinOps\|FinOps]] — cloud financial accountability and cost allocation.
 
 ## Links
 - [AWS training and certification](https://www.aws.training/Certification)

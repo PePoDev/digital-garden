@@ -48,11 +48,13 @@
 	- Convertible Reserved Instances
 		- Can change the EC2 instance type, instance family, OS, scope, and tenancy
 		- Up to 66% discount
-- Saving Plans (1 & 3 years)
-	- Up to 72% same as RI
-	- Commit to a certain type of usage ($10/hour for 1 or 3 years)
-	- Usage beyond the commit is billed at the On-Demand price
-	- Locked to a specific instance family & AWS region
+- Savings Plans
+	- Commit to eligible usage at a dollar-per-hour rate; uncovered usage is billed at the On-Demand price
+	- Compute Savings Plans cover EC2 across instance families and regions, plus Fargate and Lambda
+	- EC2 Instance Savings Plans are tied to one instance family in one AWS region; savings can reach 72%
+	- Other plan types include SageMaker AI Savings Plans and Database Savings Plans
+	- [AWS Savings Plans types](https://docs.aws.amazon.com/savingsplans/latest/userguide/plan-types.html) (checked 2026-09-30)
+	- [[Knowledge/Technical/Cloud/AWS/Proportional RI and Savings Plans Chargeback\|Proportional RI and Savings Plans Chargeback]] explains allocating centrally purchased RI/SP savings through [[Knowledge/Technical/Cloud/AWS/AWS Billing Conductor\|AWS Billing Conductor]]
 - Spot Instances
 	- up to 90% discount (Most cost-efficient instances)
 	- Instances can lose at any point in time if your max price is less than the current spot price

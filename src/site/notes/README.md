@@ -3,6 +3,7 @@
 ---
 
 ## 🌱 Welcome to My Digital Garden
+
 This space is a living collection of my thoughts, notes, projects, and ongoing explorations. Unlike a traditional blog, a digital garden embraces the iterative nature of learning—ideas are planted, nurtured, and allowed to grow over time. Here, you’ll find a mix of finished reflections, works-in-progress, and interconnected concepts that shape my understanding of technology. Feel free to wander, explore, and see how ideas connect!
 
 ## 🔗 External Links

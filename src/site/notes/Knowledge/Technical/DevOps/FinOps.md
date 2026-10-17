@@ -23,6 +23,12 @@ Much of the focus of companies adopting cloud is on Cost Optimization, but while
 
 A successful FinOps practice will focus on building a culture of accountability within the organization, one in which everyone works collaboratively to meet common goals, to understand the organization’s cloud use, to report on it effectively and transparently, and, yes, to optimize cost and usage to achieve the best value for each cloud dollar spent.
 
+## AWS Commitment Cost Allocation
+
+Central RI/Savings Plans purchases need an allocation policy that connects discounts to the accounts consuming covered usage. [[Knowledge/Technical/Cloud/AWS/Proportional RI and Savings Plans Chargeback\|Proportional RI and Savings Plans Chargeback]] calculates realized savings from standard CUR 2.0 data as on-demand cost minus effective cost, then models credits in [[Knowledge/Technical/Cloud/AWS/AWS Billing Conductor\|AWS Billing Conductor]]. These credits affect pro forma reporting; the AWS invoice remains unchanged. Unused commitment costs require a separate policy.
+
+The source summary records implementation gaps in the published sample, including account targeting and monthly orchestration. [AWS source article](https://aws.amazon.com/blogs/aws-cloud-financial-management/implementing-proportional-reserved-instance-and-savings-plans-chargeback-with-aws-billing-conductor/) (ingested 2026-09-30).
+
 ## ****Principles****
 
 1. Teams need to collaborate.
